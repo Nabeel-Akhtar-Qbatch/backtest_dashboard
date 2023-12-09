@@ -20,6 +20,17 @@ export default function Home() {
       maximumConsecutiveLoses: 12,
       relativeDropdown: 12,
     },
+    2: {
+      grossProfit: 12,
+      grossLoss: 12,
+      netProfit: 12,
+      totalTrades: 12,
+      longPositionNetResult: 12,
+      shortPositionNetResult: 12,
+      maximumConsecutiveWins: 12,
+      maximumConsecutiveLoses: 12,
+      relativeDropdown: 12,
+    },
   };
 
   const columns = ["1.5", "2", "3", "5"];
