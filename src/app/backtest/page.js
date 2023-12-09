@@ -45,27 +45,57 @@ export default function Home() {
     { name: "Maximum Consecutive Wins", key: "maximumConsecutiveLoses" },
     { name: "Relative Drawdown", key: "relativeDropdown" },
   ];
-  return (
-    <Table>
-      <TableHeader>
-        <TableRow>
-          <TableHead></TableHead>
+  const styles = {
+    header: {
+      backgroundColor: "#0070f3",
+      color: "white",
+      padding: "15px",
+      fontSize: "18px",
+      fontWeight: "bold",
+      textAlign: "center",
+    },
+    cell: {
+      padding: "10px",
+      fontSize: "14px",
+      borderBottom: "1px solid #ddd",
+    },
+    row: {
+      backgroundColor: "#F7F7F7",
+    },
+    alternateRow: {
+      backgroundColor: "white",
+    },
+  };
 
-          {columns.map((column) => (
-            <TableHead>{column}R</TableHead>
-          ))}
-        </TableRow>
-      </TableHeader>
-      <TableBody>
-        {rows.map(({ name, key }) => (
+  return (
+    <div style={{ overflowX: "auto" }}>
+      <Table>
+        <TableHeader>
           <TableRow>
-            <TableCell>{name}</TableCell>
-            {columns.map((column) => (
-              <TableCell>{data[column]?.[key]}</TableCell>
+            <TableHead style={styles.header}></TableHead>
+            {columns.map((column, index) => (
+              <TableHead key={index} style={styles.header}>
+                {column}R
+              </TableHead>
             ))}
           </TableRow>
-        ))}
-      </TableBody>
-    </Table>
+        </TableHeader>
+        <TableBody>
+          {rows.map(({ name, key }, index) => (
+            <TableRow
+              key={index}
+              style={index % 2 === 0 ? styles.row : styles.alternateRow}
+            >
+              <TableCell style={styles.cell}>{name}</TableCell>
+              {columns.map((column, colIndex) => (
+                <TableCell key={colIndex} style={styles.cell}>
+                  {data[column]?.[key]}
+                </TableCell>
+              ))}
+            </TableRow>
+          ))}
+        </TableBody>
+      </Table>
+    </div>
   );
 }

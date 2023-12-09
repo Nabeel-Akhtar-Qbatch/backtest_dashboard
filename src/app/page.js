@@ -5,7 +5,7 @@ export default function Home() {
     container: {
       textAlign: "center",
       padding: "50px",
-      backgroundColor: "#f0f4f7",
+      background: "linear-gradient(to right, #83a4d4, #b6fbff)", // Gradient background
       fontFamily: "Arial, sans-serif",
     },
     title: {
@@ -28,6 +28,7 @@ export default function Home() {
       borderRadius: "8px",
       padding: "10px 20px",
       boxShadow: "0px 2px 4px rgba(0, 0, 0, 0.1)",
+      transition: "transform 0.2s", // Smooth transition for hover effect
     },
     link: {
       display: "block",
@@ -38,6 +39,11 @@ export default function Home() {
       textDecoration: "none",
       transition: "background-color 0.3s, transform 0.2s",
       fontWeight: "bold",
+      // Hover effect for the links
+      ":hover": {
+        backgroundColor: "#0056b3",
+        transform: "scale(1.05)",
+      },
     },
   };
 

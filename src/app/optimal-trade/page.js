@@ -114,7 +114,7 @@ export default function Home() {
         <TableHeader>
           <TableRow>
             <TableHead style={styles.header} colSpan="2">
-              Strategy
+              Stop Loss
             </TableHead>
             {columns.map((column) => (
               <TableHead

@@ -76,42 +76,84 @@ export default function Home() {
     },
   ];
   const columns = ["1.5", "2", "3", "5"];
+  const subHeaders = ["Trade Count", "Net Profit"];
+
+  const styles = {
+    tableHead: {
+      backgroundColor: "#007bff",
+      color: "white",
+      padding: "10px",
+      fontSize: "18px",
+      fontWeight: "bold",
+    },
+    subHeader: {
+      backgroundColor: "#e2e3e5",
+      color: "black",
+      padding: "10px",
+      fontSize: "16px",
+      fontWeight: "bold",
+    },
+    tableRow: {
+      borderBottom: "1px solid #dee2e6",
+    },
+    tableCell: {
+      padding: "10px",
+      textAlign: "center",
+      fontSize: "14px",
+    },
+    timeCell: {
+      backgroundColor: "#f8f9fa",
+      fontWeight: "bold",
+    },
+  };
 
   return (
     <Table>
       <TableHeader>
         <TableRow>
-          <TableHead>UTC-2</TableHead>
+          <TableHead style={styles.tableHead}>UTC-2</TableHead>
           {columns.map((column) => (
-            <TableHead className="text-center" colSpan={2}>
+            <TableHead
+              key={column}
+              className="text-center"
+              style={styles.tableHead}
+              colSpan={subHeaders.length}
+            >
               {column}R
             </TableHead>
           ))}
         </TableRow>
+        <TableRow>
+          {columns.map((column) =>
+            subHeaders.map((subHeader) => (
+              <TableCell
+                key={`${column}-${subHeader}`}
+                style={styles.subHeader}
+              >
+                {subHeader}
+              </TableCell>
+            ))
+          )}
+        </TableRow>
       </TableHeader>
       <TableBody>
-        <TableRow>
-          <TableCell />
-          <TableCell
-            className="text-center text-2xl font-bold"
-            colSpan={columns.length}
-          >
-            Long
-          </TableCell>
-        </TableRow>
-        {data.map(({ name, data }, index) => (
-          <TableRow key={index}>
-            <TableCell>{name}</TableCell>
-            {columns.map((column, index) => (
-              <>
-                <TableCell className="text-center">
-                  <div>{data[column]?.tradeCount}</div>
+        {data.map(({ name, data }, rowIndex) => (
+          <TableRow key={name} style={styles.tableRow}>
+            <TableCell style={{ ...styles.tableCell, ...styles.timeCell }}>
+              {name}
+            </TableCell>
+            {columns.flatMap((column) =>
+              subHeaders.map((_, subIndex) => (
+                <TableCell
+                  key={`${rowIndex}-${column}-${subIndex}`}
+                  style={styles.tableCell}
+                >
+                  {subIndex === 0
+                    ? data[column]?.tradeCount
+                    : data[column]?.netProfit}
                 </TableCell>
-                <TableCell className="text-center">
-                  <div>{data[column]?.netProfit}</div>
-                </TableCell>
-              </>
-            ))}
+              ))
+            )}
           </TableRow>
         ))}
       </TableBody>
