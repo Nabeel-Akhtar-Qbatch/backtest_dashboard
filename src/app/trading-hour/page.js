@@ -14,11 +14,11 @@ export default function Home() {
       data: {
         1.5: {
           tradeCount: 12,
-          netProfit: 12,
+          netProfit: 24,
         },
         2: {
-          tradeCount: 12,
-          netProfit: 12,
+          tradeCount: 112212,
+          netProfit: 12354,
         },
       },
     },
@@ -90,10 +90,19 @@ export default function Home() {
         </TableRow>
       </TableHeader>
       <TableBody>
-        {data.map(({ name, data }) => (
-          <TableRow>
+        <TableRow>
+          <TableCell />
+          <TableCell
+            className="text-center text-2xl font-bold"
+            colSpan={columns.length}
+          >
+            Long
+          </TableCell>
+        </TableRow>
+        {data.map(({ name, data }, index) => (
+          <TableRow key={index}>
             <TableCell>{name}</TableCell>
-            {columns.map((column) => (
+            {columns.map((column, index) => (
               <>
                 <TableCell className="text-center">
                   <div>{data[column]?.tradeCount}</div>
