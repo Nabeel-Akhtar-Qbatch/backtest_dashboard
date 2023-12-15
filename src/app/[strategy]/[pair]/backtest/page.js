@@ -8,11 +8,11 @@ import {
 } from "@/components/ui/table";
 import fs from "fs";
 
-export default function Home() {
-  JSON.parse(fs.readFileSync(""));
+export default function Home(props) {
+  const { params: { strategy, pair } } = props;
   const data = JSON.parse(
-    fs.readFileSync("/Users/mac/Desktop/backtest_dashboard/src/data1.json")
-  );
+    fs.readFileSync("src/app/[strategy]/[pair]/backtest/data1.json")
+  )[strategy][pair].backtesting.data;
   const columns = ["1.5", "2", "3", "5"];
   const rows = [
     { name: "Gross Profit", key: "grossProfit" },

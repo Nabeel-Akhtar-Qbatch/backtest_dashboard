@@ -46,7 +46,7 @@ export default function Home(props) {
       },
     },
   };
-  console.log(props);
+
   const strategy = props.params.strategy;
 
   const pairs = [

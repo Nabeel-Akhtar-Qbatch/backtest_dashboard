@@ -47,8 +47,6 @@ export default function Home(props) {
     },
   };
   const pair = props.params.pair;
-  console.log(pair);
-  //   console.log(pair[2].split("%2C").join("/"))
 
   return (
     <div style={styles.container}>
