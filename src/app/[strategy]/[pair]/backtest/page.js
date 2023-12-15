@@ -12,7 +12,8 @@ export default function Home(props) {
   const { params: { strategy, pair } } = props;
   const data = JSON.parse(
     fs.readFileSync("src/app/[strategy]/[pair]/backtest/data1.json")
-  )[strategy][pair].backtesting.data;
+  )[strategy]?.[pair].backtesting.data || {};
+  console.log(data)
   const columns = ["1.5", "2", "3", "5"];
   const rows = [
     { name: "Gross Profit", key: "grossProfit" },

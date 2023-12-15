@@ -33,17 +33,11 @@ export default function Home(props) {
     link: {
       display: "block",
       padding: "10px 15px",
-      backgroundColor: "#0070f3",
       color: "white",
       borderRadius: "5px",
       textDecoration: "none",
       transition: "background-color 0.3s, transform 0.2s",
       fontWeight: "bold",
-      // Hover effect for the links
-      ":hover": {
-        backgroundColor: "#0056b3",
-        transform: "scale(1.05)",
-      },
     },
   };
   const pair = props.params.pair;
@@ -54,27 +48,27 @@ export default function Home(props) {
       <ul style={styles.list}>
         <li style={styles.listItem}>
           <Link href={`${pair}/backtest`} legacyBehavior>
-            <a style={styles.link}>Backtest</a>
+            <a style={styles.link} className="hover:bg-black bg-blue-500">Backtest</a>
           </Link>
         </li>
         <li style={styles.listItem}>
           <Link href={`${pair}/optimal-trade`} legacyBehavior>
-            <a style={styles.link}>Optimal Trade</a>
+            <a style={styles.link} className="hover:bg-black bg-blue-500">Optimal Trade</a>
           </Link>
         </li>
         <li style={styles.listItem}>
           <Link href={`${pair}/trading-day`} legacyBehavior>
-            <a style={styles.link}>Trading Day</a>
+            <a style={styles.link} className="hover:bg-black bg-blue-500">Trading Day</a>
           </Link>
         </li>
         <li style={styles.listItem}>
           <Link href={`${pair}/trading-hour`} legacyBehavior>
-            <a style={styles.link}>Trading Hour</a>
+            <a style={styles.link} className="hover:bg-black bg-blue-500">Trading Hour</a>
           </Link>
         </li>
         <li style={styles.listItem}>
           <Link href={`${pair}/trading-month`} legacyBehavior>
-            <a style={styles.link}>Trading Month</a>
+            <a style={styles.link} className="hover:bg-black bg-blue-500">Trading Month</a>
           </Link>
         </li>
       </ul>
