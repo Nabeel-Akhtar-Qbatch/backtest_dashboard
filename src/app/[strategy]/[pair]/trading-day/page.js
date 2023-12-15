@@ -8,6 +8,16 @@ import {
 } from "@/components/ui/table";
 
 export default function Home() {
+  return <>
+    <h1 className="text-4xl text-center font-extrabold dark:text-white">Long</h1>
+    <TableComponent />
+    <h1 className="text-4xl text-center font-extrabold dark:text-white">Short</h1>
+    <TableComponent />
+  </>
+
+}
+
+const TableComponent = () => {
   const data = [
     {
       name: "Monday",

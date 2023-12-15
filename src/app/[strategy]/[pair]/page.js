@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export default function Home() {
+export default function Home(props) {
   const styles = {
     container: {
       textAlign: "center",
@@ -46,29 +46,37 @@ export default function Home() {
       },
     },
   };
+  const pair = props.params.pair;
+  console.log(pair)
+//   console.log(pair[2].split("%2C").join("/"))
 
   return (
     <div style={styles.container}>
       <h1 style={styles.title}>Strategies Backtesting Dashboard</h1>
       <ul style={styles.list}>
         <li style={styles.listItem}>
-          <Link href="/strategy-1" legacyBehavior>
-            <a style={styles.link}>Strategy-1</a>
+          <Link href={`${pair}/backtest`} legacyBehavior>
+            <a style={styles.link}>Backtest</a>
           </Link>
         </li>
         <li style={styles.listItem}>
-          <Link href="/strategy-2" legacyBehavior>
-            <a style={styles.link}>Strategy-2</a>
+          <Link href={`${pair}/optimal-trade`} legacyBehavior>
+            <a style={styles.link}>Optimal Trade</a>
           </Link>
         </li>
         <li style={styles.listItem}>
-          <Link href="/strategy-3" legacyBehavior>
-            <a style={styles.link}>Strategy-3</a>
+          <Link href={`${pair}/trading-day`} legacyBehavior>
+            <a style={styles.link}>Trading Day</a>
           </Link>
         </li>
         <li style={styles.listItem}>
-          <Link href="/strategy-4" legacyBehavior>
-            <a style={styles.link}>Strategy-4</a>
+          <Link href={`${pair}/trading-hour`} legacyBehavior>
+            <a style={styles.link}>Trading Hour</a>
+          </Link>
+        </li>
+        <li style={styles.listItem}>
+          <Link href={`${pair}/trading-month`} legacyBehavior>
+            <a style={styles.link}>Trading Month</a>
           </Link>
         </li>
       </ul>

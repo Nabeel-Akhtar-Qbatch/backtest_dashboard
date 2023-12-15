@@ -127,7 +127,7 @@ export default function Home() {
             ))}
           </TableRow>
           <TableRow>
-            <TableCell style={styles.subHeader}></TableCell>{" "}
+            <TableCell style={styles.subHeader} colSpan="2"></TableCell>{" "}
             {/* Empty cell for alignment */}
             {columns.flatMap((column) =>
               subColumns.map((subColumn) => (
@@ -144,7 +144,7 @@ export default function Home() {
         <TableBody>
           {data.map((entry, index) => (
             <TableRow key={entry.name}>
-              <TableCell style={index % 2 === 0 ? styles.row : styles.altRow}>
+              <TableCell style={index % 2 === 0 ? styles.row : styles.altRow} colSpan="2">
                 {entry.name}
               </TableCell>
               {columns.flatMap((column, colIdx) =>

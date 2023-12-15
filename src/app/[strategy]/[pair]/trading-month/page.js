@@ -8,9 +8,19 @@ import {
 } from "@/components/ui/table";
 
 export default function Home() {
-  const data = [
-    {
-      name: "0000 to 0100",
+  return <>
+    <h1 className="text-4xl text-center font-extrabold dark:text-white">Long</h1>
+    <TableComponent />
+    <h1 className="text-4xl text-center font-extrabold dark:text-white">Short</h1>
+    <TableComponent />
+  </>
+
+}
+
+const TableComponent = () => {
+  const data = Array(24).fill(0).map((x, i) => {
+    return {
+      name: i+1,
       data: {
         1.5: {
           tradeCount: 12,
@@ -20,61 +30,85 @@ export default function Home() {
           tradeCount: 112212,
           netProfit: 12354,
         },
-      },
-    },
-    {
-      name: "0100 to 0200",
-      data: {
-        1.5: {
-          tradeCount: 12,
-          netProfit: 12,
+        3: {
+          tradeCount: 112212,
+          netProfit: 12354,
         },
-        2: {
-          tradeCount: 12,
-          netProfit: 12,
+        5: {
+          tradeCount: 112212,
+          netProfit: 12354,
         },
       },
-    },
-    {
-      name: "0200 to 0300",
-      data: {
-        1.5: {
-          tradeCount: 12,
-          netProfit: 12,
-        },
-        2: {
-          tradeCount: 12,
-          netProfit: 12,
-        },
-      },
-    },
-    {
-      name: "0300 to 0400",
-      data: {
-        1.5: {
-          tradeCount: 12,
-          netProfit: 12,
-        },
-        2: {
-          tradeCount: 12,
-          netProfit: 12,
-        },
-      },
-    },
-    {
-      name: "0400 to 0500",
-      data: {
-        1.5: {
-          tradeCount: 12,
-          netProfit: 12,
-        },
-        2: {
-          tradeCount: 12,
-          netProfit: 12,
-        },
-      },
-    },
-  ];
+    }
+});
+
+  // const data = [
+  //   {
+  //     name: "0000 to 0100",
+  //     data: {
+  //       1.5: {
+  //         tradeCount: 12,
+  //         netProfit: 24,
+  //       },
+  //       2: {
+  //         tradeCount: 112212,
+  //         netProfit: 12354,
+  //       },
+  //     },
+  //   },
+  //   {
+  //     name: "0100 to 0200",
+  //     data: {
+  //       1.5: {
+  //         tradeCount: 12,
+  //         netProfit: 12,
+  //       },
+  //       2: {
+  //         tradeCount: 12,
+  //         netProfit: 12,
+  //       },
+  //     },
+  //   },
+  //   {
+  //     name: "0200 to 0300",
+  //     data: {
+  //       1.5: {
+  //         tradeCount: 12,
+  //         netProfit: 12,
+  //       },
+  //       2: {
+  //         tradeCount: 12,
+  //         netProfit: 12,
+  //       },
+  //     },
+  //   },
+  //   {
+  //     name: "0300 to 0400",
+  //     data: {
+  //       1.5: {
+  //         tradeCount: 12,
+  //         netProfit: 12,
+  //       },
+  //       2: {
+  //         tradeCount: 12,
+  //         netProfit: 12,
+  //       },
+  //     },
+  //   },
+  //   {
+  //     name: "0400 to 0500",
+  //     data: {
+  //       1.5: {
+  //         tradeCount: 12,
+  //         netProfit: 12,
+  //       },
+  //       2: {
+  //         tradeCount: 12,
+  //         netProfit: 12,
+  //       },
+  //     },
+  //   },
+  // ];
   const columns = ["1.5", "2", "3", "5"];
   const subHeaders = ["Trade Count", "Net Profit"];
 
@@ -111,7 +145,7 @@ export default function Home() {
     <Table>
       <TableHeader>
         <TableRow>
-          <TableHead style={styles.tableHead}>UTC-2</TableHead>
+          <TableHead style={styles.tableHead}>TDM</TableHead>
           {columns.map((column) => (
             <TableHead
               key={column}
@@ -122,18 +156,6 @@ export default function Home() {
               {column}R
             </TableHead>
           ))}
-        </TableRow>
-        <TableRow>
-          {columns.map((column) =>
-            subHeaders.map((subHeader) => (
-              <TableCell
-                key={`${column}-${subHeader}`}
-                style={styles.subHeader}
-              >
-                {subHeader}
-              </TableCell>
-            ))
-          )}
         </TableRow>
       </TableHeader>
       <TableBody>
