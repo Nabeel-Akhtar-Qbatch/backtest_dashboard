@@ -33,17 +33,11 @@ export default function Home() {
     link: {
       display: "block",
       padding: "10px 15px",
-      backgroundColor: "#0070f3",
       color: "white",
       borderRadius: "5px",
       textDecoration: "none",
       transition: "background-color 0.3s, transform 0.2s",
       fontWeight: "bold",
-      // Hover effect for the links
-      ":hover": {
-        backgroundColor: "#0056b3",
-        transform: "scale(1.05)",
-      },
     },
   };
 
@@ -53,22 +47,22 @@ export default function Home() {
       <ul style={styles.list}>
         <li style={styles.listItem}>
           <Link href="/strategy-1" legacyBehavior>
-            <a style={styles.link}>Strategy 1</a>
+            <a style={styles.link} className="hover:bg-black bg-blue-500">Strategy 1</a>
           </Link>
         </li>
         <li style={styles.listItem}>
           <Link href="/strategy-2" legacyBehavior>
-            <a style={styles.link}>Strategy 2</a>
+            <a style={styles.link} className="hover:bg-black bg-blue-500">Strategy 2</a>
           </Link>
         </li>
         <li style={styles.listItem}>
           <Link href="/strategy-3" legacyBehavior>
-            <a style={styles.link}>Strategy 3</a>
+            <a style={styles.link} className="hover:bg-black bg-blue-500">Strategy 3</a>
           </Link>
         </li>
         <li style={styles.listItem}>
           <Link href="/strategy-4" legacyBehavior>
-            <a style={styles.link}>Strategy 4</a>
+            <a style={styles.link} className="hover:bg-black bg-blue-500">Strategy 4</a>
           </Link>
         </li>
       </ul>

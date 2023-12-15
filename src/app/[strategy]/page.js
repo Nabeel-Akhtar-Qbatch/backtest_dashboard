@@ -33,20 +33,14 @@ export default function Home(props) {
     link: {
       display: "block",
       padding: "10px 15px",
-      backgroundColor: "#0070f3",
       color: "white",
       borderRadius: "5px",
       textDecoration: "none",
       transition: "background-color 0.3s, transform 0.2s",
       fontWeight: "bold",
-      // Hover effect for the links
-      ":hover": {
-        backgroundColor: "#0056b3",
-        transform: "scale(1.05)",
-      },
     },
   };
-  console.log(props);
+
   const strategy = props.params.strategy;
 
   const pairs = [
@@ -76,7 +70,7 @@ export default function Home(props) {
         {pairs.map((pair) => (
           <li style={styles.listItem}>
             <Link href={`/${strategy}/${pair}`} legacyBehavior>
-              <a style={styles.link}>{pair}</a>
+              <a style={styles.link} className="hover:bg-black bg-blue-500">{pair}</a>
             </Link>
           </li>
         ))}
