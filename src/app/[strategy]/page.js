@@ -46,33 +46,35 @@ export default function Home(props) {
       },
     },
   };
-  console.log(props)
+  console.log(props);
   const strategy = props.params.strategy;
 
-    const pairs = ["USDCHF",
-        "AUDJPY",
-        "EURUSD",
-        "AUDUSD",
-        "EURJPY",
-        "FTSE100",
-        "GER30",
-        "USDJPY",
-        "GBPJPY",
-        "USO",
-        "USDCAD",
-        "US30",
-        "GBPUSD",
-        "NZDUSD",
-        "US100",
-        "XAU",
-        "XAG",]
+  const pairs = [
+    "USDCHF",
+    "AUDJPY",
+    "EURUSD",
+    "AUDUSD",
+    "EURJPY",
+    "FTSE100",
+    "GER30",
+    "USDJPY",
+    "GBPJPY",
+    "USO",
+    "USDCAD",
+    "US30",
+    "GBPUSD",
+    "NZDUSD",
+    "US100",
+    "XAU",
+    "XAG",
+  ];
 
   return (
     <div style={styles.container}>
-      <h1 style={styles.title}>Strategies Backtesting Dashboard</h1>
+      <h1 style={styles.title}>Pairs </h1>
       <ul style={styles.list}>
-        {pairs.map(pair => (
-            <li style={styles.listItem}>
+        {pairs.map((pair) => (
+          <li style={styles.listItem}>
             <Link href={`/${strategy}/${pair}`} legacyBehavior>
               <a style={styles.link}>{pair}</a>
             </Link>

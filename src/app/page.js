@@ -53,22 +53,22 @@ export default function Home() {
       <ul style={styles.list}>
         <li style={styles.listItem}>
           <Link href="/strategy-1" legacyBehavior>
-            <a style={styles.link}>Strategy-1</a>
+            <a style={styles.link}>Strategy 1</a>
           </Link>
         </li>
         <li style={styles.listItem}>
           <Link href="/strategy-2" legacyBehavior>
-            <a style={styles.link}>Strategy-2</a>
+            <a style={styles.link}>Strategy 2</a>
           </Link>
         </li>
         <li style={styles.listItem}>
           <Link href="/strategy-3" legacyBehavior>
-            <a style={styles.link}>Strategy-3</a>
+            <a style={styles.link}>Strategy 3</a>
           </Link>
         </li>
         <li style={styles.listItem}>
           <Link href="/strategy-4" legacyBehavior>
-            <a style={styles.link}>Strategy-4</a>
+            <a style={styles.link}>Strategy 4</a>
           </Link>
         </li>
       </ul>

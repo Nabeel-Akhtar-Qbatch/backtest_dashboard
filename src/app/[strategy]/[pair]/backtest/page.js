@@ -42,7 +42,7 @@ export default function Home() {
     { name: "Long Position Net Result", key: "longPositionNetResult" },
     { name: "Short Positions Net Result", key: "shortPositionNetResult" },
     { name: "Maximum Consecutive Wins", key: "maximumConsecutiveWins" },
-    { name: "Maximum Consecutive Wins", key: "maximumConsecutiveLoses" },
+    { name: "Maximum Consecutive Loses", key: "maximumConsecutiveLoses" },
     { name: "Relative Drawdown", key: "relativeDropdown" },
   ];
   const styles = {
