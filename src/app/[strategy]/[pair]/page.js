@@ -47,12 +47,12 @@ export default function Home(props) {
     },
   };
   const pair = props.params.pair;
-  console.log(pair)
-//   console.log(pair[2].split("%2C").join("/"))
+  console.log(pair);
+  //   console.log(pair[2].split("%2C").join("/"))
 
   return (
     <div style={styles.container}>
-      <h1 style={styles.title}>Strategies Backtesting Dashboard</h1>
+      <h1 style={styles.title}>Results</h1>
       <ul style={styles.list}>
         <li style={styles.listItem}>
           <Link href={`${pair}/backtest`} legacyBehavior>
