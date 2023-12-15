@@ -6,33 +6,13 @@ import {
   TableHeader,
   TableRow,
 } from "@/components/ui/table";
+import fs from "fs";
 
 export default function Home() {
-  const data = {
-    1.5: {
-      grossProfit: 12,
-      grossLoss: 12,
-      netProfit: 12,
-      totalTrades: 12,
-      longPositionNetResult: 12,
-      shortPositionNetResult: 12,
-      maximumConsecutiveWins: 12,
-      maximumConsecutiveLoses: 12,
-      relativeDropdown: 12,
-    },
-    2: {
-      grossProfit: 12,
-      grossLoss: 12,
-      netProfit: 12,
-      totalTrades: 12,
-      longPositionNetResult: 12,
-      shortPositionNetResult: 12,
-      maximumConsecutiveWins: 12,
-      maximumConsecutiveLoses: 12,
-      relativeDropdown: 12,
-    },
-  };
-
+  JSON.parse(fs.readFileSync(""));
+  const data = JSON.parse(
+    fs.readFileSync("/Users/mac/Desktop/backtest_dashboard/src/data1.json")
+  );
   const columns = ["1.5", "2", "3", "5"];
   const rows = [
     { name: "Gross Profit", key: "grossProfit" },
