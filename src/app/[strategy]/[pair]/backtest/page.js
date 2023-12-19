@@ -18,12 +18,12 @@ export default function Home(props) {
     { name: "Gross Profit", key: "grossProfit" },
     { name: "Gross Loss", key: "grossLoss" },
     { name: "Net Profit", key: "netProfit" },
-    { name: "Total Trades", key: "totalTrades" },
-    { name: "Long Position Net Result", key: "longPositionNetResult" },
-    { name: "Short Positions Net Result", key: "shortPositionNetResult" },
-    { name: "Maximum Consecutive Wins", key: "maximumConsecutiveWins" },
-    { name: "Maximum Consecutive Loses", key: "maximumConsecutiveLoses" },
-    { name: "Relative Drawdown", key: "relativeDropdown" },
+    { name: "Total Trades", key: "totalTrades", symbol: "Trades #", subtitle: "Long#/Short#" },
+    { name: "Long Position Net Result", key: "longPositionNetResult", symbol: "$", subtitle: "trades#/win%" },
+    { name: "Short Positions Net Result", key: "shortPositionNetResult", symbol: "$", subtitle: "trades#/win%" },
+    { name: "Maximum Consecutive Wins", key: "maximumConsecutiveWins", symbol: "$", subtitle: "# of trades" },
+    { name: "Maximum Consecutive Loses", key: "maximumConsecutiveLoses", symbol: "$", subtitle: "# of trades" },
+    { name: "Relative Drawdown", key: "relativeDropdown", symbol: "$", subtitle: "# of trades" },
   ];
   const styles = {
     header: {
@@ -61,7 +61,7 @@ export default function Home(props) {
           </TableRow>
         </TableHeader>
         <TableBody>
-          {rows.map(({ name, key }, index) => (
+          {rows.map(({ name, key, symbol, subtitle }, index) => (
             <TableRow
               key={index}
               style={index % 2 === 0 ? styles.row : styles.alternateRow}
@@ -69,7 +69,8 @@ export default function Home(props) {
               <TableCell style={styles.cell}>{name}</TableCell>
               {columns.map((column, colIndex) => (
                 <TableCell key={colIndex} style={styles.cell}>
-                  {data[column]?.[key]}
+                  {symbol}{" "}{data[column]?.[key]}
+                  <p className="text-sky-600">{subtitle}</p>
                 </TableCell>
               ))}
             </TableRow>
