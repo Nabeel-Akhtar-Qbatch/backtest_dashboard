@@ -11,7 +11,7 @@ import fs from "fs";
 export default function Home(props) {
   const { params: { strategy, pair } } = props;
   const data = JSON.parse(
-    fs.readFileSync(process.cwd() + "/public/data.json")
+    fs.readFileSync(process.cwd() + `/public/${strategy}.json`)
   )[strategy]?.[pair].backtesting.data || {};
   const columns = ["1.5", "2", "3", "5"];
   const rows = [

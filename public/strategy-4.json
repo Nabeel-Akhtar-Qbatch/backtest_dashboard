@@ -1,0 +1,33 @@
+{
+    "strategy-4": {
+      "USDCHF": {
+        "backtesting": {
+          "data": {
+            "1.5": {
+              "grossProfit": 12,
+              "grossLoss": 12,
+              "netProfit": 12,
+              "totalTrades": 12,
+              "longPositionNetResult": 12,
+              "shortPositionNetResult": 12,
+              "maximumConsecutiveWins": 12,
+              "maximumConsecutiveLoses": 12,
+              "relativeDropdown": 12
+            },
+            "2": {
+              "grossProfit": 12,
+              "grossLoss": 12,
+              "netProfit": 12,
+              "totalTrades": 12,
+              "longPositionNetResult": 12,
+              "shortPositionNetResult": 12,
+              "maximumConsecutiveWins": 12,
+              "maximumConsecutiveLoses": 12,
+              "relativeDropdown": 12
+            }
+          }
+        }
+      }
+    }
+  }
+  
