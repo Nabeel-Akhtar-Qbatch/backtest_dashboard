@@ -6,6 +6,7 @@ import {
   TableHeader,
   TableRow,
 } from "@/components/ui/table";
+import fs from "fs";
 
 const formatNumberToString = (num, minChars) => {
   return num.toString().length < minChars
@@ -13,34 +14,38 @@ const formatNumberToString = (num, minChars) => {
    : num.toString()
 }
 
-export default function Home() {
+export default function Home(props) {
   return <>
     <h1 className="text-4xl text-center font-extrabold dark:text-white">Long</h1>
-    <TableComponent />
+    <TableComponent props={props} />
     <h1 className="text-4xl text-center font-extrabold dark:text-white">Short</h1>
-    <TableComponent />
+    <TableComponent props={props} />
   </>
 
 }
 
-const TableComponent = () => {
-  const data = Array(24).fill(0).map((_, i) => {
-    const name = formatNumberToString(i, 4);
-    const name2 = formatNumberToString(i+1, 4);
-    return {
-      name: `${name} to ${name2}`,
-      data: {
-        1.5: {
-          tradeCount: 12,
-          netProfit: 24,
-        },
-        2: {
-          tradeCount: 112212,
-          netProfit: 12354,
-        },
-      },
-    }
-  })
+const TableComponent = ({ props }) => {
+  const { params: { strategy, pair } } = props;
+  const { data } = JSON.parse(
+    fs.readFileSync(process.cwd() + `/public/${strategy}.json`)
+  )[strategy]?.[pair].trading_hour || [];
+  // const data = Array(24).fill(0).map((_, i) => {
+  //   const name = formatNumberToString(i, 4);
+  //   const name2 = formatNumberToString(i+1, 4);
+  //   return {
+  //     name: `${name} to ${name2}`,
+  //     data: {
+  //       1.5: {
+  //         tradeCount: 12,
+  //         netProfit: 24,
+  //       },
+  //       2: {
+  //         tradeCount: 112212,
+  //         netProfit: 12354,
+  //       },
+  //     },
+  //   }
+  // })
   // const data = [
   //   {
   //     name: "0000 to 0100",

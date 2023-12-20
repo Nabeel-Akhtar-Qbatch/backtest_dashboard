@@ -26,6 +26,276 @@
             "relativeDropdown": 12
           }
         }
+      },
+      "optimal_trade": {
+        "data": [
+          {
+            "name": "Fixed SL",
+            "data": {
+              "2": {
+                "grossProfit": 12,
+                "grossLoss": 12,
+                "netProfit": 12,
+                "totalTrades": 12,
+                "longPositionNetResult": 12,
+                "shortPositionNetResult": 12,
+                "maximumConsecutiveWins": 12,
+                "maximumConsecutiveLoses": 12,
+                "relativeDropdown": 12
+              },
+              "1.5": {
+                "grossProfit": 12,
+                "grossLoss": 12,
+                "netProfit": 12,
+                "totalTrades": 12,
+                "longPositionNetResult": 12,
+                "shortPositionNetResult": 12,
+                "maximumConsecutiveWins": 12,
+                "maximumConsecutiveLoses": 12,
+                "relativeDropdown": 12
+              }
+            }
+          },
+          {
+            "name": "Trailing SL",
+            "data": {
+              "1.5": {
+                "grossProfit": 12,
+                "grossLoss": 12,
+                "netProfit": 12,
+                "totalTrades": 12,
+                "longPositionNetResult": 12,
+                "shortPositionNetResult": 12,
+                "maximumConsecutiveWins": 12,
+                "maximumConsecutiveLoses": 12,
+                "relativeDropdown": 12
+              }
+            }
+          },
+          {
+            "name": "Breakeven SL",
+            "data": {
+              "1.5": {
+                "grossProfit": 12,
+                "grossLoss": 12,
+                "netProfit": 12,
+                "totalTrades": 12,
+                "longPositionNetResult": 12,
+                "shortPositionNetResult": 12,
+                "maximumConsecutiveWins": 12,
+                "maximumConsecutiveLoses": 12,
+                "relativeDropdown": 12
+              }
+            }
+          }
+        ]
+      },
+      "trading_day": {
+        "data": [
+          {
+            "name": "Monday",
+            "data": {
+              "2": {
+                "tradeCount": 12,
+                "netProfit": 12
+              },
+              "1.5": {
+                "tradeCount": 12,
+                "netProfit": 12
+              }
+            }
+          },
+          {
+            "name": "Tuesday",
+            "data": {
+              "2": {
+                "tradeCount": 12,
+                "netProfit": 12
+              },
+              "1.5": {
+                "tradeCount": 12,
+                "netProfit": 12
+              }
+            }
+          },
+          {
+            "name": "Wednesday",
+            "data": {
+              "2": {
+                "tradeCount": 12,
+                "netProfit": 12
+              },
+              "1.5": {
+                "tradeCount": 12,
+                "netProfit": 12
+              }
+            }
+          },
+          {
+            "name": "Thursday",
+            "data": {
+              "2": {
+                "tradeCount": 12,
+                "netProfit": 12
+              },
+              "1.5": {
+                "tradeCount": 12,
+                "netProfit": 12
+              }
+            }
+          },
+          {
+            "name": "Friday",
+            "data": {
+              "2": {
+                "tradeCount": 12,
+                "netProfit": 12
+              },
+              "1.5": {
+                "tradeCount": 12,
+                "netProfit": 12
+              }
+            }
+          }
+        ]
+      },
+      "trading_hour": {
+        "data": [
+          {
+            "name": "0000 to 0100",
+            "data": {
+              "2": {
+                "tradeCount": 112212,
+                "netProfit": 12354
+              },
+              "1.5": {
+                "tradeCount": 12,
+                "netProfit": 24
+              }
+            }
+          },
+          {
+            "name": "0100 to 0200",
+            "data": {
+              "2": {
+                "tradeCount": 12,
+                "netProfit": 12
+              },
+              "1.5": {
+                "tradeCount": 12,
+                "netProfit": 12
+              }
+            }
+          },
+          {
+            "name": "0200 to 0300",
+            "data": {
+              "2": {
+                "tradeCount": 12,
+                "netProfit": 12
+              },
+              "1.5": {
+                "tradeCount": 12,
+                "netProfit": 12
+              }
+            }
+          },
+          {
+            "name": "0300 to 0400",
+            "data": {
+              "2": {
+                "tradeCount": 12,
+                "netProfit": 12
+              },
+              "1.5": {
+                "tradeCount": 12,
+                "netProfit": 12
+              }
+            }
+          },
+          {
+            "name": "0400 to 0500",
+            "data": {
+              "2": {
+                "tradeCount": 12,
+                "netProfit": 12
+              },
+              "1.5": {
+                "tradeCount": 12,
+                "netProfit": 12
+              }
+            }
+          }
+        ]
+      },
+      "trading_month": {
+        "data": [
+          {
+            "name": "0000 to 0100",
+            "data": {
+              "2": {
+                "tradeCount": 112212,
+                "netProfit": 12354
+              },
+              "1.5": {
+                "tradeCount": 12,
+                "netProfit": 24
+              }
+            }
+          },
+          {
+            "name": "0100 to 0200",
+            "data": {
+              "2": {
+                "tradeCount": 12,
+                "netProfit": 12
+              },
+              "1.5": {
+                "tradeCount": 12,
+                "netProfit": 12
+              }
+            }
+          },
+          {
+            "name": "0200 to 0300",
+            "data": {
+              "2": {
+                "tradeCount": 12,
+                "netProfit": 12
+              },
+              "1.5": {
+                "tradeCount": 12,
+                "netProfit": 12
+              }
+            }
+          },
+          {
+            "name": "0300 to 0400",
+            "data": {
+              "2": {
+                "tradeCount": 12,
+                "netProfit": 12
+              },
+              "1.5": {
+                "tradeCount": 12,
+                "netProfit": 12
+              }
+            }
+          },
+          {
+            "name": "0400 to 0500",
+            "data": {
+              "2": {
+                "tradeCount": 12,
+                "netProfit": 12
+              },
+              "1.5": {
+                "tradeCount": 12,
+                "netProfit": 12
+              }
+            }
+          }
+        ]
       }
     }
   }

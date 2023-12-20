@@ -6,85 +6,24 @@ import {
   TableHeader,
   TableRow,
 } from "@/components/ui/table";
+import fs from "fs";
 
-export default function Home() {
+export default function Home(props) {
   return <>
     <h1 className="text-4xl text-center font-extrabold dark:text-white">Long</h1>
-    <TableComponent />
+    <TableComponent props={props} />
     <h1 className="text-4xl text-center font-extrabold dark:text-white">Short</h1>
-    <TableComponent />
+    <TableComponent props={props} />
   </>
 
 }
 
-const TableComponent = () => {
-  const data = [
-    {
-      name: "Monday",
-      data: {
-        1.5: {
-          tradeCount: 12,
-          netProfit: 12,
-        },
-        2: {
-          tradeCount: 12,
-          netProfit: 12,
-        },
-      },
-    },
-    {
-      name: "Tuesday",
-      data: {
-        1.5: {
-          tradeCount: 12,
-          netProfit: 12,
-        },
-        2: {
-          tradeCount: 12,
-          netProfit: 12,
-        },
-      },
-    },
-    {
-      name: "Wednesday",
-      data: {
-        1.5: {
-          tradeCount: 12,
-          netProfit: 12,
-        },
-        2: {
-          tradeCount: 12,
-          netProfit: 12,
-        },
-      },
-    },
-    {
-      name: "Thursday",
-      data: {
-        1.5: {
-          tradeCount: 12,
-          netProfit: 12,
-        },
-        2: {
-          tradeCount: 12,
-          netProfit: 12,
-        },
-      },
-    },
-    {
-      name: "Friday",
-      data: {
-        1.5: {
-          tradeCount: 12,
-          netProfit: 12,
-        },
-        2: {
-          tradeCount: 12,
-          netProfit: 12,
-        },
-      },
-    },
-  ];
+const TableComponent = ({ props }) => {
+  const { params: { strategy, pair } } = props;
+  const { data } = JSON.parse(
+    fs.readFileSync(process.cwd() + `/public/${strategy}.json`)
+  )[strategy]?.[pair]?.trading_day || [];
+
   const columns = ["1.5", "2", "3", "5"];
   const subColumns = ["Trade Count", "Net Profit"];
 

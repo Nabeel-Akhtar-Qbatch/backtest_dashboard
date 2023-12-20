@@ -6,41 +6,47 @@ import {
   TableHeader,
   TableRow,
 } from "@/components/ui/table";
+import fs from "fs";
 
-export default function Home() {
+export default function Home(props) {
+  console.log("props", props);
   return <>
     <h1 className="text-4xl text-center font-extrabold dark:text-white">Long</h1>
-    <TableComponent />
+    <TableComponent props={props} />
     <h1 className="text-4xl text-center font-extrabold dark:text-white">Short</h1>
-    <TableComponent />
+    <TableComponent props={props} />
   </>
 
 }
 
-const TableComponent = () => {
-  const data = Array(24).fill(0).map((x, i) => {
-    return {
-      name: i+1,
-      data: {
-        1.5: {
-          tradeCount: 12,
-          netProfit: 24,
-        },
-        2: {
-          tradeCount: 112212,
-          netProfit: 12354,
-        },
-        3: {
-          tradeCount: 112212,
-          netProfit: 12354,
-        },
-        5: {
-          tradeCount: 112212,
-          netProfit: 12354,
-        },
-      },
-    }
-});
+const TableComponent = ({ props }) => {
+  const { params: { strategy, pair } } = props;
+  const { data } = JSON.parse(
+    fs.readFileSync(process.cwd() + `/public/${strategy}.json`)
+  )[strategy]?.[pair].trading_month || [];
+//   const data = Array(24).fill(0).map((x, i) => {
+//     return {
+//       name: i+1,
+//       data: {
+//         1.5: {
+//           tradeCount: 12,
+//           netProfit: 24,
+//         },
+//         2: {
+//           tradeCount: 112212,
+//           netProfit: 12354,
+//         },
+//         3: {
+//           tradeCount: 112212,
+//           netProfit: 12354,
+//         },
+//         5: {
+//           tradeCount: 112212,
+//           netProfit: 12354,
+//         },
+//       },
+//     }
+// });
 
   // const data = [
   //   {

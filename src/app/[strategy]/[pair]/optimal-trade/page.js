@@ -7,69 +7,14 @@ import {
   TableHeader,
   TableRow,
 } from "@/components/ui/table";
+import fs from "fs";
 
-export default function Home() {
-  const data = [
-    {
-      name: "Fixed SL",
-      data: {
-        1.5: {
-          grossProfit: 12,
-          grossLoss: 12,
-          netProfit: 12,
-          totalTrades: 12,
-          longPositionNetResult: 12,
-          shortPositionNetResult: 12,
-          maximumConsecutiveWins: 12,
-          maximumConsecutiveLoses: 12,
-          relativeDropdown: 12,
-        },
-        2: {
-          grossProfit: 12,
-          grossLoss: 12,
-          netProfit: 12,
-          totalTrades: 12,
-          longPositionNetResult: 12,
-          shortPositionNetResult: 12,
-          maximumConsecutiveWins: 12,
-          maximumConsecutiveLoses: 12,
-          relativeDropdown: 12,
-        },
-      },
-    },
-    {
-      name: "Trailing SL",
-      data: {
-        1.5: {
-          grossProfit: 12,
-          grossLoss: 12,
-          netProfit: 12,
-          totalTrades: 12,
-          longPositionNetResult: 12,
-          shortPositionNetResult: 12,
-          maximumConsecutiveWins: 12,
-          maximumConsecutiveLoses: 12,
-          relativeDropdown: 12,
-        },
-      },
-    },
-    {
-      name: "Breakeven SL",
-      data: {
-        1.5: {
-          grossProfit: 12,
-          grossLoss: 12,
-          netProfit: 12,
-          totalTrades: 12,
-          longPositionNetResult: 12,
-          shortPositionNetResult: 12,
-          maximumConsecutiveWins: 12,
-          maximumConsecutiveLoses: 12,
-          relativeDropdown: 12,
-        },
-      },
-    },
-  ];
+export default function Home(props) {
+  const { params: { strategy, pair } } = props;
+  const {data} = JSON.parse(
+    fs.readFileSync(process.cwd() + `/public/${strategy}.json`)
+  )[strategy]?.[pair]?.optimal_trade || [];
+
   const columns = ["1.5", "2", "3", "5", "6"]; // Use the column labels as they appear in your data keys
   const subColumns = [
     { label: "Gross Profit", key: "grossProfit" },
