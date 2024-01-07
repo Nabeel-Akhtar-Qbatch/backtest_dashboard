@@ -8,7 +8,7 @@ risk_reward_ratios = [1.5, 2]
 # pairs = ['USDCHF','USDJPY','USO','XAG','XAU', 'AUDCHF', 'AUDJPY', 'CADCHF','EURCAD', 'EURCHF', 'GBPCAD', 'GBPCHF']
 
 
-pairs = ['USDCHF']
+pairs = ['USDCHF', 'EURUSD', 'GBPJPY', 'XAU']
 
 def load_seasonality_data(file_path, sheet_name):
     return pd.read_excel(file_path, sheet_name=sheet_name)
@@ -378,7 +378,10 @@ for pair in pairs:
             balance_series = trade_results_df['profit'].cumsum() + initial_balance
             running_max = balance_series.cummax()
             drawdown = running_max - balance_series
-            relative_drawdown = drawdown.max()
+            relative_drawdown = round(drawdown.max(),2)
+
+            max_relative_drawdown = round(balance_series.min() - initial_balance)
+
 
             # Day of the Week Analysis
             day_of_week_metrics_long = group_and_calculate(trade_results_df, 'TDOW', 'buy')
@@ -407,11 +410,12 @@ for pair in pairs:
                 'Total Trades': total_trades,
                 'Long Trades': long_trades_count,
                 'Short Trades': short_trades_count,
-                'Long Position Net Result': f"${round(long_net_result),2} / {round(long_win_percentage,2)}%",
-                'Short Position Net Result': f"${round(short_net_result),2} / {round(short_win_percentage,2)}%",
+                'Long Position Net Result': f"${round(long_net_result)} / {round(long_win_percentage,2)}%",
+                'Short Position Net Result': f"${round(short_net_result)} / {round(short_win_percentage,2)}%",
                 'Maximum Consecutive Wins': f"{max_consecutive_wins}",
                 'Maximum Consecutive Loses': f"{max_consecutive_losses}",
                 'Relative Drawdown': f"${relative_drawdown}",
+                'Max Relative DrawDown': f"${max_relative_drawdown}",    
                 'Long Position Metrics by Day of Week':day_of_week_metrics_long,
                 'Short Position Metrics by Day of Week:':day_of_week_metrics_short,
                 'Long Position Metrics by Hour of Day:':hour_of_day_metrics_long,
@@ -580,7 +584,7 @@ for pair in pairs:
             print(f"Total Trades: {win_count+ loss_count}")
             print(f"Win Count: {win_count }")
             print(f"Loss Count: {loss_count}")
-            print(f"Win Rate: {round(win_rate/100,2)}%")
+            print(f"Win Rate: {round(win_rate * 100, 2)}%")
             print()
 
 
@@ -593,7 +597,7 @@ for pair in pairs:
                 f"Total Trades: {win_count + loss_count}\n"
                 f"Win Count: {win_count}\n"
                 f"Loss Count: {loss_count}\n"
-                f"Win Rate: {round(win_rate, 2)}%\n"
+                f"Win Rate: {round(win_rate * 100, 2)}%\n"
             )
             for metric, value in additional_metrics.items():
                 if isinstance(value, pd.DataFrame):
