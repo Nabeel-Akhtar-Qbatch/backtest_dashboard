@@ -8,7 +8,7 @@ risk_reward_ratios = [1.5, 2]
 # pairs = ['USDCHF','USDJPY','USO','XAG','XAU', 'AUDCHF', 'AUDJPY', 'CADCHF','EURCAD', 'EURCHF', 'GBPCAD', 'GBPCHF']
 
 
-pairs = ['USDCHF', 'EURUSD', 'GBPJPY', 'XAU']
+pairs = ['USDCHF']
 
 def load_seasonality_data(file_path, sheet_name):
     return pd.read_excel(file_path, sheet_name=sheet_name)
@@ -390,6 +390,14 @@ for pair in pairs:
             date_of_month_metrics_long = group_and_calculate(trade_results_df, 'TDOM', 'buy')
             date_of_month_metrics_short = group_and_calculate(trade_results_df, 'TDOM', 'sell')
 
+            # COT Score Metrics
+            cot_metrics_long = trade_results_df[trade_results_df['order_type'] == 'buy'].groupby('cot_score')['profit'].agg(['count', 'sum']).rename(columns={'count': 'Trade Count', 'sum': 'Net Profit'})
+            cot_metrics_short = trade_results_df[trade_results_df['order_type'] == 'sell'].groupby('cot_score')['profit'].agg(['count', 'sum']).rename(columns={'count': 'Trade Count', 'sum': 'Net Profit'})
+
+            # Seasonality Score Metrics
+            seasonal_metrics_long = trade_results_df[trade_results_df['order_type'] == 'buy'].groupby('seasonal_score')['profit'].agg(['count', 'sum']).rename(columns={'count': 'Trade Count', 'sum': 'Net Profit'})
+            seasonal_metrics_short = trade_results_df[trade_results_df['order_type'] == 'sell'].groupby('seasonal_score')['profit'].agg(['count', 'sum']).rename(columns={'count': 'Trade Count', 'sum': 'Net Profit'})
+
 
 
             metrics = {
@@ -409,7 +417,11 @@ for pair in pairs:
                 'Long Position Metrics by Hour of Day:':hour_of_day_metrics_long,
                 'Short Position Metrics by Hour of Day:':hour_of_day_metrics_short,
                 'Long Position Metrics by Date of Month:':date_of_month_metrics_long,
-                'Short Position Metrics by Date of Month:':date_of_month_metrics_short
+                'Short Position Metrics by Date of Month:':date_of_month_metrics_short,
+                'COT Score Metrics (Long)': cot_metrics_long.to_dict('index'),
+                'COT Score Metrics (Short)': cot_metrics_short.to_dict('index'),
+                'Seasonality Score Metrics (Long)': seasonal_metrics_long.to_dict('index'),
+                'Seasonality Score Metrics (Short)': seasonal_metrics_short.to_dict('index'),
             }
 
 
