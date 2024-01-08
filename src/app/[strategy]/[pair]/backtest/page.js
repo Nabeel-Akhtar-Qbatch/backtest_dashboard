@@ -13,6 +13,7 @@ export default function Home(props) {
   const data = JSON.parse(
     fs.readFileSync(process.cwd() + `/public/${strategy}.json`)
   )[strategy]?.[pair]?.backtest.data || {};
+  console.log("data : ", data)
   const columns = ["1.5", "2", "3", "5"];
   const rows = [
     { name: "Gross Profit", key: "grossProfit" },
