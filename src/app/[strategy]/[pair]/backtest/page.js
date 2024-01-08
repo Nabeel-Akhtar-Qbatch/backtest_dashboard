@@ -12,7 +12,7 @@ export default function Home(props) {
   const { params: { strategy, pair } } = props;
   const data = JSON.parse(
     fs.readFileSync(process.cwd() + `/public/${strategy}.json`)
-  )[strategy]?.[pair]?.backtest || {};
+  )[strategy]?.[pair]?.backtest.data || {};
   const columns = ["1.5", "2", "3", "5"];
   const rows = [
     { name: "Gross Profit", key: "grossProfit" },

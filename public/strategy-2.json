@@ -1,7 +1,7 @@
 {
     "strategy-2": {
       "USDCHF": {
-        "backtesting": {
+        "backtest": {
           "data": {
             "1.5": {
               "grossProfit": 12,
