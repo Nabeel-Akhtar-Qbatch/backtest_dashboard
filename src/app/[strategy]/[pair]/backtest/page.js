@@ -13,7 +13,6 @@ export default function Home(props) {
   const data = JSON.parse(
     fs.readFileSync(process.cwd() + `/public/${strategy}.json`)
   )[strategy]?.[pair]?.backtest.data || {};
-  console.log("data : ", data)
   const columns = ["1.5", "2", "3", "5"];
   const rows = [
     { name: "Gross Profit", key: "grossProfit" },
@@ -71,7 +70,7 @@ export default function Home(props) {
               {columns.map((column, colIndex) => (
                 <TableCell key={colIndex} style={styles.cell}>
                   {symbol}{" "}{data[column]?.[key]}
-                  <p className="text-sky-600">{subtitle}</p>
+                  {subtitle && <p className="flex text-sky-600">{subtitle} <p className="text-black pl-1">{data[column]?.[key]}</p></p>}
                 </TableCell>
               ))}
             </TableRow>
