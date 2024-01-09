@@ -71,6 +71,16 @@ export default function Home(props) {
             <a style={styles.link} className="hover:bg-black bg-blue-500">Trading Month</a>
           </Link>
         </li>
+        <li style={styles.listItem}>
+          <Link href={`${pair}/commercial`} legacyBehavior>
+            <a style={styles.link} className="hover:bg-black bg-blue-500">Commercials</a>
+          </Link>
+        </li>
+        <li style={styles.listItem}>
+          <Link href={`${pair}/seasonality`} legacyBehavior>
+            <a style={styles.link} className="hover:bg-black bg-blue-500">Seasonality score</a>
+          </Link>
+        </li>
       </ul>
     </div>
   );
