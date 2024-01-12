@@ -9,20 +9,33 @@ import {
 import fs from "fs";
 
 export default function Home(props) {
-  return <>
-    <h1 className="text-4xl text-center font-extrabold dark:text-white">Long</h1>
-    <TableComponent props={props} />
-    <h1 className="text-4xl text-center font-extrabold dark:text-white">Short</h1>
-    <TableComponent props={props} />
-  </>
-
+  return (
+    <>
+      <h1 className="text-4xl text-center font-extrabold dark:text-white">
+        Long
+      </h1>
+      <TableComponent props={props} />
+      {/* <h1 className="text-4xl text-center font-extrabold dark:text-white">
+        Short
+      </h1>
+      <TableComponent props={props} /> */}
+    </>
+  );
 }
 
 const TableComponent = ({ props }) => {
-  const { params: { strategy, pair } } = props;
-  const { data } = JSON.parse(
-    fs.readFileSync(process.cwd() + `/public/${strategy}.json`)
-  )[strategy]?.[pair]?.trading_day || [];
+  const {
+    params: { strategy, pair },
+  } = props;
+
+  const Long =
+    JSON.parse(fs.readFileSync(process.cwd() + `/public/${strategy}.json`))[
+      strategy
+    ]?.[pair]?.trading_day.Long || [];
+  const Short =
+    JSON.parse(fs.readFileSync(process.cwd() + `/public/${strategy}.json`))[
+      strategy
+    ]?.[pair]?.trading_day.Short || [];
 
   const columns = ["1.5", "2", "3", "5"];
   const subColumns = ["Trade Count", "Net Profit"];
@@ -60,7 +73,7 @@ const TableComponent = ({ props }) => {
     <Table style={styles.table}>
       <TableHeader>
         <TableRow>
-          <TableHead style={styles.header}>Day</TableHead>
+          <TableHead style={styles.header}>PAK</TableHead>
           {columns.map((column) => (
             <TableHead
               key={column}
@@ -85,7 +98,63 @@ const TableComponent = ({ props }) => {
         </TableRow>
       </TableHeader>
       <TableBody>
-        {data.map(({ name, data }, index) => (
+        {Long.map(({ name, data }, index) => (
+          <TableRow key={name} style={styles.row}>
+            <TableCell style={styles.cell}>{name}</TableCell>
+            {columns.flatMap((column) =>
+              subColumns.map((subColumn, subIdx) => (
+                <TableCell
+                  key={`${name}-${column}-${subIdx}`}
+                  style={styles.cell}
+                >
+                  {subColumn === "Trade Count"
+                    ? data[column]?.tradeCount
+                    : data[column]?.netProfit}
+                </TableCell>
+              ))
+            )}
+          </TableRow>
+        ))}
+      </TableBody>
+      <TableBody>
+        <TableRow>
+          <TableCell colSpan={9}>
+            <div className="text-center">
+              <h1 className="text-4xl text-center font-extrabold dark:text-white">
+                Short
+              </h1>
+            </div>
+          </TableCell>
+        </TableRow>
+      </TableBody>
+      <TableHeader>
+        <TableRow>
+          <TableHead style={styles.header}>PAK</TableHead>
+          {columns.map((column) => (
+            <TableHead
+              key={column}
+              style={styles.header}
+              colSpan={subColumns.length}
+            >
+              {column}R
+            </TableHead>
+          ))}
+        </TableRow>
+        <TableRow>
+          {columns.map((column) =>
+            subColumns.map((subColumn) => (
+              <TableCell
+                key={`${column}-${subColumn}`}
+                style={styles.subHeader}
+              >
+                {subColumn}
+              </TableCell>
+            ))
+          )}
+        </TableRow>
+      </TableHeader>
+      <TableBody>
+        {Short.map(({ name, data }, index) => (
           <TableRow key={name} style={styles.row}>
             <TableCell style={styles.cell}>{name}</TableCell>
             {columns.flatMap((column) =>
@@ -105,4 +174,4 @@ const TableComponent = ({ props }) => {
       </TableBody>
     </Table>
   );
-}
+};
