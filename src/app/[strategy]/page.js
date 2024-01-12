@@ -82,7 +82,7 @@ export default function Home(props) {
     "US30",
     "GER3",
     "FTSE",
-    "USOil"
+    "USOil",
   ];
 
   return (
@@ -92,7 +92,9 @@ export default function Home(props) {
         {pairs.map((pair) => (
           <li style={styles.listItem}>
             <Link href={`/${strategy}/${pair}`} legacyBehavior>
-              <a style={styles.link} className="hover:bg-black bg-blue-500">{pair}</a>
+              <a style={styles.link} className="hover:bg-black bg-blue-500">
+                {pair}
+              </a>
             </Link>
           </li>
         ))}
