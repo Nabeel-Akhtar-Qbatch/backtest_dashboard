@@ -37,8 +37,6 @@ const TableComponent = ({ props }) => {
       strategy
     ]?.[pair]?.commercial.Short || [];
 
-  console.log(Long);
-
   const columns = ["1.5", "2", "3", "5"];
   const styles = {
     header: {
@@ -80,20 +78,20 @@ const TableComponent = ({ props }) => {
             <TableRow>
               <TableCell>{obj.name}</TableCell>
               <TableCell>
-                Trade # {obj["1.5"]["trade-no"]} | Net profit:{" "}
-                {obj["1.5"]["net-profit"]}
+                Trade # {obj.data["1.5"]["trade-no"]} | Net profit:{" "}
+                {obj.data["1.5"]["net-profit"]}
               </TableCell>
               <TableCell>
-                Trade # {obj["2"]["trade-no"]} | Net profit:{" "}
-                {obj["2"]["net-profit"]}
+                Trade # {obj.data["2"]["trade-no"]} | Net profit:{" "}
+                {obj.data["2"]["net-profit"]}
               </TableCell>
               <TableCell>
-                Trade # {obj["3"]["trade-no"]} | Net profit:{" "}
-                {obj["3"]["net-profit"]}
+                Trade # {obj.data["3"]["trade-no"]} | Net profit:{" "}
+                {obj.data["3"]["net-profit"]}
               </TableCell>
               <TableCell>
-                Trade # {obj["5"]["trade-no"]} | Net profit:{" "}
-                {obj["5"]["net-profit"]}
+                Trade # {obj.data["5"]["trade-no"]} | Net profit:{" "}
+                {obj.data["5"]["net-profit"]}
               </TableCell>
             </TableRow>
           ))}
@@ -101,27 +99,42 @@ const TableComponent = ({ props }) => {
             <TableCell>Total</TableCell>
             <TableCell>
               Trade #{" "}
-              {Long.reduce((acc, cumm) => acc + cumm["1.5"]["trade-no"], 0)} |
-              Net profit:{" "}
-              {Long.reduce((acc, cumm) => acc + cumm["1.5"]["net-profit"], 0)}
+              {Long.reduce(
+                (acc, cumm) => acc + cumm.data["1.5"]["trade-no"],
+                0
+              )}{" "}
+              | Net profit:{" "}
+              {Long.reduce(
+                (acc, cumm) => acc + cumm.data["1.5"]["net-profit"],
+                0
+              )}
             </TableCell>
             <TableCell>
               Trade #{" "}
-              {Long.reduce((acc, cumm) => acc + cumm["2"]["trade-no"], 0)} | Net
-              profit:{" "}
-              {Long.reduce((acc, cumm) => acc + cumm["2"]["net-profit"], 0)}
+              {Long.reduce((acc, cumm) => acc + cumm.data["2"]["trade-no"], 0)}{" "}
+              | Net profit:{" "}
+              {Long.reduce(
+                (acc, cumm) => acc + cumm.data["2"]["net-profit"],
+                0
+              )}
             </TableCell>
             <TableCell>
               Trade #{" "}
-              {Long.reduce((acc, cumm) => acc + cumm["3"]["trade-no"], 0)} | Net
-              profit:{" "}
-              {Long.reduce((acc, cumm) => acc + cumm["3"]["net-profit"], 0)}
+              {Long.reduce((acc, cumm) => acc + cumm.data["3"]["trade-no"], 0)}{" "}
+              | Net profit:{" "}
+              {Long.reduce(
+                (acc, cumm) => acc + cumm.data["3"]["net-profit"],
+                0
+              )}
             </TableCell>
             <TableCell>
               Trade #{" "}
-              {Long.reduce((acc, cumm) => acc + cumm["5"]["trade-no"], 0)} | Net
-              profit:{" "}
-              {Long.reduce((acc, cumm) => acc + cumm["5"]["net-profit"], 0)}
+              {Long.reduce((acc, cumm) => acc + cumm.data["5"]["trade-no"], 0)}{" "}
+              | Net profit:{" "}
+              {Long.reduce(
+                (acc, cumm) => acc + cumm.data["5"]["net-profit"],
+                0
+              )}
             </TableCell>
           </TableRow>
         </TableBody>
@@ -151,20 +164,20 @@ const TableComponent = ({ props }) => {
             <TableRow>
               <TableCell>{obj.name}</TableCell>
               <TableCell>
-                Trade # {obj["1.5"]["trade-no"]} | Net profit:{" "}
-                {obj["1.5"]["net-profit"]}
+                Trade # {obj.data["1.5"]["trade-no"]} | Net profit:{" "}
+                {obj.data["1.5"]["net-profit"]}
               </TableCell>
               <TableCell>
-                Trade # {obj["2"]["trade-no"]} | Net profit:{" "}
-                {obj["2"]["net-profit"]}
+                Trade # {obj.data["2"]["trade-no"]} | Net profit:{" "}
+                {obj.data["2"]["net-profit"]}
               </TableCell>
               <TableCell>
-                Trade # {obj["3"]["trade-no"]} | Net profit:{" "}
-                {obj["3"]["net-profit"]}
+                Trade # {obj.data["3"]["trade-no"]} | Net profit:{" "}
+                {obj.data["3"]["net-profit"]}
               </TableCell>
               <TableCell>
-                Trade # {obj["5"]["trade-no"]} | Net profit:{" "}
-                {obj["5"]["net-profit"]}
+                Trade # {obj.data["5"]["trade-no"]} | Net profit:{" "}
+                {obj.data["5"]["net-profit"]}
               </TableCell>
             </TableRow>
           ))}
@@ -172,27 +185,42 @@ const TableComponent = ({ props }) => {
             <TableCell>Total</TableCell>
             <TableCell>
               Trade #{" "}
-              {Short.reduce((acc, cumm) => acc + cumm["1.5"]["trade-no"], 0)} |
-              Net profit:{" "}
-              {Short.reduce((acc, cumm) => acc + cumm["1.5"]["net-profit"], 0)}
+              {Short.reduce(
+                (acc, cumm) => acc + cumm.data["1.5"]["trade-no"],
+                0
+              )}{" "}
+              | Net profit:{" "}
+              {Short.reduce(
+                (acc, cumm) => acc + cumm.data["1.5"]["net-profit"],
+                0
+              )}
             </TableCell>
             <TableCell>
               Trade #{" "}
-              {Short.reduce((acc, cumm) => acc + cumm["2"]["trade-no"], 0)} |
-              Net profit:{" "}
-              {Short.reduce((acc, cumm) => acc + cumm["2"]["net-profit"], 0)}
+              {Short.reduce((acc, cumm) => acc + cumm.data["2"]["trade-no"], 0)}{" "}
+              | Net profit:{" "}
+              {Short.reduce(
+                (acc, cumm) => acc + cumm.data["2"]["net-profit"],
+                0
+              )}
             </TableCell>
             <TableCell>
               Trade #{" "}
-              {Short.reduce((acc, cumm) => acc + cumm["3"]["trade-no"], 0)} |
-              Net profit:{" "}
-              {Short.reduce((acc, cumm) => acc + cumm["3"]["net-profit"], 0)}
+              {Short.reduce((acc, cumm) => acc + cumm.data["3"]["trade-no"], 0)}{" "}
+              | Net profit:{" "}
+              {Short.reduce(
+                (acc, cumm) => acc + cumm.data["3"]["net-profit"],
+                0
+              )}
             </TableCell>
             <TableCell>
               Trade #{" "}
-              {Short.reduce((acc, cumm) => acc + cumm["5"]["trade-no"], 0)} |
-              Net profit:{" "}
-              {Short.reduce((acc, cumm) => acc + cumm["5"]["net-profit"], 0)}
+              {Short.reduce((acc, cumm) => acc + cumm.data["5"]["trade-no"], 0)}{" "}
+              | Net profit:{" "}
+              {Short.reduce(
+                (acc, cumm) => acc + cumm.data["5"]["net-profit"],
+                0
+              )}
             </TableCell>
           </TableRow>
         </TableBody>
