@@ -45,24 +45,32 @@ export default function Home() {
     <div style={styles.container}>
       <h1 style={styles.title}>Strategies Backtesting Dashboard</h1>
       <ul style={styles.list}>
-        <li style={styles.listItem}>
+        {/* <li style={styles.listItem}>
           <Link href="/strategy-1" legacyBehavior>
-            <a style={styles.link} className="hover:bg-black bg-blue-500">Strategy 1</a>
+            <a style={styles.link} className="hover:bg-black bg-blue-500">
+              Strategy 1
+            </a>
           </Link>
-        </li>
+        </li> */}
         <li style={styles.listItem}>
           <Link href="/strategy-2" legacyBehavior>
-            <a style={styles.link} className="hover:bg-black bg-blue-500">Strategy 2</a>
+            <a style={styles.link} className="hover:bg-black bg-blue-500">
+              Strategy 2
+            </a>
           </Link>
         </li>
         <li style={styles.listItem}>
           <Link href="/strategy-3" legacyBehavior>
-            <a style={styles.link} className="hover:bg-black bg-blue-500">Strategy 3</a>
+            <a style={styles.link} className="hover:bg-black bg-blue-500">
+              Strategy 3
+            </a>
           </Link>
         </li>
         <li style={styles.listItem}>
-          <Link href="/strategy-4" legacyBehavior>
-            <a style={styles.link} className="hover:bg-black bg-blue-500">Strategy 4</a>
+          <Link href="/strategy-6" legacyBehavior>
+            <a style={styles.link} className="hover:bg-black bg-blue-500">
+              Strategy 6
+            </a>
           </Link>
         </li>
       </ul>
