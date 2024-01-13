@@ -106,6 +106,13 @@ const TableComponent = ({ props }) => {
           </TableRow>
         ))}
       </TableBody>
+      <TableCell colSpan={9}>
+        <div className="text-center">
+          <h1 className="text-4xl text-center font-extrabold dark:text-white">
+            Short
+          </h1>
+        </div>
+      </TableCell>
       <TableHeader>
         <TableRow>
           <TableHead style={styles.tableHead}>TDM</TableHead>

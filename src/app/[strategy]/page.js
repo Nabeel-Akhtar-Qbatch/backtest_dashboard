@@ -65,7 +65,7 @@ export default function Home(props) {
     "USDJPY",
     "USO",
     "XAG",
-    "XAUS",
+    "XAU",
   ];
 
   return (
