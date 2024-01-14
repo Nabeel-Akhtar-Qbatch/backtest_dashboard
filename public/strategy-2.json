@@ -11730,7 +11730,9 @@
             "shortPositionNetResult": 10107.0,
             "maximumConsecutiveWins": 11.0,
             "maximumConsecutiveLoses": 11.0,
-            "relativeDropdown": 10273.35
+            "relativeDropdown": 10273.35,
+            "long_win_percentage": 44.02,
+            "short_win_percentage": 45.39
           },
           "2": {
             "endingBalance": 113917.04,
@@ -11745,7 +11747,9 @@
             "shortPositionNetResult": 10659.0,
             "maximumConsecutiveWins": 11.0,
             "maximumConsecutiveLoses": 11.0,
-            "relativeDropdown": 13352.79
+            "relativeDropdown": 13352.79,
+            "long_win_percentage": 42.6,
+            "short_win_percentage": 41.99
           },
           "3": {
             "endingBalance": 116174.82,
@@ -11760,7 +11764,9 @@
             "shortPositionNetResult": 10592.0,
             "maximumConsecutiveWins": 11.0,
             "maximumConsecutiveLoses": 11.0,
-            "relativeDropdown": 12575.69
+            "relativeDropdown": 12575.69,
+            "long_win_percentage": 41.18,
+            "short_win_percentage": 39.15
           },
           "4": {
             "endingBalance": 118501.7,
@@ -11775,7 +11781,9 @@
             "shortPositionNetResult": 10276.0,
             "maximumConsecutiveWins": 11.0,
             "maximumConsecutiveLoses": 11.0,
-            "relativeDropdown": 13454.76
+            "relativeDropdown": 13454.76,
+            "long_win_percentage": 40.77,
+            "short_win_percentage": 38.58
           },
           "5": {
             "endingBalance": 113822.34,
@@ -11790,7 +11798,9 @@
             "shortPositionNetResult": 7034.0,
             "maximumConsecutiveWins": 11.0,
             "maximumConsecutiveLoses": 11.0,
-            "relativeDropdown": 12942.89
+            "relativeDropdown": 12942.89,
+            "long_win_percentage": 40.7,
+            "short_win_percentage": 38.3
           }
         }
       },
@@ -11880,79 +11890,34 @@
             "name": "Breakeven SL",
             "data": {
               "1.5": {
-                "endingBalance": 109989.76,
-                "totalProfit": 9989.76,
-                "totalTrades": 991.0,
-                "grossProfit": 126523.08,
-                "grossLoss": -116533.32,
-                "netProfit": 9989.76,
-                "longTrades": 383.0,
-                "shortTrades": 608.0,
-                "longPositionNetResult": 3441.0,
-                "shortPositionNetResult": 6548.0,
-                "maximumConsecutiveWins": 12.0,
-                "maximumConsecutiveLoses": 11.0,
-                "relativeDropdown": 6578.79
+                "grossProfit": 141057.16,
+                "grossLoss": -127048.06,
+                "netProfit": 14009.1,
+                "maximumConsecutiveLoses": 10
               },
               "2": {
-                "endingBalance": 108977.34,
-                "totalProfit": 8977.34,
-                "totalTrades": 991.0,
-                "grossProfit": 130298.17,
-                "grossLoss": -121320.84,
-                "netProfit": 8977.34,
-                "longTrades": 383.0,
-                "shortTrades": 608.0,
-                "longPositionNetResult": 4108.0,
-                "shortPositionNetResult": 4869.0,
-                "maximumConsecutiveWins": 11.0,
-                "maximumConsecutiveLoses": 11.0,
-                "relativeDropdown": 10498.42
+                "grossProfit": 145864.13,
+                "grossLoss": -127995.35,
+                "netProfit": 17868.78,
+                "maximumConsecutiveLoses": 10
               },
               "3": {
-                "endingBalance": 113425.76,
-                "totalProfit": 13425.76,
-                "totalTrades": 991.0,
-                "grossProfit": 138514.57,
-                "grossLoss": -125088.81,
-                "netProfit": 13425.76,
-                "longTrades": 383.0,
-                "shortTrades": 608.0,
-                "longPositionNetResult": 7816.0,
-                "shortPositionNetResult": 5610.0,
-                "maximumConsecutiveWins": 11.0,
-                "maximumConsecutiveLoses": 11.0,
-                "relativeDropdown": 10631.9
+                "grossProfit": 150127.84,
+                "grossLoss": -128968.69,
+                "netProfit": 21159.14,
+                "maximumConsecutiveLoses": 10
               },
               "4": {
-                "endingBalance": 112781.32,
-                "totalProfit": 12781.32,
-                "totalTrades": 991.0,
-                "grossProfit": 138053.35,
-                "grossLoss": -125272.04,
-                "netProfit": 12781.32,
-                "longTrades": 383.0,
-                "shortTrades": 608.0,
-                "longPositionNetResult": 7571.0,
-                "shortPositionNetResult": 5210.0,
-                "maximumConsecutiveWins": 11.0,
-                "maximumConsecutiveLoses": 14.0,
-                "relativeDropdown": 125.05
+                "grossProfit": 154441.57,
+                "grossLoss": 129927.12,
+                "netProfit": 24514.45,
+                "maximumConsecutiveLoses": 10
               },
               "5": {
-                "endingBalance": 110447.22,
-                "totalProfit": 10447.22,
-                "totalTrades": 991.0,
-                "grossProfit": 135010.49,
-                "grossLoss": -124563.27,
-                "netProfit": 10447.22,
-                "longTrades": 383.0,
-                "shortTrades": 608.0,
-                "longPositionNetResult": 5553.0,
-                "shortPositionNetResult": 4894.0,
-                "maximumConsecutiveWins": 11.0,
-                "maximumConsecutiveLoses": 14.0,
-                "relativeDropdown": 12338.74
+                "grossProfit": 148440.8,
+                "grossLoss": -128510.71,
+                "netProfit": 19930.1,
+                "maximumConsecutiveLoses": 10
               }
             }
           }
@@ -14443,7 +14408,9 @@
             "shortPositionNetResult": 3847.0,
             "maximumConsecutiveWins": 13.0,
             "maximumConsecutiveLoses": 11.0,
-            "relativeDropdown": 11313.26
+            "relativeDropdown": 11313.26,
+            "long_win_percentage": 44.02,
+            "short_win_percentage": 45.39
           },
           "2": {
             "endingBalance": 96620.25,
@@ -14458,7 +14425,9 @@
             "shortPositionNetResult": 9656.0,
             "maximumConsecutiveWins": 13.0,
             "maximumConsecutiveLoses": 14.0,
-            "relativeDropdown": 11788.84
+            "relativeDropdown": 11788.84,
+            "long_win_percentage": 44.02,
+            "short_win_percentage": 45.39
           },
           "3": {
             "endingBalance": 97023.72,
@@ -14473,7 +14442,9 @@
             "shortPositionNetResult": 10444.0,
             "maximumConsecutiveWins": 13.0,
             "maximumConsecutiveLoses": 14.0,
-            "relativeDropdown": 15019.62
+            "relativeDropdown": 15019.62,
+            "long_win_percentage": 44.02,
+            "short_win_percentage": 45.39
           },
           "4": {
             "endingBalance": 97796.77,
@@ -14488,7 +14459,9 @@
             "shortPositionNetResult": 12209.0,
             "maximumConsecutiveWins": 13.0,
             "maximumConsecutiveLoses": 15.0,
-            "relativeDropdown": 14051.32
+            "relativeDropdown": 14051.32,
+            "long_win_percentage": 44.02,
+            "short_win_percentage": 45.39
           },
           "5": {
             "endingBalance": 98201.61,
@@ -14503,7 +14476,9 @@
             "shortPositionNetResult": 13227.0,
             "maximumConsecutiveWins": 13.0,
             "maximumConsecutiveLoses": 15.0,
-            "relativeDropdown": 12945.25
+            "relativeDropdown": 12945.25,
+            "long_win_percentage": 44.02,
+            "short_win_percentage": 45.39
           }
         }
       },
@@ -17111,7 +17086,9 @@
             "shortPositionNetResult": -8609.0,
             "maximumConsecutiveWins": 7.0,
             "maximumConsecutiveLoses": 17.0,
-            "relativeDropdown": 25774.35
+            "relativeDropdown": 25774.35,
+            "long_win_percentage": 27.4,
+            "short_win_percentage": 31.66
           },
           "2": {
             "endingBalance": 65071.77,
@@ -17126,7 +17103,9 @@
             "shortPositionNetResult": -13513.0,
             "maximumConsecutiveWins": 7.0,
             "maximumConsecutiveLoses": 18.0,
-            "relativeDropdown": 36247.59
+            "relativeDropdown": 36247.59,
+            "long_win_percentage": 18.94,
+            "short_win_percentage": 24.28
           },
           "3": {
             "endingBalance": 43715.28,
@@ -17141,7 +17120,9 @@
             "shortPositionNetResult": -27902.0,
             "maximumConsecutiveWins": 6.0,
             "maximumConsecutiveLoses": 23.0,
-            "relativeDropdown": 56524.11
+            "relativeDropdown": 56524.11,
+            "long_win_percentage": 10.23,
+            "short_win_percentage": 14.97
           },
           "4": {
             "endingBalance": 26567.92,
@@ -17156,7 +17137,9 @@
             "shortPositionNetResult": -45620.0,
             "maximumConsecutiveWins": 6.0,
             "maximumConsecutiveLoses": 23.0,
-            "relativeDropdown": 74419.52
+            "relativeDropdown": 74419.52,
+            "long_win_percentage": 6.69,
+            "short_win_percentage": 8.6
           },
           "5": {
             "endingBalance": 16451.63,
@@ -17171,7 +17154,9 @@
             "shortPositionNetResult": -57087.0,
             "maximumConsecutiveWins": 6.0,
             "maximumConsecutiveLoses": 23.0,
-            "relativeDropdown": 83789.66
+            "relativeDropdown": 83789.66,
+            "long_win_percentage": 3.91,
+            "short_win_percentage": 4.37
           }
         }
       },
@@ -17261,34 +17246,34 @@
             "name": "Breakeven SL",
             "data": {
               "1.5": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 209628.77,
+                "grossLoss": -223757.78,
+                "netProfit": -14129.0,
+                "maximumConsecutiveLoses": 13
               },
               "2": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 193569.16,
+                "grossLoss": -214594.24,
+                "netProfit": -21025.08,
+                "maximumConsecutiveLoses": 13
               },
               "3": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 150483.31,
+                "grossLoss": 189432.75,
+                "netProfit": -38949.44,
+                "maximumConsecutiveLoses": 13
               },
               "4": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 103050.94,
+                "grossLoss": -161838.02,
+                "netProfit": -58787.08,
+                "maximumConsecutiveLoses": 13
               },
               "5": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 62792.87,
+                "grossLoss": -135492.51,
+                "netProfit": -72699.64,
+                "maximumConsecutiveLoses": 13
               }
             }
           }
@@ -19629,7 +19614,9 @@
             "shortPositionNetResult": -2074.0,
             "maximumConsecutiveWins": 9.0,
             "maximumConsecutiveLoses": 14.0,
-            "relativeDropdown": 11468.0
+            "relativeDropdown": 11468.0,
+            "long_win_percentage": 45.71,
+            "short_win_percentage": 43.16
           },
           "2": {
             "endingBalance": 111709.69,
@@ -19644,7 +19631,9 @@
             "shortPositionNetResult": 4563.0,
             "maximumConsecutiveWins": 9.0,
             "maximumConsecutiveLoses": 25.0,
-            "relativeDropdown": 9362.25
+            "relativeDropdown": 9362.25,
+            "long_win_percentage": 43.96,
+            "short_win_percentage": 40.94
           },
           "3": {
             "endingBalance": 121899.62,
@@ -19659,7 +19648,9 @@
             "shortPositionNetResult": 10271.0,
             "maximumConsecutiveWins": 9.0,
             "maximumConsecutiveLoses": 25.0,
-            "relativeDropdown": 10722.48
+            "relativeDropdown": 10722.48,
+            "long_win_percentage": 42.73,
+            "short_win_percentage": 38.47
           },
           "4": {
             "endingBalance": 126386.22,
@@ -19674,7 +19665,9 @@
             "shortPositionNetResult": 11482.0,
             "maximumConsecutiveWins": 9.0,
             "maximumConsecutiveLoses": 25.0,
-            "relativeDropdown": 14761.37
+            "relativeDropdown": 14761.37,
+            "long_win_percentage": 42.56,
+            "short_win_percentage": 37.48
           },
           "5": {
             "endingBalance": 127249.26,
@@ -19689,7 +19682,9 @@
             "shortPositionNetResult": 13032.0,
             "maximumConsecutiveWins": 9.0,
             "maximumConsecutiveLoses": 25.0,
-            "relativeDropdown": 13807.39
+            "relativeDropdown": 13807.39,
+            "long_win_percentage": 42.38,
+            "short_win_percentage": 37.24
           }
         }
       },
@@ -19779,34 +19774,34 @@
             "name": "Breakeven SL",
             "data": {
               "1.5": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 144051.36,
+                "grossLoss": -142758.56,
+                "netProfit": 1292.8,
+                "maximumConsecutiveLoses": 9
               },
               "2": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 151827.97,
+                "grossLoss": -146600.87,
+                "netProfit": 5227.1,
+                "maximumConsecutiveLoses": 9
               },
               "3": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 160535.37,
+                "grossLoss": -148799.25,
+                "netProfit": 11736.12,
+                "maximumConsecutiveLoses": 9
               },
               "4": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 161814.47,
+                "grossLoss": -147596.07,
+                "netProfit": 14218.4,
+                "maximumConsecutiveLoses": 9
               },
               "5": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 159561.71,
+                "grossLoss": 144897.02,
+                "netProfit": 14664.69,
+                "maximumConsecutiveLoses": 9
               }
             }
           }
