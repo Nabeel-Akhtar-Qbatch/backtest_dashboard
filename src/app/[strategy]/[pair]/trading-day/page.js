@@ -73,7 +73,7 @@ const TableComponent = ({ props }) => {
     <Table style={styles.table}>
       <TableHeader>
         <TableRow>
-          <TableHead style={styles.header}>PAK</TableHead>
+          <TableHead style={styles.header}>Day</TableHead>
           {columns.map((column) => (
             <TableHead
               key={column}
@@ -129,7 +129,7 @@ const TableComponent = ({ props }) => {
       </TableBody>
       <TableHeader>
         <TableRow>
-          <TableHead style={styles.header}>PAK</TableHead>
+          <TableHead style={styles.header}>Day</TableHead>
           {columns.map((column) => (
             <TableHead
               key={column}
