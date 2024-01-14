@@ -3317,7 +3317,6 @@
                 "maximumConsecutiveWins": 6.0,
                 "maximumConsecutiveLoses": 13.0,
                 "relativeDropdown": 15587.89,
-                ,
                 "long_win_percentage": 46.59,
                 "short_win_percentage": 38.0
               },
@@ -3673,7 +3672,7 @@
               },
               "3": {
                 "tradeCount": 44,
-                "netProfit": -737.7700000000002
+                "netProfit": -737.7702
               },
               "4": {
                 "tradeCount": 44,
@@ -3715,7 +3714,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 107,
-                "netProfit": 460.1100000000001
+                "netProfit": 460.1101
               },
               "2": {
                 "tradeCount": 107,
@@ -3727,7 +3726,7 @@
               },
               "4": {
                 "tradeCount": 107,
-                "netProfit": 1133.6299999999999
+                "netProfit": 1133.629
               },
               "5": {
                 "tradeCount": 107,
@@ -3765,7 +3764,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 82,
-                "netProfit": -2013.3300000000002
+                "netProfit": -2013.3302
               },
               "2": {
                 "tradeCount": 82,
@@ -3790,7 +3789,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 68,
-                "netProfit": -10.769999999999982
+                "netProfit": -10.76982
               },
               "2": {
                 "tradeCount": 68,
@@ -3802,7 +3801,7 @@
               },
               "4": {
                 "tradeCount": 68,
-                "netProfit": -3687.6800000000003
+                "netProfit": -3687.6803
               },
               "5": {
                 "tradeCount": 68,
@@ -3815,7 +3814,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 69,
-                "netProfit": -819.0699999999999
+                "netProfit": -819.069
               },
               "2": {
                 "tradeCount": 69,
@@ -3852,7 +3851,7 @@
               },
               "4": {
                 "tradeCount": 80,
-                "netProfit": -6453.4400000000005
+                "netProfit": -6453.4405
               },
               "5": {
                 "tradeCount": 80,
@@ -3919,7 +3918,7 @@
               },
               "2": {
                 "tradeCount": 169,
-                "netProfit": -1837.5300000000002
+                "netProfit": -1837.5302
               },
               "3": {
                 "tradeCount": 169,
@@ -3952,7 +3951,7 @@
               },
               "4": {
                 "tradeCount": 20,
-                "netProfit": -401.90999999999997
+                "netProfit": -401.9097
               },
               "5": {
                 "tradeCount": 20,
@@ -6411,7 +6410,7 @@
             "maximumConsecutiveLoses": 18.0,
             "relativeDropdown": 13178.29,
             "long_win_percentage": 41.72,
-            "short_win_percentage":  42.79
+            "short_win_percentage": 42.79
           },
           "4": {
             "endingBalance": 114025.02,
@@ -6542,14 +6541,14 @@
               },
               "2": {
                 "grossProfit": 157631.38,
-                "grossLoss":  -144071.05,
+                "grossLoss": -144071.05,
                 "netProfit": 13560.33,
                 "maximumConsecutiveLoses": 13
               },
               "3": {
                 "grossProfit": 157521.64,
                 "grossLoss": -142642.37,
-                "netProfit":14879.27,
+                "netProfit": 14879.27,
                 "maximumConsecutiveLoses": 13
               },
               "4": {
@@ -6560,7 +6559,7 @@
               },
               "5": {
                 "grossProfit": 157216.08,
-                "grossLoss":-144146.92,
+                "grossLoss": -144146.92,
                 "netProfit": 13069.16,
                 "maximumConsecutiveLoses": 13
               }
@@ -6835,7 +6834,7 @@
               },
               "2": {
                 "tradeCount": 16,
-                "netProfit": -2490.3900000000003
+                "netProfit": -2490.3903
               },
               "3": {
                 "tradeCount": 16,
@@ -6864,15 +6863,15 @@
               },
               "3": {
                 "tradeCount": 11,
-                "netProfit": -1865.5800000000002
+                "netProfit": -1865.5802
               },
               "4": {
                 "tradeCount": 11,
-                "netProfit": -1646.3500000000001
+                "netProfit": -1646.3501
               },
               "5": {
                 "tradeCount": 11,
-                "netProfit": -1694.3999999999999
+                "netProfit": -1694.399
               }
             }
           },
@@ -6893,7 +6892,7 @@
               },
               "4": {
                 "tradeCount": 21,
-                "netProfit": 1995.6200000000001
+                "netProfit": 1995.6201
               },
               "5": {
                 "tradeCount": 21,
@@ -6910,7 +6909,7 @@
               },
               "2": {
                 "tradeCount": 75,
-                "netProfit": 302.82000000000016
+                "netProfit": 302.82016
               },
               "3": {
                 "tradeCount": 75,
@@ -6918,7 +6917,7 @@
               },
               "4": {
                 "tradeCount": 75,
-                "netProfit": 537.8400000000001
+                "netProfit": 537.8401
               },
               "5": {
                 "tradeCount": 75,
@@ -6972,7 +6971,7 @@
               },
               "5": {
                 "tradeCount": 82,
-                "netProfit": -3091.4900000000002
+                "netProfit": -3091.4902
               }
             }
           },
@@ -6993,7 +6992,7 @@
               },
               "4": {
                 "tradeCount": 77,
-                "netProfit": 1848.1399999999999
+                "netProfit": 1848.139
               },
               "5": {
                 "tradeCount": 77,
@@ -7006,7 +7005,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 88,
-                "netProfit": -2236.4900000000002
+                "netProfit": -2236.4902
               },
               "2": {
                 "tradeCount": 88,
@@ -7031,7 +7030,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 165,
-                "netProfit": -6369.700000000001
+                "netProfit": -6369.701
               },
               "2": {
                 "tradeCount": 165,
@@ -7056,7 +7055,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 225,
-                "netProfit": 3153.1800000000003
+                "netProfit": 3153.1803
               },
               "2": {
                 "tradeCount": 225,
@@ -7147,7 +7146,7 @@
               },
               "5": {
                 "tradeCount": 33,
-                "netProfit": -412.41999999999996
+                "netProfit": -412.4196
               }
             }
           }
@@ -9053,7 +9052,9 @@
             "shortPositionNetResult": 7093.0,
             "maximumConsecutiveWins": 15.0,
             "maximumConsecutiveLoses": 15.0,
-            "relativeDropdown": 17431.55
+            "relativeDropdown": 17431.55,
+            "long_win_percentage": 39.68,
+            "short_win_percentage": 44.43
           },
           "2": {
             "endingBalance": 88592.71,
@@ -9068,7 +9069,9 @@
             "shortPositionNetResult": 10628.0,
             "maximumConsecutiveWins": 15.0,
             "maximumConsecutiveLoses": 20.0,
-            "relativeDropdown": 19462.82
+            "relativeDropdown": 19462.82,
+            "long_win_percentage": 35.45,
+            "short_win_percentage": 42.08
           },
           "3": {
             "endingBalance": 85391.46,
@@ -9083,7 +9086,9 @@
             "shortPositionNetResult": 8341.0,
             "maximumConsecutiveWins": 15.0,
             "maximumConsecutiveLoses": 20.0,
-            "relativeDropdown": 25246.86
+            "relativeDropdown": 25246.86,
+            "long_win_percentage": 32.8,
+            "short_win_percentage": 39.83
           },
           "4": {
             "endingBalance": 86431.91,
@@ -9098,7 +9103,9 @@
             "shortPositionNetResult": 8656.0,
             "maximumConsecutiveWins": 14.0,
             "maximumConsecutiveLoses": 20.0,
-            "relativeDropdown": 24740.39
+            "relativeDropdown": 24740.39,
+            "long_win_percentage": 32.06,
+            "short_win_percentage": 39.29
           },
           "5": {
             "endingBalance": 87670.28,
@@ -9113,7 +9120,9 @@
             "shortPositionNetResult": 8932.0,
             "maximumConsecutiveWins": 14.0,
             "maximumConsecutiveLoses": 27.0,
-            "relativeDropdown": 23638.25
+            "relativeDropdown": 23638.25,
+            "long_win_percentage": 31.85,
+            "short_win_percentage": 39.19
           }
         }
       },
@@ -9203,34 +9212,34 @@
             "name": "Breakeven SL",
             "data": {
               "1.5": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 177567.4,
+                "grossLoss": -193011.99,
+                "netProfit": -15444.59,
+                "maximumConsecutiveLoses": 15
               },
               "2": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 167232.46,
+                "grossLoss": -187778.23,
+                "netProfit": -20545.77,
+                "maximumConsecutiveLoses": 15
               },
               "3": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 155556.66,
+                "grossLoss": -178879.83,
+                "netProfit": -23323.17,
+                "maximumConsecutiveLoses": 15
               },
               "4": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 152634.89,
+                "grossLoss": -177752.54,
+                "netProfit": -25117.65,
+                "maximumConsecutiveLoses": 15
               },
               "5": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 156320.38,
+                "grossLoss": -179992.58,
+                "netProfit": -23672.2,
+                "maximumConsecutiveLoses": 14
               }
             }
           }
@@ -9507,7 +9516,7 @@
               },
               "3": {
                 "tradeCount": 15,
-                "netProfit": -1002.1200000000001
+                "netProfit": -1002.1201
               },
               "4": {
                 "tradeCount": 15,
@@ -9524,7 +9533,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 31,
-                "netProfit": -3902.8100000000004
+                "netProfit": -3902.8104
               },
               "2": {
                 "tradeCount": 31,
@@ -9561,11 +9570,11 @@
               },
               "4": {
                 "tradeCount": 82,
-                "netProfit": -1392.8700000000001
+                "netProfit": -1392.8701
               },
               "5": {
                 "tradeCount": 82,
-                "netProfit": -1093.6100000000001
+                "netProfit": -1093.6101
               }
             }
           },
@@ -9578,11 +9587,11 @@
               },
               "2": {
                 "tradeCount": 194,
-                "netProfit": 203.57999999999993
+                "netProfit": 203.5793
               },
               "3": {
                 "tradeCount": 194,
-                "netProfit": -81.94999999999993
+                "netProfit": -81.9493
               },
               "4": {
                 "tradeCount": 194,
@@ -9590,7 +9599,7 @@
               },
               "5": {
                 "tradeCount": 194,
-                "netProfit": 501.1500000000001
+                "netProfit": 501.1501
               }
             }
           },
@@ -9628,7 +9637,7 @@
               },
               "2": {
                 "tradeCount": 182,
-                "netProfit": -279.3600000000001
+                "netProfit": -279.3601
               },
               "3": {
                 "tradeCount": 182,
@@ -9640,7 +9649,7 @@
               },
               "5": {
                 "tradeCount": 182,
-                "netProfit": -239.19999999999982
+                "netProfit": -239.1982
               }
             }
           },
@@ -9699,7 +9708,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 139,
-                "netProfit": 204.07000000000005
+                "netProfit": 204.07005
               },
               "2": {
                 "tradeCount": 139,
@@ -9707,7 +9716,7 @@
               },
               "3": {
                 "tradeCount": 139,
-                "netProfit": 3531.7700000000004
+                "netProfit": 3531.7704
               },
               "4": {
                 "tradeCount": 139,
@@ -9732,7 +9741,7 @@
               },
               "3": {
                 "tradeCount": 195,
-                "netProfit": 2229.6000000000004
+                "netProfit": 2229.6004
               },
               "4": {
                 "tradeCount": 195,
@@ -9740,7 +9749,7 @@
               },
               "5": {
                 "tradeCount": 195,
-                "netProfit": 446.5600000000004
+                "netProfit": 446.5604
               }
             }
           },
@@ -9753,7 +9762,7 @@
               },
               "2": {
                 "tradeCount": 259,
-                "netProfit": 1545.7500000000002
+                "netProfit": 1545.7502
               },
               "3": {
                 "tradeCount": 259,
@@ -9799,7 +9808,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 22,
-                "netProfit": 3.6900000000000013
+                "netProfit": 3.6900013
               },
               "2": {
                 "tradeCount": 22,
@@ -9815,7 +9824,7 @@
               },
               "5": {
                 "tradeCount": 22,
-                "netProfit": -1.1600000000000001
+                "netProfit": -1.1600001
               }
             }
           }
@@ -11721,7 +11730,9 @@
             "shortPositionNetResult": 10107.0,
             "maximumConsecutiveWins": 11.0,
             "maximumConsecutiveLoses": 11.0,
-            "relativeDropdown": 10273.35
+            "relativeDropdown": 10273.35,
+            "long_win_percentage": 44.02,
+            "short_win_percentage": 45.39
           },
           "2": {
             "endingBalance": 113917.04,
@@ -11736,7 +11747,9 @@
             "shortPositionNetResult": 10659.0,
             "maximumConsecutiveWins": 11.0,
             "maximumConsecutiveLoses": 11.0,
-            "relativeDropdown": 13352.79
+            "relativeDropdown": 13352.79,
+            "long_win_percentage": 42.6,
+            "short_win_percentage": 41.99
           },
           "3": {
             "endingBalance": 116174.82,
@@ -11751,7 +11764,9 @@
             "shortPositionNetResult": 10592.0,
             "maximumConsecutiveWins": 11.0,
             "maximumConsecutiveLoses": 11.0,
-            "relativeDropdown": 12575.69
+            "relativeDropdown": 12575.69,
+            "long_win_percentage": 41.18,
+            "short_win_percentage": 39.15
           },
           "4": {
             "endingBalance": 118501.7,
@@ -11766,7 +11781,9 @@
             "shortPositionNetResult": 10276.0,
             "maximumConsecutiveWins": 11.0,
             "maximumConsecutiveLoses": 11.0,
-            "relativeDropdown": 13454.76
+            "relativeDropdown": 13454.76,
+            "long_win_percentage": 40.77,
+            "short_win_percentage": 38.58
           },
           "5": {
             "endingBalance": 113822.34,
@@ -11781,7 +11798,9 @@
             "shortPositionNetResult": 7034.0,
             "maximumConsecutiveWins": 11.0,
             "maximumConsecutiveLoses": 11.0,
-            "relativeDropdown": 12942.89
+            "relativeDropdown": 12942.89,
+            "long_win_percentage": 40.7,
+            "short_win_percentage": 38.3
           }
         }
       },
@@ -11871,79 +11890,34 @@
             "name": "Breakeven SL",
             "data": {
               "1.5": {
-                "endingBalance": 109989.76,
-                "totalProfit": 9989.76,
-                "totalTrades": 991.0,
-                "grossProfit": 126523.08,
-                "grossLoss": -116533.32,
-                "netProfit": 9989.76,
-                "longTrades": 383.0,
-                "shortTrades": 608.0,
-                "longPositionNetResult": 3441.0,
-                "shortPositionNetResult": 6548.0,
-                "maximumConsecutiveWins": 12.0,
-                "maximumConsecutiveLoses": 11.0,
-                "relativeDropdown": 6578.79
+                "grossProfit": 141057.16,
+                "grossLoss": -127048.06,
+                "netProfit": 14009.1,
+                "maximumConsecutiveLoses": 10
               },
               "2": {
-                "endingBalance": 108977.34,
-                "totalProfit": 8977.34,
-                "totalTrades": 991.0,
-                "grossProfit": 130298.17,
-                "grossLoss": -121320.84,
-                "netProfit": 8977.34,
-                "longTrades": 383.0,
-                "shortTrades": 608.0,
-                "longPositionNetResult": 4108.0,
-                "shortPositionNetResult": 4869.0,
-                "maximumConsecutiveWins": 11.0,
-                "maximumConsecutiveLoses": 11.0,
-                "relativeDropdown": 10498.42
+                "grossProfit": 145864.13,
+                "grossLoss": -127995.35,
+                "netProfit": 17868.78,
+                "maximumConsecutiveLoses": 10
               },
               "3": {
-                "endingBalance": 113425.76,
-                "totalProfit": 13425.76,
-                "totalTrades": 991.0,
-                "grossProfit": 138514.57,
-                "grossLoss": -125088.81,
-                "netProfit": 13425.76,
-                "longTrades": 383.0,
-                "shortTrades": 608.0,
-                "longPositionNetResult": 7816.0,
-                "shortPositionNetResult": 5610.0,
-                "maximumConsecutiveWins": 11.0,
-                "maximumConsecutiveLoses": 11.0,
-                "relativeDropdown": 10631.9
+                "grossProfit": 150127.84,
+                "grossLoss": -128968.69,
+                "netProfit": 21159.14,
+                "maximumConsecutiveLoses": 10
               },
               "4": {
-                "endingBalance": 112781.32,
-                "totalProfit": 12781.32,
-                "totalTrades": 991.0,
-                "grossProfit": 138053.35,
-                "grossLoss": -125272.04,
-                "netProfit": 12781.32,
-                "longTrades": 383.0,
-                "shortTrades": 608.0,
-                "longPositionNetResult": 7571.0,
-                "shortPositionNetResult": 5210.0,
-                "maximumConsecutiveWins": 11.0,
-                "maximumConsecutiveLoses": 14.0,
-                "relativeDropdown": 125.05
+                "grossProfit": 154441.57,
+                "grossLoss": 129927.12,
+                "netProfit": 24514.45,
+                "maximumConsecutiveLoses": 10
               },
               "5": {
-                "endingBalance": 110447.22,
-                "totalProfit": 10447.22,
-                "totalTrades": 991.0,
-                "grossProfit": 135010.49,
-                "grossLoss": -124563.27,
-                "netProfit": 10447.22,
-                "longTrades": 383.0,
-                "shortTrades": 608.0,
-                "longPositionNetResult": 5553.0,
-                "shortPositionNetResult": 4894.0,
-                "maximumConsecutiveWins": 11.0,
-                "maximumConsecutiveLoses": 14.0,
-                "relativeDropdown": 12338.74
+                "grossProfit": 148440.8,
+                "grossLoss": -128510.71,
+                "netProfit": 19930.1,
+                "maximumConsecutiveLoses": 10
               }
             }
           }
@@ -12216,11 +12190,11 @@
               },
               "2": {
                 "tradeCount": 21,
-                "netProfit": 742.4799999999999
+                "netProfit": 742.479
               },
               "3": {
                 "tradeCount": 21,
-                "netProfit": 1686.0300000000002
+                "netProfit": 1686.0302
               },
               "4": {
                 "tradeCount": 21,
@@ -12270,7 +12244,7 @@
               },
               "3": {
                 "tradeCount": 69,
-                "netProfit": -2197.3999999999996
+                "netProfit": -2197.396
               },
               "4": {
                 "tradeCount": 69,
@@ -12291,11 +12265,11 @@
               },
               "2": {
                 "tradeCount": 114,
-                "netProfit": -200.73000000000002
+                "netProfit": -200.73002
               },
               "3": {
                 "tradeCount": 114,
-                "netProfit": -2228.7200000000003
+                "netProfit": -2228.7203
               },
               "4": {
                 "tradeCount": 114,
@@ -12370,7 +12344,7 @@
               },
               "3": {
                 "tradeCount": 73,
-                "netProfit": -661.4799999999999
+                "netProfit": -661.479
               },
               "4": {
                 "tradeCount": 73,
@@ -12378,7 +12352,7 @@
               },
               "5": {
                 "tradeCount": 73,
-                "netProfit": -716.9100000000001
+                "netProfit": -716.9101
               }
             }
           },
@@ -12387,7 +12361,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 75,
-                "netProfit": -758.0799999999999
+                "netProfit": -758.079
               },
               "2": {
                 "tradeCount": 75,
@@ -12478,7 +12452,7 @@
               },
               "5": {
                 "tradeCount": 155,
-                "netProfit": 1762.0700000000002
+                "netProfit": 1762.0702
               }
             }
           },
@@ -12487,11 +12461,11 @@
             "data": {
               "1.5": {
                 "tradeCount": 137,
-                "netProfit": -1371.8000000000002
+                "netProfit": -1371.8002
               },
               "2": {
                 "tradeCount": 137,
-                "netProfit": -471.5300000000001
+                "netProfit": -471.5301
               },
               "3": {
                 "tradeCount": 137,
@@ -12499,11 +12473,11 @@
               },
               "4": {
                 "tradeCount": 137,
-                "netProfit": 535.4099999999999
+                "netProfit": 535.409
               },
               "5": {
                 "tradeCount": 137,
-                "netProfit": 279.9000000000001
+                "netProfit": 279.9001
               }
             }
           },
@@ -12528,7 +12502,7 @@
               },
               "5": {
                 "tradeCount": 8,
-                "netProfit": -96.25999999999999
+                "netProfit": -96.2599
               }
             }
           }
@@ -14434,7 +14408,9 @@
             "shortPositionNetResult": 3847.0,
             "maximumConsecutiveWins": 13.0,
             "maximumConsecutiveLoses": 11.0,
-            "relativeDropdown": 11313.26
+            "relativeDropdown": 11313.26,
+            "long_win_percentage": 44.02,
+            "short_win_percentage": 45.39
           },
           "2": {
             "endingBalance": 96620.25,
@@ -14449,7 +14425,9 @@
             "shortPositionNetResult": 9656.0,
             "maximumConsecutiveWins": 13.0,
             "maximumConsecutiveLoses": 14.0,
-            "relativeDropdown": 11788.84
+            "relativeDropdown": 11788.84,
+            "long_win_percentage": 44.02,
+            "short_win_percentage": 45.39
           },
           "3": {
             "endingBalance": 97023.72,
@@ -14464,7 +14442,9 @@
             "shortPositionNetResult": 10444.0,
             "maximumConsecutiveWins": 13.0,
             "maximumConsecutiveLoses": 14.0,
-            "relativeDropdown": 15019.62
+            "relativeDropdown": 15019.62,
+            "long_win_percentage": 44.02,
+            "short_win_percentage": 45.39
           },
           "4": {
             "endingBalance": 97796.77,
@@ -14479,7 +14459,9 @@
             "shortPositionNetResult": 12209.0,
             "maximumConsecutiveWins": 13.0,
             "maximumConsecutiveLoses": 15.0,
-            "relativeDropdown": 14051.32
+            "relativeDropdown": 14051.32,
+            "long_win_percentage": 44.02,
+            "short_win_percentage": 45.39
           },
           "5": {
             "endingBalance": 98201.61,
@@ -14494,7 +14476,9 @@
             "shortPositionNetResult": 13227.0,
             "maximumConsecutiveWins": 13.0,
             "maximumConsecutiveLoses": 15.0,
-            "relativeDropdown": 12945.25
+            "relativeDropdown": 12945.25,
+            "long_win_percentage": 44.02,
+            "short_win_percentage": 45.39
           }
         }
       },
@@ -14880,7 +14864,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 8,
-                "netProfit": -625.8499999999999
+                "netProfit": -625.849
               },
               "2": {
                 "tradeCount": 8,
@@ -14909,7 +14893,7 @@
               },
               "2": {
                 "tradeCount": 15,
-                "netProfit": -1973.3899999999999
+                "netProfit": -1973.389
               },
               "3": {
                 "tradeCount": 15,
@@ -14921,7 +14905,7 @@
               },
               "5": {
                 "tradeCount": 15,
-                "netProfit": -1606.9099999999999
+                "netProfit": -1606.909
               }
             }
           },
@@ -14938,11 +14922,11 @@
               },
               "3": {
                 "tradeCount": 49,
-                "netProfit": -622.8900000000003
+                "netProfit": -622.8903
               },
               "4": {
                 "tradeCount": 49,
-                "netProfit": 967.8499999999999
+                "netProfit": 967.849
               },
               "5": {
                 "tradeCount": 49,
@@ -14984,11 +14968,11 @@
               },
               "2": {
                 "tradeCount": 141,
-                "netProfit": -912.1999999999999
+                "netProfit": -912.199
               },
               "3": {
                 "tradeCount": 141,
-                "netProfit": -366.55000000000007
+                "netProfit": -366.55007
               },
               "4": {
                 "tradeCount": 141,
@@ -14996,7 +14980,7 @@
               },
               "5": {
                 "tradeCount": 141,
-                "netProfit": 532.9399999999999
+                "netProfit": 532.939
               }
             }
           },
@@ -15005,7 +14989,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 93,
-                "netProfit": 532.1200000000003
+                "netProfit": 532.1203
               },
               "2": {
                 "tradeCount": 93,
@@ -15030,7 +15014,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 70,
-                "netProfit": -3993.6600000000003
+                "netProfit": -3993.6603
               },
               "2": {
                 "tradeCount": 70,
@@ -15038,11 +15022,11 @@
               },
               "3": {
                 "tradeCount": 70,
-                "netProfit": -2977.9700000000003
+                "netProfit": -2977.9703
               },
               "4": {
                 "tradeCount": 70,
-                "netProfit": -5774.299999999999
+                "netProfit": -5774.29
               },
               "5": {
                 "tradeCount": 70,
@@ -15080,7 +15064,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 139,
-                "netProfit": 183.03999999999996
+                "netProfit": 183.0396
               },
               "2": {
                 "tradeCount": 139,
@@ -15092,11 +15076,11 @@
               },
               "4": {
                 "tradeCount": 139,
-                "netProfit": 897.3800000000001
+                "netProfit": 897.3801
               },
               "5": {
                 "tradeCount": 139,
-                "netProfit": 841.6500000000001
+                "netProfit": 841.6501
               }
             }
           },
@@ -15155,7 +15139,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 192,
-                "netProfit": -1559.7600000000002
+                "netProfit": -1559.7602
               },
               "2": {
                 "tradeCount": 192,
@@ -15192,11 +15176,11 @@
               },
               "4": {
                 "tradeCount": 13,
-                "netProfit": -131.60999999999999
+                "netProfit": -131.6099
               },
               "5": {
                 "tradeCount": 13,
-                "netProfit": -132.98000000000002
+                "netProfit": -132.98002
               }
             }
           }
@@ -17102,7 +17086,9 @@
             "shortPositionNetResult": -8609.0,
             "maximumConsecutiveWins": 7.0,
             "maximumConsecutiveLoses": 17.0,
-            "relativeDropdown": 25774.35
+            "relativeDropdown": 25774.35,
+            "long_win_percentage": 27.4,
+            "short_win_percentage": 31.66
           },
           "2": {
             "endingBalance": 65071.77,
@@ -17117,7 +17103,9 @@
             "shortPositionNetResult": -13513.0,
             "maximumConsecutiveWins": 7.0,
             "maximumConsecutiveLoses": 18.0,
-            "relativeDropdown": 36247.59
+            "relativeDropdown": 36247.59,
+            "long_win_percentage": 18.94,
+            "short_win_percentage": 24.28
           },
           "3": {
             "endingBalance": 43715.28,
@@ -17132,7 +17120,9 @@
             "shortPositionNetResult": -27902.0,
             "maximumConsecutiveWins": 6.0,
             "maximumConsecutiveLoses": 23.0,
-            "relativeDropdown": 56524.11
+            "relativeDropdown": 56524.11,
+            "long_win_percentage": 10.23,
+            "short_win_percentage": 14.97
           },
           "4": {
             "endingBalance": 26567.92,
@@ -17147,7 +17137,9 @@
             "shortPositionNetResult": -45620.0,
             "maximumConsecutiveWins": 6.0,
             "maximumConsecutiveLoses": 23.0,
-            "relativeDropdown": 74419.52
+            "relativeDropdown": 74419.52,
+            "long_win_percentage": 6.69,
+            "short_win_percentage": 8.6
           },
           "5": {
             "endingBalance": 16451.63,
@@ -17162,7 +17154,9 @@
             "shortPositionNetResult": -57087.0,
             "maximumConsecutiveWins": 6.0,
             "maximumConsecutiveLoses": 23.0,
-            "relativeDropdown": 83789.66
+            "relativeDropdown": 83789.66,
+            "long_win_percentage": 3.91,
+            "short_win_percentage": 4.37
           }
         }
       },
@@ -17252,34 +17246,34 @@
             "name": "Breakeven SL",
             "data": {
               "1.5": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 209628.77,
+                "grossLoss": -223757.78,
+                "netProfit": -14129.0,
+                "maximumConsecutiveLoses": 13
               },
               "2": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 193569.16,
+                "grossLoss": -214594.24,
+                "netProfit": -21025.08,
+                "maximumConsecutiveLoses": 13
               },
               "3": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 150483.31,
+                "grossLoss": 189432.75,
+                "netProfit": -38949.44,
+                "maximumConsecutiveLoses": 13
               },
               "4": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 103050.94,
+                "grossLoss": -161838.02,
+                "netProfit": -58787.08,
+                "maximumConsecutiveLoses": 13
               },
               "5": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 62792.87,
+                "grossLoss": -135492.51,
+                "netProfit": -72699.64,
+                "maximumConsecutiveLoses": 13
               }
             }
           }
@@ -17581,7 +17575,7 @@
               },
               "3": {
                 "tradeCount": 357,
-                "netProfit": -3295.6000000000004
+                "netProfit": -3295.6004
               },
               "4": {
                 "tradeCount": 357,
@@ -17706,7 +17700,7 @@
               },
               "3": {
                 "tradeCount": 206,
-                "netProfit": 367.31999999999994
+                "netProfit": 367.3194
               },
               "4": {
                 "tradeCount": 206,
@@ -17748,7 +17742,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 296,
-                "netProfit": -930.6199999999999
+                "netProfit": -930.619
               },
               "2": {
                 "tradeCount": 296,
@@ -17777,7 +17771,7 @@
               },
               "2": {
                 "tradeCount": 79,
-                "netProfit": -1273.3899999999999
+                "netProfit": -1273.389
               },
               "3": {
                 "tradeCount": 79,
@@ -19620,7 +19614,9 @@
             "shortPositionNetResult": -2074.0,
             "maximumConsecutiveWins": 9.0,
             "maximumConsecutiveLoses": 14.0,
-            "relativeDropdown": 11468.0
+            "relativeDropdown": 11468.0,
+            "long_win_percentage": 45.71,
+            "short_win_percentage": 43.16
           },
           "2": {
             "endingBalance": 111709.69,
@@ -19635,7 +19631,9 @@
             "shortPositionNetResult": 4563.0,
             "maximumConsecutiveWins": 9.0,
             "maximumConsecutiveLoses": 25.0,
-            "relativeDropdown": 9362.25
+            "relativeDropdown": 9362.25,
+            "long_win_percentage": 43.96,
+            "short_win_percentage": 40.94
           },
           "3": {
             "endingBalance": 121899.62,
@@ -19650,7 +19648,9 @@
             "shortPositionNetResult": 10271.0,
             "maximumConsecutiveWins": 9.0,
             "maximumConsecutiveLoses": 25.0,
-            "relativeDropdown": 10722.48
+            "relativeDropdown": 10722.48,
+            "long_win_percentage": 42.73,
+            "short_win_percentage": 38.47
           },
           "4": {
             "endingBalance": 126386.22,
@@ -19665,7 +19665,9 @@
             "shortPositionNetResult": 11482.0,
             "maximumConsecutiveWins": 9.0,
             "maximumConsecutiveLoses": 25.0,
-            "relativeDropdown": 14761.37
+            "relativeDropdown": 14761.37,
+            "long_win_percentage": 42.56,
+            "short_win_percentage": 37.48
           },
           "5": {
             "endingBalance": 127249.26,
@@ -19680,7 +19682,9 @@
             "shortPositionNetResult": 13032.0,
             "maximumConsecutiveWins": 9.0,
             "maximumConsecutiveLoses": 25.0,
-            "relativeDropdown": 13807.39
+            "relativeDropdown": 13807.39,
+            "long_win_percentage": 42.38,
+            "short_win_percentage": 37.24
           }
         }
       },
@@ -19770,34 +19774,34 @@
             "name": "Breakeven SL",
             "data": {
               "1.5": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 144051.36,
+                "grossLoss": -142758.56,
+                "netProfit": 1292.8,
+                "maximumConsecutiveLoses": 9
               },
               "2": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 151827.97,
+                "grossLoss": -146600.87,
+                "netProfit": 5227.1,
+                "maximumConsecutiveLoses": 9
               },
               "3": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 160535.37,
+                "grossLoss": -148799.25,
+                "netProfit": 11736.12,
+                "maximumConsecutiveLoses": 9
               },
               "4": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 161814.47,
+                "grossLoss": -147596.07,
+                "netProfit": 14218.4,
+                "maximumConsecutiveLoses": 9
               },
               "5": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 159561.71,
+                "grossLoss": 144897.02,
+                "netProfit": 14664.69,
+                "maximumConsecutiveLoses": 9
               }
             }
           }
@@ -20070,7 +20074,7 @@
               },
               "2": {
                 "tradeCount": 27,
-                "netProfit": 778.0200000000001
+                "netProfit": 778.0201
               },
               "3": {
                 "tradeCount": 27,
@@ -20082,7 +20086,7 @@
               },
               "5": {
                 "tradeCount": 27,
-                "netProfit": 37.39999999999998
+                "netProfit": 37.3998
               }
             }
           },
@@ -20116,7 +20120,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 77,
-                "netProfit": 176.15000000000003
+                "netProfit": 176.15003
               },
               "2": {
                 "tradeCount": 77,
@@ -20128,11 +20132,11 @@
               },
               "4": {
                 "tradeCount": 77,
-                "netProfit": 3276.1000000000004
+                "netProfit": 3276.1004
               },
               "5": {
                 "tradeCount": 77,
-                "netProfit": 773.6600000000001
+                "netProfit": 773.6601
               }
             }
           },
@@ -20149,7 +20153,7 @@
               },
               "3": {
                 "tradeCount": 133,
-                "netProfit": 249.3699999999999
+                "netProfit": 249.369
               },
               "4": {
                 "tradeCount": 133,
@@ -20157,7 +20161,7 @@
               },
               "5": {
                 "tradeCount": 133,
-                "netProfit": 290.60000000000036
+                "netProfit": 290.60036
               }
             }
           },
@@ -20166,7 +20170,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 178,
-                "netProfit": -2030.7800000000002
+                "netProfit": -2030.7802
               },
               "2": {
                 "tradeCount": 178,
@@ -20178,7 +20182,7 @@
               },
               "4": {
                 "tradeCount": 178,
-                "netProfit": -351.96000000000004
+                "netProfit": -351.96004
               },
               "5": {
                 "tradeCount": 178,
@@ -20216,15 +20220,15 @@
             "data": {
               "1.5": {
                 "tradeCount": 112,
-                "netProfit": 492.79999999999995
+                "netProfit": 492.7995
               },
               "2": {
                 "tradeCount": 112,
-                "netProfit": 82.15000000000009
+                "netProfit": 82.15009
               },
               "3": {
                 "tradeCount": 112,
-                "netProfit": -22.079999999999927
+                "netProfit": -22.07927
               },
               "4": {
                 "tradeCount": 112,
@@ -20270,11 +20274,11 @@
               },
               "2": {
                 "tradeCount": 114,
-                "netProfit": -48.84999999999991
+                "netProfit": -48.8491
               },
               "3": {
                 "tradeCount": 114,
-                "netProfit": 437.7299999999999
+                "netProfit": 437.729
               },
               "4": {
                 "tradeCount": 114,
@@ -20328,7 +20332,7 @@
               },
               "4": {
                 "tradeCount": 169,
-                "netProfit": 1873.5800000000004
+                "netProfit": 1873.5804
               },
               "5": {
                 "tradeCount": 169,
@@ -20341,7 +20345,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 140,
-                "netProfit": -962.0699999999999
+                "netProfit": -962.069
               },
               "2": {
                 "tradeCount": 140,
@@ -20349,15 +20353,15 @@
               },
               "3": {
                 "tradeCount": 140,
-                "netProfit": 153.57999999999993
+                "netProfit": 153.5793
               },
               "4": {
                 "tradeCount": 140,
-                "netProfit": 363.59000000000003
+                "netProfit": 363.59003
               },
               "5": {
                 "tradeCount": 140,
-                "netProfit": 360.81999999999994
+                "netProfit": 360.8194
               }
             }
           },
@@ -22288,7 +22292,9 @@
             "shortPositionNetResult": 996.0,
             "maximumConsecutiveWins": 8.0,
             "maximumConsecutiveLoses": 12.0,
-            "relativeDropdown": 18774.19
+            "relativeDropdown": 18774.19,
+            "long_win_percentage": 40.87,
+            "short_win_percentage": 43.58
           },
           "2": {
             "endingBalance": 87036.29,
@@ -22303,7 +22309,9 @@
             "shortPositionNetResult": 2457.0,
             "maximumConsecutiveWins": 8.0,
             "maximumConsecutiveLoses": 15.0,
-            "relativeDropdown": 21393.18
+            "relativeDropdown": 21393.18,
+            "long_win_percentage": 38.16,
+            "short_win_percentage": 41.31
           },
           "3": {
             "endingBalance": 90543.84,
@@ -22318,7 +22326,9 @@
             "shortPositionNetResult": 3745.0,
             "maximumConsecutiveWins": 8.0,
             "maximumConsecutiveLoses": 15.0,
-            "relativeDropdown": 22578.76
+            "relativeDropdown": 22578.76,
+            "long_win_percentage": 37.56,
+            "short_win_percentage": 39.55
           },
           "4": {
             "endingBalance": 94931.39,
@@ -22333,7 +22343,9 @@
             "shortPositionNetResult": 6132.0,
             "maximumConsecutiveWins": 8.0,
             "maximumConsecutiveLoses": 15.0,
-            "relativeDropdown": 20770.79
+            "relativeDropdown": 20770.79,
+            "long_win_percentage": 37.1,
+            "short_win_percentage": 39.29
           },
           "5": {
             "endingBalance": 97016.57,
@@ -22348,7 +22360,9 @@
             "shortPositionNetResult": 7968.0,
             "maximumConsecutiveWins": 8.0,
             "maximumConsecutiveLoses": 15.0,
-            "relativeDropdown": 20739.89
+            "relativeDropdown": 20739.89,
+            "long_win_percentage": 37.1,
+            "short_win_percentage": 39.29
           }
         }
       },
@@ -22438,34 +22452,34 @@
             "name": "Breakeven SL",
             "data": {
               "1.5": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 141538.51,
+                "grossLoss": -151282.38,
+                "netProfit": -9743.88,
+                "maximumConsecutiveLoses": 9
               },
               "2": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 141538.51,
+                "grossLoss": -151282.38,
+                "netProfit": -9743.88,
+                "maximumConsecutiveLoses": 9
               },
               "3": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 145795.96,
+                "grossLoss": -150620.38,
+                "netProfit": -4824.42,
+                "maximumConsecutiveLoses": 9
               },
               "4": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 153550.81,
+                "grossLoss": -153817.49,
+                "netProfit": -266.68,
+                "maximumConsecutiveLoses": 9
               },
               "5": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 157473.26,
+                "grossLoss": -155514.11,
+                "netProfit": 1959.15,
+                "maximumConsecutiveLoses": 9
               }
             }
           }
@@ -22734,23 +22748,23 @@
             "data": {
               "1.5": {
                 "tradeCount": 8,
-                "netProfit": -240.71000000000004
+                "netProfit": -240.71004
               },
               "2": {
                 "tradeCount": 8,
-                "netProfit": -12.660000000000082
+                "netProfit": -12.660082
               },
               "3": {
                 "tradeCount": 8,
-                "netProfit": -491.4599999999999
+                "netProfit": -491.459
               },
               "4": {
                 "tradeCount": 8,
-                "netProfit": -268.62999999999994
+                "netProfit": -268.6294
               },
               "5": {
                 "tradeCount": 8,
-                "netProfit": -35.55000000000007
+                "netProfit": -35.55007
               }
             }
           },
@@ -22796,11 +22810,11 @@
               },
               "4": {
                 "tradeCount": 73,
-                "netProfit": -893.6200000000001
+                "netProfit": -893.6201
               },
               "5": {
                 "tradeCount": 73,
-                "netProfit": -79.65000000000009
+                "netProfit": -79.65009
               }
             }
           },
@@ -22821,7 +22835,7 @@
               },
               "4": {
                 "tradeCount": 131,
-                "netProfit": -3720.4800000000005
+                "netProfit": -3720.4805
               },
               "5": {
                 "tradeCount": 131,
@@ -22842,11 +22856,11 @@
               },
               "3": {
                 "tradeCount": 169,
-                "netProfit": -107.18000000000029
+                "netProfit": -107.18029
               },
               "4": {
                 "tradeCount": 169,
-                "netProfit": -1050.0600000000004
+                "netProfit": -1050.0604
               },
               "5": {
                 "tradeCount": 169,
@@ -22867,11 +22881,11 @@
               },
               "3": {
                 "tradeCount": 142,
-                "netProfit": -553.5799999999999
+                "netProfit": -553.579
               },
               "4": {
                 "tradeCount": 142,
-                "netProfit": 915.9900000000002
+                "netProfit": 915.9902
               },
               "5": {
                 "tradeCount": 142,
@@ -22942,7 +22956,7 @@
               },
               "3": {
                 "tradeCount": 135,
-                "netProfit": 2356.5000000000005
+                "netProfit": 2356.5005
               },
               "4": {
                 "tradeCount": 135,
@@ -22992,7 +23006,7 @@
               },
               "3": {
                 "tradeCount": 220,
-                "netProfit": 2840.3900000000003
+                "netProfit": 2840.3903
               },
               "4": {
                 "tradeCount": 220,
@@ -23013,15 +23027,15 @@
               },
               "2": {
                 "tradeCount": 183,
-                "netProfit": -678.0699999999999
+                "netProfit": -678.069
               },
               "3": {
                 "tradeCount": 183,
-                "netProfit": -440.18000000000006
+                "netProfit": -440.18006
               },
               "4": {
                 "tradeCount": 183,
-                "netProfit": -411.48999999999995
+                "netProfit": -411.4895
               },
               "5": {
                 "tradeCount": 183,
@@ -25435,7 +25449,7 @@
               },
               "3": {
                 "tradeCount": 113,
-                "netProfit": 3054.2100000000005
+                "netProfit": 3054.2105
               },
               "4": {
                 "tradeCount": 113,
@@ -25452,11 +25466,11 @@
             "data": {
               "1.5": {
                 "tradeCount": 106,
-                "netProfit": 374.10999999999996
+                "netProfit": 374.1096
               },
               "2": {
                 "tradeCount": 106,
-                "netProfit": -679.3000000000002
+                "netProfit": -679.3002
               },
               "3": {
                 "tradeCount": 106,
@@ -25464,7 +25478,7 @@
               },
               "4": {
                 "tradeCount": 106,
-                "netProfit": -448.59000000000015
+                "netProfit": -448.59015
               },
               "5": {
                 "tradeCount": 106,
@@ -25510,7 +25524,7 @@
               },
               "3": {
                 "tradeCount": 48,
-                "netProfit": -1944.3400000000001
+                "netProfit": -1944.3401
               },
               "4": {
                 "tradeCount": 48,
@@ -25518,7 +25532,7 @@
               },
               "5": {
                 "tradeCount": 48,
-                "netProfit": -1873.9099999999999
+                "netProfit": -1873.909
               }
             }
           },
@@ -25527,7 +25541,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 38,
-                "netProfit": 2072.2400000000002
+                "netProfit": 2072.2402
               },
               "2": {
                 "tradeCount": 38,
@@ -25535,7 +25549,7 @@
               },
               "3": {
                 "tradeCount": 38,
-                "netProfit": 5036.7300000000005
+                "netProfit": 5036.7305
               },
               "4": {
                 "tradeCount": 38,
@@ -25556,11 +25570,11 @@
               },
               "2": {
                 "tradeCount": 31,
-                "netProfit": 458.6399999999999
+                "netProfit": 458.639
               },
               "3": {
                 "tradeCount": 31,
-                "netProfit": 1437.8600000000001
+                "netProfit": 1437.8601
               },
               "4": {
                 "tradeCount": 31,
@@ -25602,7 +25616,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 84,
-                "netProfit": 293.71000000000004
+                "netProfit": 293.71004
               },
               "2": {
                 "tradeCount": 84,
@@ -25618,7 +25632,7 @@
               },
               "5": {
                 "tradeCount": 84,
-                "netProfit": 997.6800000000001
+                "netProfit": 997.6801
               }
             }
           },
@@ -25635,7 +25649,7 @@
               },
               "3": {
                 "tradeCount": 105,
-                "netProfit": -1012.1400000000001
+                "netProfit": -1012.1401
               },
               "4": {
                 "tradeCount": 105,
@@ -28074,7 +28088,7 @@
               },
               "2": {
                 "tradeCount": 16,
-                "netProfit": 2820.9100000000003
+                "netProfit": 2820.9103
               },
               "3": {
                 "tradeCount": 16,
@@ -28120,15 +28134,15 @@
             "data": {
               "1.5": {
                 "tradeCount": 94,
-                "netProfit": -1748.1599999999999
+                "netProfit": -1748.159
               },
               "2": {
                 "tradeCount": 94,
-                "netProfit": -779.0799999999999
+                "netProfit": -779.079
               },
               "3": {
                 "tradeCount": 94,
-                "netProfit": 1644.8500000000004
+                "netProfit": 1644.8504
               },
               "4": {
                 "tradeCount": 94,
@@ -28153,11 +28167,11 @@
               },
               "3": {
                 "tradeCount": 106,
-                "netProfit": 2338.1800000000003
+                "netProfit": 2338.1803
               },
               "4": {
                 "tradeCount": 106,
-                "netProfit": 5122.900000000001
+                "netProfit": 5122.901
               },
               "5": {
                 "tradeCount": 106,
@@ -28170,7 +28184,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 85,
-                "netProfit": -2790.7200000000003
+                "netProfit": -2790.7203
               },
               "2": {
                 "tradeCount": 85,
@@ -28182,7 +28196,7 @@
               },
               "4": {
                 "tradeCount": 85,
-                "netProfit": -3936.0800000000004
+                "netProfit": -3936.0804
               },
               "5": {
                 "tradeCount": 85,
@@ -28220,7 +28234,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 60,
-                "netProfit": 1819.3899999999999
+                "netProfit": 1819.389
               },
               "2": {
                 "tradeCount": 60,
@@ -28228,11 +28242,11 @@
               },
               "3": {
                 "tradeCount": 60,
-                "netProfit": 866.8799999999999
+                "netProfit": 866.879
               },
               "4": {
                 "tradeCount": 60,
-                "netProfit": 313.8599999999999
+                "netProfit": 313.859
               },
               "5": {
                 "tradeCount": 60,
@@ -28270,15 +28284,15 @@
             "data": {
               "1.5": {
                 "tradeCount": 107,
-                "netProfit": 1121.1399999999999
+                "netProfit": 1121.139
               },
               "2": {
                 "tradeCount": 107,
-                "netProfit": 2194.4500000000003
+                "netProfit": 2194.4503
               },
               "3": {
                 "tradeCount": 107,
-                "netProfit": 3745.7200000000003
+                "netProfit": 3745.7203
               },
               "4": {
                 "tradeCount": 107,
@@ -28307,11 +28321,11 @@
               },
               "4": {
                 "tradeCount": 134,
-                "netProfit": 568.1100000000001
+                "netProfit": 568.1101
               },
               "5": {
                 "tradeCount": 134,
-                "netProfit": 570.0699999999999
+                "netProfit": 570.069
               }
             }
           },
@@ -30292,7 +30306,9 @@
             "shortPositionNetResult": 2263.0,
             "maximumConsecutiveWins": 10.0,
             "maximumConsecutiveLoses": 11.0,
-            "relativeDropdown": 6902.46
+            "relativeDropdown": 6902.46,
+            "long_win_percentage": 44.11,
+            "short_win_percentage": 43.87
           },
           "2": {
             "endingBalance": 103356.45,
@@ -30307,7 +30323,9 @@
             "shortPositionNetResult": 1.0,
             "maximumConsecutiveWins": 10.0,
             "maximumConsecutiveLoses": 17.0,
-            "relativeDropdown": 7314.19
+            "relativeDropdown": 7314.19,
+            "long_win_percentage": 41.9,
+            "short_win_percentage": 37.31
           },
           "3": {
             "endingBalance": 93059.88,
@@ -30322,7 +30340,9 @@
             "shortPositionNetResult": -7808.0,
             "maximumConsecutiveWins": 10.0,
             "maximumConsecutiveLoses": 17.0,
-            "relativeDropdown": 12464.05
+            "relativeDropdown": 12464.05,
+            "long_win_percentage": 41.9,
+            "short_win_percentage": 37.31
           },
           "4": {
             "endingBalance": 93802.45,
@@ -30337,7 +30357,9 @@
             "shortPositionNetResult": -7602.0,
             "maximumConsecutiveWins": 10.0,
             "maximumConsecutiveLoses": 17.0,
-            "relativeDropdown": 14006.96
+            "relativeDropdown": 14006.96,
+            "long_win_percentage": 41.64,
+            "short_win_percentage": 37.31
           },
           "5": {
             "endingBalance": 95962.63,
@@ -30352,7 +30374,9 @@
             "shortPositionNetResult": -5090.0,
             "maximumConsecutiveWins": 10.0,
             "maximumConsecutiveLoses": 17.0,
-            "relativeDropdown": 13454.18
+            "relativeDropdown": 13454.18,
+            "long_win_percentage": 41.64,
+            "short_win_percentage": 37.31
           }
         }
       },
@@ -30442,33 +30466,33 @@
             "name": "Breakeven SL",
             "data": {
               "1.5": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
+                "grossProfit": 105870.46,
+                "grossLoss": -99344.71,
+                "netProfit": 6525.75,
                 "maximumConsecutiveLoses": 8
               },
               "2": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
+                "grossProfit": 106099.41,
+                "grossLoss": -99137.02,
+                "netProfit": 6962.39,
                 "maximumConsecutiveLoses": 8
               },
               "3": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
+                "grossProfit": 89966.05,
+                "grossLoss": -94001.79,
+                "netProfit": -4035.74,
                 "maximumConsecutiveLoses": 8
               },
               "4": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
+                "grossProfit": 88747.32,
+                "grossLoss": -93073.52,
+                "netProfit": -4326.2,
                 "maximumConsecutiveLoses": 8
               },
               "5": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
+                "grossProfit": 89719.22,
+                "grossLoss": -93049.97,
+                "netProfit": -3330.74,
                 "maximumConsecutiveLoses": 8
               }
             }
@@ -30775,7 +30799,7 @@
               },
               "4": {
                 "tradeCount": 25,
-                "netProfit": -1611.3000000000002
+                "netProfit": -1611.3002
               },
               "5": {
                 "tradeCount": 25,
@@ -30804,7 +30828,7 @@
               },
               "5": {
                 "tradeCount": 53,
-                "netProfit": -918.4699999999999
+                "netProfit": -918.469
               }
             }
           },
@@ -30813,7 +30837,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 82,
-                "netProfit": -488.39999999999986
+                "netProfit": -488.3986
               },
               "2": {
                 "tradeCount": 82,
@@ -30867,7 +30891,7 @@
               },
               "2": {
                 "tradeCount": 68,
-                "netProfit": -343.54999999999995
+                "netProfit": -343.5495
               },
               "3": {
                 "tradeCount": 68,
@@ -30896,11 +30920,11 @@
               },
               "3": {
                 "tradeCount": 62,
-                "netProfit": 816.7600000000001
+                "netProfit": 816.7601
               },
               "4": {
                 "tradeCount": 62,
-                "netProfit": 674.1499999999999
+                "netProfit": 674.149
               },
               "5": {
                 "tradeCount": 62,
@@ -30917,7 +30941,7 @@
               },
               "2": {
                 "tradeCount": 57,
-                "netProfit": -2538.1400000000003
+                "netProfit": -2538.1403
               },
               "3": {
                 "tradeCount": 57,
@@ -30925,11 +30949,11 @@
               },
               "4": {
                 "tradeCount": 57,
-                "netProfit": -3568.6000000000004
+                "netProfit": -3568.6004
               },
               "5": {
                 "tradeCount": 57,
-                "netProfit": -3712.3300000000004
+                "netProfit": -3712.3304
               }
             }
           },
@@ -30963,11 +30987,11 @@
             "data": {
               "1.5": {
                 "tradeCount": 106,
-                "netProfit": 407.58000000000015
+                "netProfit": 407.58015
               },
               "2": {
                 "tradeCount": 106,
-                "netProfit": -93.11000000000013
+                "netProfit": -93.11013
               },
               "3": {
                 "tradeCount": 106,
@@ -30975,7 +30999,7 @@
               },
               "4": {
                 "tradeCount": 106,
-                "netProfit": -2556.7200000000003
+                "netProfit": -2556.7203
               },
               "5": {
                 "tradeCount": 106,
@@ -30996,7 +31020,7 @@
               },
               "3": {
                 "tradeCount": 164,
-                "netProfit": 4434.6900000000005
+                "netProfit": 4434.6905
               },
               "4": {
                 "tradeCount": 164,
@@ -31004,7 +31028,7 @@
               },
               "5": {
                 "tradeCount": 164,
-                "netProfit": 4874.7300000000005
+                "netProfit": 4874.7305
               }
             }
           },
@@ -31017,7 +31041,7 @@
               },
               "2": {
                 "tradeCount": 137,
-                "netProfit": -585.7199999999999
+                "netProfit": -585.719
               },
               "3": {
                 "tradeCount": 137,
@@ -31025,7 +31049,7 @@
               },
               "4": {
                 "tradeCount": 137,
-                "netProfit": -268.54999999999995
+                "netProfit": -268.5495
               },
               "5": {
                 "tradeCount": 137,
@@ -31038,7 +31062,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 11,
-                "netProfit": 228.14000000000001
+                "netProfit": 228.14001
               },
               "2": {
                 "tradeCount": 11,
@@ -31046,7 +31070,7 @@
               },
               "3": {
                 "tradeCount": 11,
-                "netProfit": -209.10000000000002
+                "netProfit": -209.10002
               },
               "4": {
                 "tradeCount": 11,
@@ -32960,7 +32984,9 @@
             "shortPositionNetResult": 6543.0,
             "maximumConsecutiveWins": 9.0,
             "maximumConsecutiveLoses": 11.0,
-            "relativeDropdown": 9260.19
+            "relativeDropdown": 9260.19,
+            "long_win_percentage": 40.98,
+            "short_win_percentage": 47.65
           },
           "2": {
             "endingBalance": 94103.4,
@@ -32975,7 +33001,9 @@
             "shortPositionNetResult": 2193.0,
             "maximumConsecutiveWins": 9.0,
             "maximumConsecutiveLoses": 13.0,
-            "relativeDropdown": 9960.47
+            "relativeDropdown": 9960.47,
+            "long_win_percentage": 39.18,
+            "short_win_percentage": 44.07
           },
           "3": {
             "endingBalance": 91357.1,
@@ -32990,7 +33018,9 @@
             "shortPositionNetResult": -334.0,
             "maximumConsecutiveWins": 9.0,
             "maximumConsecutiveLoses": 13.0,
-            "relativeDropdown": 10115.66
+            "relativeDropdown": 10115.66,
+            "long_win_percentage": 38.4,
+            "short_win_percentage": 41.81
           },
           "4": {
             "endingBalance": 92172.59,
@@ -33005,7 +33035,9 @@
             "shortPositionNetResult": 672.0,
             "maximumConsecutiveWins": 9.0,
             "maximumConsecutiveLoses": 13.0,
-            "relativeDropdown": 9990.98
+            "relativeDropdown": 9990.98,
+            "long_win_percentage": 38.14,
+            "short_win_percentage": 41.62
           },
           "5": {
             "endingBalance": 90316.81,
@@ -33020,7 +33052,9 @@
             "shortPositionNetResult": -196.0,
             "maximumConsecutiveWins": 9.0,
             "maximumConsecutiveLoses": 13.0,
-            "relativeDropdown": 11187.59
+            "relativeDropdown": 11187.59,
+            "long_win_percentage": 31.96,
+            "short_win_percentage": 32.39
           }
         }
       },
@@ -33110,34 +33144,34 @@
             "name": "Breakeven SL",
             "data": {
               "1.5": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 92648.14,
+                "grossLoss": -94524.57,
+                "netProfit": -1876.43,
+                "maximumConsecutiveLoses": 9
               },
               "2": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 87008.99,
+                "grossLoss": -92286.73,
+                "netProfit": -5277.74,
+                "maximumConsecutiveLoses": 9
               },
               "3": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 78978.62,
+                "grossLoss": -89149.46,
+                "netProfit": -10170.84,
+                "maximumConsecutiveLoses": 9
               },
               "4": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 80026.73,
+                "grossLoss": -89420.72,
+                "netProfit": -9393.99,
+                "maximumConsecutiveLoses": 9
               },
               "5": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 98098.74,
+                "grossLoss": -107781.94,
+                "netProfit": -9683.19,
+                "maximumConsecutiveLoses": 13
               }
             }
           }
@@ -33406,7 +33440,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 9,
-                "netProfit": -1653.1499999999999
+                "netProfit": -1653.149
               },
               "2": {
                 "tradeCount": 9,
@@ -33439,7 +33473,7 @@
               },
               "3": {
                 "tradeCount": 18,
-                "netProfit": -885.8599999999999
+                "netProfit": -885.859
               },
               "4": {
                 "tradeCount": 18,
@@ -33456,15 +33490,15 @@
             "data": {
               "1.5": {
                 "tradeCount": 38,
-                "netProfit": 23.149999999999977
+                "netProfit": 23.14977
               },
               "2": {
                 "tradeCount": 38,
-                "netProfit": 127.04999999999995
+                "netProfit": 127.0495
               },
               "3": {
                 "tradeCount": 38,
-                "netProfit": 985.1400000000001
+                "netProfit": 985.1401
               },
               "4": {
                 "tradeCount": 38,
@@ -33489,7 +33523,7 @@
               },
               "3": {
                 "tradeCount": 72,
-                "netProfit": 1092.9099999999999
+                "netProfit": 1092.909
               },
               "4": {
                 "tradeCount": 72,
@@ -33506,7 +33540,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 83,
-                "netProfit": -131.6199999999999
+                "netProfit": -131.619
               },
               "2": {
                 "tradeCount": 83,
@@ -33514,15 +33548,15 @@
               },
               "3": {
                 "tradeCount": 83,
-                "netProfit": 38.819999999999936
+                "netProfit": 38.81936
               },
               "4": {
                 "tradeCount": 83,
-                "netProfit": 431.0999999999999
+                "netProfit": 431.099
               },
               "5": {
                 "tradeCount": 83,
-                "netProfit": -190.73000000000002
+                "netProfit": -190.73002
               }
             }
           },
@@ -33543,7 +33577,7 @@
               },
               "4": {
                 "tradeCount": 61,
-                "netProfit": 1650.3400000000001
+                "netProfit": 1650.3401
               },
               "5": {
                 "tradeCount": 61,
@@ -33556,7 +33590,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 53,
-                "netProfit": 992.1100000000001
+                "netProfit": 992.1101
               },
               "2": {
                 "tradeCount": 53,
@@ -33585,7 +33619,7 @@
               },
               "2": {
                 "tradeCount": 55,
-                "netProfit": 1083.3899999999999
+                "netProfit": 1083.389
               },
               "3": {
                 "tradeCount": 55,
@@ -33606,7 +33640,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 100,
-                "netProfit": -3432.4900000000002
+                "netProfit": -3432.4902
               },
               "2": {
                 "tradeCount": 100,
@@ -33656,11 +33690,11 @@
             "data": {
               "1.5": {
                 "tradeCount": 167,
-                "netProfit": 69.16999999999996
+                "netProfit": 69.1696
               },
               "2": {
                 "tradeCount": 167,
-                "netProfit": -913.5999999999999
+                "netProfit": -913.599
               },
               "3": {
                 "tradeCount": 167,
@@ -33685,15 +33719,15 @@
               },
               "2": {
                 "tradeCount": 134,
-                "netProfit": -694.8100000000001
+                "netProfit": -694.8101
               },
               "3": {
                 "tradeCount": 134,
-                "netProfit": -866.3199999999999
+                "netProfit": -866.319
               },
               "4": {
                 "tradeCount": 134,
-                "netProfit": -888.3299999999999
+                "netProfit": -888.329
               },
               "5": {
                 "tradeCount": 134,
@@ -33710,7 +33744,7 @@
               },
               "2": {
                 "tradeCount": 16,
-                "netProfit": -467.65999999999997
+                "netProfit": -467.6597
               },
               "3": {
                 "tradeCount": 16,
@@ -36090,7 +36124,7 @@
               },
               "5": {
                 "tradeCount": 4,
-                "netProfit": -964.8800000000001
+                "netProfit": -964.8801
               }
             }
           },
@@ -36099,7 +36133,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 14,
-                "netProfit": -1015.5899999999999
+                "netProfit": -1015.589
               },
               "2": {
                 "tradeCount": 14,
@@ -36107,7 +36141,7 @@
               },
               "3": {
                 "tradeCount": 14,
-                "netProfit": -1447.8799999999999
+                "netProfit": -1447.879
               },
               "4": {
                 "tradeCount": 14,
@@ -36128,7 +36162,7 @@
               },
               "2": {
                 "tradeCount": 13,
-                "netProfit": -964.2600000000001
+                "netProfit": -964.2601
               },
               "3": {
                 "tradeCount": 13,
@@ -36136,7 +36170,7 @@
               },
               "4": {
                 "tradeCount": 13,
-                "netProfit": -1142.0900000000001
+                "netProfit": -1142.0901
               },
               "5": {
                 "tradeCount": 13,
@@ -36149,7 +36183,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 44,
-                "netProfit": -667.0899999999999
+                "netProfit": -667.089
               },
               "2": {
                 "tradeCount": 44,
@@ -36157,7 +36191,7 @@
               },
               "3": {
                 "tradeCount": 44,
-                "netProfit": 124.82999999999993
+                "netProfit": 124.8293
               },
               "4": {
                 "tradeCount": 44,
@@ -36186,7 +36220,7 @@
               },
               "4": {
                 "tradeCount": 43,
-                "netProfit": 2812.9700000000003
+                "netProfit": 2812.9703
               },
               "5": {
                 "tradeCount": 43,
@@ -36207,7 +36241,7 @@
               },
               "3": {
                 "tradeCount": 22,
-                "netProfit": -904.9300000000001
+                "netProfit": -904.9301
               },
               "4": {
                 "tradeCount": 22,
@@ -36240,7 +36274,7 @@
               },
               "5": {
                 "tradeCount": 18,
-                "netProfit": -454.93000000000006
+                "netProfit": -454.93006
               }
             }
           },
@@ -36253,7 +36287,7 @@
               },
               "2": {
                 "tradeCount": 21,
-                "netProfit": 2240.9900000000002
+                "netProfit": 2240.9902
               },
               "3": {
                 "tradeCount": 21,
@@ -36303,7 +36337,7 @@
               },
               "2": {
                 "tradeCount": 149,
-                "netProfit": -3899.2200000000003
+                "netProfit": -3899.2203
               },
               "3": {
                 "tradeCount": 149,
@@ -36353,7 +36387,7 @@
               },
               "2": {
                 "tradeCount": 234,
-                "netProfit": 566.8100000000001
+                "netProfit": 566.8101
               },
               "3": {
                 "tradeCount": 234,
@@ -38767,7 +38801,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 11,
-                "netProfit": -1506.7800000000002
+                "netProfit": -1506.7802
               },
               "2": {
                 "tradeCount": 11,
@@ -38792,11 +38826,11 @@
             "data": {
               "1.5": {
                 "tradeCount": 10,
-                "netProfit": 80.10999999999996
+                "netProfit": 80.1096
               },
               "2": {
                 "tradeCount": 10,
-                "netProfit": -208.99000000000007
+                "netProfit": -208.99007
               },
               "3": {
                 "tradeCount": 10,
@@ -38817,7 +38851,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 31,
-                "netProfit": -1570.6399999999999
+                "netProfit": -1570.639
               },
               "2": {
                 "tradeCount": 31,
@@ -38871,11 +38905,11 @@
               },
               "2": {
                 "tradeCount": 17,
-                "netProfit": -425.84999999999997
+                "netProfit": -425.8497
               },
               "3": {
                 "tradeCount": 17,
-                "netProfit": -191.78999999999996
+                "netProfit": -191.7896
               },
               "4": {
                 "tradeCount": 17,
@@ -38917,19 +38951,19 @@
             "data": {
               "1.5": {
                 "tradeCount": 19,
-                "netProfit": 349.33000000000004
+                "netProfit": 349.33004
               },
               "2": {
                 "tradeCount": 19,
-                "netProfit": 78.41999999999996
+                "netProfit": 78.4196
               },
               "3": {
                 "tradeCount": 19,
-                "netProfit": 167.16000000000003
+                "netProfit": 167.16003
               },
               "4": {
                 "tradeCount": 19,
-                "netProfit": 515.6800000000001
+                "netProfit": 515.6801
               },
               "5": {
                 "tradeCount": 19,
@@ -38954,7 +38988,7 @@
               },
               "4": {
                 "tradeCount": 36,
-                "netProfit": 585.5500000000001
+                "netProfit": 585.5501
               },
               "5": {
                 "tradeCount": 36,
@@ -38971,7 +39005,7 @@
               },
               "2": {
                 "tradeCount": 135,
-                "netProfit": 1678.5300000000002
+                "netProfit": 1678.5302
               },
               "3": {
                 "tradeCount": 135,
@@ -38979,7 +39013,7 @@
               },
               "4": {
                 "tradeCount": 135,
-                "netProfit": 3672.5200000000004
+                "netProfit": 3672.5204
               },
               "5": {
                 "tradeCount": 135,
@@ -38992,7 +39026,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 284,
-                "netProfit": 3047.4300000000003
+                "netProfit": 3047.4303
               },
               "2": {
                 "tradeCount": 284,
@@ -39004,7 +39038,7 @@
               },
               "4": {
                 "tradeCount": 284,
-                "netProfit": 2276.3100000000004
+                "netProfit": 2276.3104
               },
               "5": {
                 "tradeCount": 284,
@@ -39021,15 +39055,15 @@
               },
               "2": {
                 "tradeCount": 234,
-                "netProfit": -1116.2200000000003
+                "netProfit": -1116.2203
               },
               "3": {
                 "tradeCount": 234,
-                "netProfit": -1004.3699999999999
+                "netProfit": -1004.369
               },
               "4": {
                 "tradeCount": 234,
-                "netProfit": -1037.3400000000001
+                "netProfit": -1037.3401
               },
               "5": {
                 "tradeCount": 234,
@@ -40964,7 +40998,9 @@
             "shortPositionNetResult": -255.0,
             "maximumConsecutiveWins": 13.0,
             "maximumConsecutiveLoses": 20.0,
-            "relativeDropdown": 19336.25
+            "relativeDropdown": 19336.25,
+            "long_win_percentage": 43.27,
+            "short_win_percentage": 46.67
           },
           "2": {
             "endingBalance": 87118.67,
@@ -40979,7 +41015,9 @@
             "shortPositionNetResult": -2237.0,
             "maximumConsecutiveWins": 13.0,
             "maximumConsecutiveLoses": 20.0,
-            "relativeDropdown": 27788.79
+            "relativeDropdown": 27788.79,
+            "long_win_percentage": 40.62,
+            "short_win_percentage": 44.2
           },
           "3": {
             "endingBalance": 96555.66,
@@ -40994,7 +41032,9 @@
             "shortPositionNetResult": 1701.0,
             "maximumConsecutiveWins": 13.0,
             "maximumConsecutiveLoses": 20.0,
-            "relativeDropdown": 23488.69
+            "relativeDropdown": 23488.69,
+            "long_win_percentage": 40.02,
+            "short_win_percentage": 44.17
           },
           "4": {
             "endingBalance": 96518.45,
@@ -41009,7 +41049,9 @@
             "shortPositionNetResult": 1466.0,
             "maximumConsecutiveWins": 13.0,
             "maximumConsecutiveLoses": 20.0,
-            "relativeDropdown": 24884.41
+            "relativeDropdown": 24884.41,
+            "long_win_percentage": 39.78,
+            "short_win_percentage": 43.67
           },
           "5": {
             "endingBalance": 99268.29,
@@ -41024,7 +41066,9 @@
             "shortPositionNetResult": 880.0,
             "maximumConsecutiveWins": 13.0,
             "maximumConsecutiveLoses": 20.0,
-            "relativeDropdown": 24035.31
+            "relativeDropdown": 24035.31,
+            "long_win_percentage": 39.7,
+            "short_win_percentage": 43.67
           }
         }
       },
@@ -41114,34 +41158,34 @@
             "name": "Breakeven SL",
             "data": {
               "1.5": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 121160.91,
+                "grossLoss": -132557.35,
+                "netProfit": -11396.43,
+                "maximumConsecutiveLoses": 15
               },
               "2": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 112112.07,
+                "grossLoss": -127505.05,
+                "netProfit": 15392.98,
+                "maximumConsecutiveLoses": 15
               },
               "3": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 125627.82,
+                "grossLoss": -133189.27,
+                "netProfit": -7561.45,
+                "maximumConsecutiveLoses": 15
               },
               "4": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 121171.36,
+                "grossLoss": -129833.62,
+                "netProfit": -8662.26,
+                "maximumConsecutiveLoses": 15
               },
               "5": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 126275.56,
+                "grossLoss": -131903.29,
+                "netProfit": -5627.73,
+                "maximumConsecutiveLoses": 15
               }
             }
           }
@@ -41410,11 +41454,11 @@
             "data": {
               "1.5": {
                 "tradeCount": 5,
-                "netProfit": -520.5799999999999
+                "netProfit": -520.579
               },
               "2": {
                 "tradeCount": 5,
-                "netProfit": -1042.3600000000001
+                "netProfit": -1042.3601
               },
               "3": {
                 "tradeCount": 5,
@@ -41422,7 +41466,7 @@
               },
               "4": {
                 "tradeCount": 5,
-                "netProfit": -1052.6399999999999
+                "netProfit": -1052.639
               },
               "5": {
                 "tradeCount": 5,
@@ -41447,11 +41491,11 @@
               },
               "4": {
                 "tradeCount": 9,
-                "netProfit": -47.98000000000002
+                "netProfit": -47.98002
               },
               "5": {
                 "tradeCount": 9,
-                "netProfit": -338.76000000000005
+                "netProfit": -338.76005
               }
             }
           },
@@ -41460,7 +41504,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 24,
-                "netProfit": -453.2199999999999
+                "netProfit": -453.219
               },
               "2": {
                 "tradeCount": 24,
@@ -41472,7 +41516,7 @@
               },
               "4": {
                 "tradeCount": 24,
-                "netProfit": -932.0899999999999
+                "netProfit": -932.089
               },
               "5": {
                 "tradeCount": 24,
@@ -41497,11 +41541,11 @@
               },
               "4": {
                 "tradeCount": 60,
-                "netProfit": -793.5400000000001
+                "netProfit": -793.5401
               },
               "5": {
                 "tradeCount": 60,
-                "netProfit": -49.16999999999996
+                "netProfit": -49.1696
               }
             }
           },
@@ -41514,7 +41558,7 @@
               },
               "2": {
                 "tradeCount": 63,
-                "netProfit": -1805.9099999999999
+                "netProfit": -1805.909
               },
               "3": {
                 "tradeCount": 63,
@@ -41526,7 +41570,7 @@
               },
               "5": {
                 "tradeCount": 63,
-                "netProfit": -3558.9900000000002
+                "netProfit": -3558.9902
               }
             }
           },
@@ -41547,7 +41591,7 @@
               },
               "4": {
                 "tradeCount": 69,
-                "netProfit": 1086.8400000000001
+                "netProfit": 1086.8401
               },
               "5": {
                 "tradeCount": 69,
@@ -41597,7 +41641,7 @@
               },
               "4": {
                 "tradeCount": 74,
-                "netProfit": 3626.4900000000002
+                "netProfit": 3626.4902
               },
               "5": {
                 "tradeCount": 74,
@@ -41610,7 +41654,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 152,
-                "netProfit": -546.7800000000001
+                "netProfit": -546.7801
               },
               "2": {
                 "tradeCount": 152,
@@ -41618,7 +41662,7 @@
               },
               "3": {
                 "tradeCount": 152,
-                "netProfit": -732.0900000000001
+                "netProfit": -732.0901
               },
               "4": {
                 "tradeCount": 152,
@@ -41685,7 +41729,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 321,
-                "netProfit": -3791.7999999999997
+                "netProfit": -3791.797
               },
               "2": {
                 "tradeCount": 321,
@@ -41714,7 +41758,7 @@
               },
               "2": {
                 "tradeCount": 27,
-                "netProfit": -636.5799999999999
+                "netProfit": -636.579
               },
               "3": {
                 "tradeCount": 27,
@@ -41726,7 +41770,7 @@
               },
               "5": {
                 "tradeCount": 27,
-                "netProfit": -656.9200000000001
+                "netProfit": -656.9201
               }
             }
           }
@@ -44078,7 +44122,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 4,
-                "netProfit": 229.79999999999998
+                "netProfit": 229.7998
               },
               "2": {
                 "tradeCount": 4,
@@ -44086,15 +44130,15 @@
               },
               "3": {
                 "tradeCount": 4,
-                "netProfit": -136.53000000000003
+                "netProfit": -136.53003
               },
               "4": {
                 "tradeCount": 4,
-                "netProfit": -136.08999999999997
+                "netProfit": -136.0897
               },
               "5": {
                 "tradeCount": 4,
-                "netProfit": -135.14000000000001
+                "netProfit": -135.14001
               }
             }
           },
@@ -44161,7 +44205,7 @@
               },
               "3": {
                 "tradeCount": 116,
-                "netProfit": -210.44000000000005
+                "netProfit": -210.44005
               },
               "4": {
                 "tradeCount": 116,
@@ -44169,7 +44213,7 @@
               },
               "5": {
                 "tradeCount": 116,
-                "netProfit": 88.00999999999999
+                "netProfit": 88.0099
               }
             }
           },
@@ -44203,11 +44247,11 @@
             "data": {
               "1.5": {
                 "tradeCount": 93,
-                "netProfit": 306.58000000000004
+                "netProfit": 306.58004
               },
               "2": {
                 "tradeCount": 93,
-                "netProfit": 1599.6299999999999
+                "netProfit": 1599.629
               },
               "3": {
                 "tradeCount": 93,
@@ -44232,7 +44276,7 @@
               },
               "2": {
                 "tradeCount": 73,
-                "netProfit": -739.4700000000003
+                "netProfit": -739.4703
               },
               "3": {
                 "tradeCount": 73,
@@ -44244,7 +44288,7 @@
               },
               "5": {
                 "tradeCount": 73,
-                "netProfit": -300.09000000000015
+                "netProfit": -300.09015
               }
             }
           },
@@ -44253,7 +44297,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 85,
-                "netProfit": -3946.2000000000003
+                "netProfit": -3946.2003
               },
               "2": {
                 "tradeCount": 85,
@@ -44278,7 +44322,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 137,
-                "netProfit": -1215.0900000000001
+                "netProfit": -1215.0901
               },
               "2": {
                 "tradeCount": 137,
@@ -44311,7 +44355,7 @@
               },
               "3": {
                 "tradeCount": 181,
-                "netProfit": -1581.3000000000002
+                "netProfit": -1581.3002
               },
               "4": {
                 "tradeCount": 181,
@@ -44319,7 +44363,7 @@
               },
               "5": {
                 "tradeCount": 181,
-                "netProfit": -1373.5500000000002
+                "netProfit": -1373.5502
               }
             }
           },
@@ -44365,7 +44409,7 @@
               },
               "4": {
                 "tradeCount": 162,
-                "netProfit": -3806.9400000000005
+                "netProfit": -3806.9405
               },
               "5": {
                 "tradeCount": 162,
@@ -46300,7 +46344,9 @@
             "shortPositionNetResult": 2745.0,
             "maximumConsecutiveWins": 8.0,
             "maximumConsecutiveLoses": 10.0,
-            "relativeDropdown": 8530.14
+            "relativeDropdown": 8530.14,
+            "long_win_percentage": 46.95,
+            "short_win_percentage": 44.39
           },
           "2": {
             "endingBalance": 101503.65,
@@ -46315,7 +46361,9 @@
             "shortPositionNetResult": -874.0,
             "maximumConsecutiveWins": 8.0,
             "maximumConsecutiveLoses": 11.0,
-            "relativeDropdown": 13139.47
+            "relativeDropdown": 13139.47,
+            "long_win_percentage": 45.31,
+            "short_win_percentage": 41.71
           },
           "3": {
             "endingBalance": 103578.18,
@@ -46330,7 +46378,9 @@
             "shortPositionNetResult": 1754.0,
             "maximumConsecutiveWins": 8.0,
             "maximumConsecutiveLoses": 13.0,
-            "relativeDropdown": 14321.73
+            "relativeDropdown": 14321.73,
+            "long_win_percentage": 44.13,
+            "short_win_percentage": 40.37
           },
           "4": {
             "endingBalance": 101466.68,
@@ -46345,7 +46395,9 @@
             "shortPositionNetResult": -1795.0,
             "maximumConsecutiveWins": 8.0,
             "maximumConsecutiveLoses": 13.0,
-            "relativeDropdown": 15049.67
+            "relativeDropdown": 15049.67,
+            "long_win_percentage": 44.13,
+            "short_win_percentage": 39.7
           },
           "5": {
             "endingBalance": 99389.75,
@@ -46360,7 +46412,9 @@
             "shortPositionNetResult": -3717.0,
             "maximumConsecutiveWins": 8.0,
             "maximumConsecutiveLoses": 13.0,
-            "relativeDropdown": 17016.23
+            "relativeDropdown": 17016.23,
+            "long_win_percentage": 44.13,
+            "short_win_percentage": 39.2
           }
         }
       },
@@ -46450,34 +46504,34 @@
             "name": "Breakeven SL",
             "data": {
               "1.5": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 105476.27,
+                "grossLoss": -101875.08,
+                "netProfit": 3601.19,
+                "maximumConsecutiveLoses": 9
               },
               "2": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 97419.28,
+                "grossLoss": -98667.35,
+                "netProfit": -1248.06,
+                "maximumConsecutiveLoses": 9
               },
               "3": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 100437.29,
+                "grossLoss": -99329.48,
+                "netProfit": 1107.81,
+                "maximumConsecutiveLoses": 9
               },
               "4": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 100078.54,
+                "grossLoss": -99593.3,
+                "netProfit": 485.24,
+                "maximumConsecutiveLoses": 9
               },
               "5": {
-                "grossProfit": 112403.88,
-                "grossLoss": -104189.6,
-                "netProfit": 8214.28,
-                "maximumConsecutiveLoses": 8
+                "grossProfit": 97670.66,
+                "grossLoss": -98707.59,
+                "netProfit": -1036.93,
+                "maximumConsecutiveLoses": 9
               }
             }
           }
@@ -46746,11 +46800,11 @@
             "data": {
               "1.5": {
                 "tradeCount": 25,
-                "netProfit": -626.6600000000001
+                "netProfit": -626.6601
               },
               "2": {
                 "tradeCount": 25,
-                "netProfit": -976.3499999999999
+                "netProfit": -976.349
               },
               "3": {
                 "tradeCount": 25,
@@ -46758,7 +46812,7 @@
               },
               "4": {
                 "tradeCount": 25,
-                "netProfit": -2585.6400000000003
+                "netProfit": -2585.6403
               },
               "5": {
                 "tradeCount": 25,
@@ -46771,11 +46825,11 @@
             "data": {
               "1.5": {
                 "tradeCount": 18,
-                "netProfit": -1945.6299999999999
+                "netProfit": -1945.629
               },
               "2": {
                 "tradeCount": 18,
-                "netProfit": -1848.0500000000002
+                "netProfit": -1848.0502
               },
               "3": {
                 "tradeCount": 18,
@@ -46783,7 +46837,7 @@
               },
               "4": {
                 "tradeCount": 18,
-                "netProfit": -889.8600000000001
+                "netProfit": -889.8601
               },
               "5": {
                 "tradeCount": 18,
@@ -46800,7 +46854,7 @@
               },
               "2": {
                 "tradeCount": 46,
-                "netProfit": 393.47999999999996
+                "netProfit": 393.4796
               },
               "3": {
                 "tradeCount": 46,
@@ -46833,11 +46887,11 @@
               },
               "4": {
                 "tradeCount": 73,
-                "netProfit": 622.9000000000001
+                "netProfit": 622.9001
               },
               "5": {
                 "tradeCount": 73,
-                "netProfit": -1816.5500000000002
+                "netProfit": -1816.5502
               }
             }
           },
@@ -46871,7 +46925,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 58,
-                "netProfit": -832.4699999999999
+                "netProfit": -832.469
               },
               "2": {
                 "tradeCount": 58,
@@ -46879,7 +46933,7 @@
               },
               "3": {
                 "tradeCount": 58,
-                "netProfit": -179.42000000000002
+                "netProfit": -179.42002
               },
               "4": {
                 "tradeCount": 58,
@@ -46908,11 +46962,11 @@
               },
               "4": {
                 "tradeCount": 59,
-                "netProfit": -1392.5700000000002
+                "netProfit": -1392.5702
               },
               "5": {
                 "tradeCount": 59,
-                "netProfit": -1790.5500000000002
+                "netProfit": -1790.5502
               }
             }
           },
@@ -46925,7 +46979,7 @@
               },
               "2": {
                 "tradeCount": 48,
-                "netProfit": 1113.5100000000002
+                "netProfit": 1113.5102
               },
               "3": {
                 "tradeCount": 48,
@@ -47012,7 +47066,7 @@
               },
               "5": {
                 "tradeCount": 186,
-                "netProfit": -2937.9200000000005
+                "netProfit": -2937.9205
               }
             }
           },
@@ -47046,19 +47100,19 @@
             "data": {
               "1.5": {
                 "tradeCount": 11,
-                "netProfit": -63.769999999999996
+                "netProfit": -63.76996
               },
               "2": {
                 "tradeCount": 11,
-                "netProfit": -60.379999999999995
+                "netProfit": -60.37995
               },
               "3": {
                 "tradeCount": 11,
-                "netProfit": -58.53000000000001
+                "netProfit": -58.53001
               },
               "4": {
                 "tradeCount": 11,
-                "netProfit": -55.650000000000006
+                "netProfit": -55.650006
               },
               "5": {
                 "tradeCount": 11,
@@ -49439,11 +49493,11 @@
             "data": {
               "1.5": {
                 "tradeCount": 7,
-                "netProfit": 127.31000000000003
+                "netProfit": 127.31003
               },
               "2": {
                 "tradeCount": 7,
-                "netProfit": 504.57000000000005
+                "netProfit": 504.57005
               },
               "3": {
                 "tradeCount": 7,
@@ -49489,7 +49543,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 31,
-                "netProfit": -1852.0800000000002
+                "netProfit": -1852.0802
               },
               "2": {
                 "tradeCount": 31,
@@ -49522,7 +49576,7 @@
               },
               "3": {
                 "tradeCount": 41,
-                "netProfit": 237.6300000000001
+                "netProfit": 237.6301
               },
               "4": {
                 "tradeCount": 41,
@@ -49572,11 +49626,11 @@
               },
               "3": {
                 "tradeCount": 24,
-                "netProfit": -3646.6400000000003
+                "netProfit": -3646.6403
               },
               "4": {
                 "tradeCount": 24,
-                "netProfit": -3383.6400000000003
+                "netProfit": -3383.6403
               },
               "5": {
                 "tradeCount": 24,
@@ -49614,15 +49668,15 @@
             "data": {
               "1.5": {
                 "tradeCount": 150,
-                "netProfit": -1760.4099999999999
+                "netProfit": -1760.409
               },
               "2": {
                 "tradeCount": 150,
-                "netProfit": -1407.6299999999999
+                "netProfit": -1407.629
               },
               "3": {
                 "tradeCount": 150,
-                "netProfit": -1317.1100000000001
+                "netProfit": -1317.1101
               },
               "4": {
                 "tradeCount": 150,
@@ -49630,7 +49684,7 @@
               },
               "5": {
                 "tradeCount": 150,
-                "netProfit": -2928.9700000000003
+                "netProfit": -2928.9703
               }
             }
           },
@@ -49639,7 +49693,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 200,
-                "netProfit": 1717.5900000000001
+                "netProfit": 1717.5901
               },
               "2": {
                 "tradeCount": 200,
@@ -49655,7 +49709,7 @@
               },
               "5": {
                 "tradeCount": 200,
-                "netProfit": 2232.3500000000004
+                "netProfit": 2232.3504
               }
             }
           },
@@ -49680,7 +49734,7 @@
               },
               "5": {
                 "tradeCount": 195,
-                "netProfit": 1192.8200000000002
+                "netProfit": 1192.8202
               }
             }
           },
@@ -49689,11 +49743,11 @@
             "data": {
               "1.5": {
                 "tradeCount": 15,
-                "netProfit": -221.85000000000002
+                "netProfit": -221.85002
               },
               "2": {
                 "tradeCount": 15,
-                "netProfit": -220.41999999999996
+                "netProfit": -220.4196
               },
               "3": {
                 "tradeCount": 15,
@@ -49701,11 +49755,11 @@
               },
               "4": {
                 "tradeCount": 15,
-                "netProfit": -216.54999999999998
+                "netProfit": -216.5498
               },
               "5": {
                 "tradeCount": 15,
-                "netProfit": -209.77999999999997
+                "netProfit": -209.7797
               }
             }
           },
@@ -52057,7 +52111,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 9,
-                "netProfit": 891.5500000000001
+                "netProfit": 891.5501
               },
               "2": {
                 "tradeCount": 9,
@@ -52065,11 +52119,11 @@
               },
               "3": {
                 "tradeCount": 9,
-                "netProfit": 775.5500000000001
+                "netProfit": 775.5501
               },
               "4": {
                 "tradeCount": 9,
-                "netProfit": 236.91999999999996
+                "netProfit": 236.9196
               },
               "5": {
                 "tradeCount": 9,
@@ -52090,7 +52144,7 @@
               },
               "3": {
                 "tradeCount": 38,
-                "netProfit": -2128.8500000000004
+                "netProfit": -2128.8504
               },
               "4": {
                 "tradeCount": 38,
@@ -52119,7 +52173,7 @@
               },
               "4": {
                 "tradeCount": 34,
-                "netProfit": 49.599999999999994
+                "netProfit": 49.59994
               },
               "5": {
                 "tradeCount": 34,
@@ -52132,7 +52186,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 33,
-                "netProfit": -2028.3600000000001
+                "netProfit": -2028.3601
               },
               "2": {
                 "tradeCount": 33,
@@ -52165,7 +52219,7 @@
               },
               "3": {
                 "tradeCount": 63,
-                "netProfit": 267.53000000000003
+                "netProfit": 267.53003
               },
               "4": {
                 "tradeCount": 63,
@@ -52173,7 +52227,7 @@
               },
               "5": {
                 "tradeCount": 63,
-                "netProfit": -1679.6399999999999
+                "netProfit": -1679.639
               }
             }
           },
@@ -52194,7 +52248,7 @@
               },
               "4": {
                 "tradeCount": 39,
-                "netProfit": -1548.5900000000001
+                "netProfit": -1548.5901
               },
               "5": {
                 "tradeCount": 39,
@@ -52215,15 +52269,15 @@
               },
               "3": {
                 "tradeCount": 26,
-                "netProfit": -2284.2400000000002
+                "netProfit": -2284.2402
               },
               "4": {
                 "tradeCount": 26,
-                "netProfit": -2196.4300000000003
+                "netProfit": -2196.4303
               },
               "5": {
                 "tradeCount": 26,
-                "netProfit": -2003.8300000000002
+                "netProfit": -2003.8302
               }
             }
           },
@@ -52236,7 +52290,7 @@
               },
               "2": {
                 "tradeCount": 64,
-                "netProfit": 728.0999999999999
+                "netProfit": 728.099
               },
               "3": {
                 "tradeCount": 64,
@@ -52265,7 +52319,7 @@
               },
               "3": {
                 "tradeCount": 210,
-                "netProfit": 486.18999999999994
+                "netProfit": 486.1894
               },
               "4": {
                 "tradeCount": 210,
@@ -52273,7 +52327,7 @@
               },
               "5": {
                 "tradeCount": 210,
-                "netProfit": -604.3999999999999
+                "netProfit": -604.399
               }
             }
           },
@@ -52282,15 +52336,15 @@
             "data": {
               "1.5": {
                 "tradeCount": 256,
-                "netProfit": 190.23000000000025
+                "netProfit": 190.23025
               },
               "2": {
                 "tradeCount": 256,
-                "netProfit": 3372.6400000000003
+                "netProfit": 3372.6403
               },
               "3": {
                 "tradeCount": 256,
-                "netProfit": 4015.6000000000004
+                "netProfit": 4015.6004
               },
               "4": {
                 "tradeCount": 256,
@@ -52311,7 +52365,7 @@
               },
               "2": {
                 "tradeCount": 248,
-                "netProfit": 4253.6900000000005
+                "netProfit": 4253.6905
               },
               "3": {
                 "tradeCount": 248,
@@ -52340,7 +52394,7 @@
               },
               "3": {
                 "tradeCount": 167,
-                "netProfit": -845.8900000000001
+                "netProfit": -845.8901
               },
               "4": {
                 "tradeCount": 167,
@@ -52357,11 +52411,11 @@
             "data": {
               "1.5": {
                 "tradeCount": 8,
-                "netProfit": 28.129999999999995
+                "netProfit": 28.12995
               },
               "2": {
                 "tradeCount": 8,
-                "netProfit": 32.120000000000005
+                "netProfit": 32.120005
               },
               "3": {
                 "tradeCount": 8,
@@ -52369,11 +52423,11 @@
               },
               "4": {
                 "tradeCount": 8,
-                "netProfit": 34.510000000000005
+                "netProfit": 34.510005
               },
               "5": {
                 "tradeCount": 8,
-                "netProfit": 36.69000000000001
+                "netProfit": 36.69001
               }
             }
           }
@@ -54733,15 +54787,15 @@
               },
               "3": {
                 "tradeCount": 12,
-                "netProfit": -50.549999999999955
+                "netProfit": -50.54955
               },
               "4": {
                 "tradeCount": 12,
-                "netProfit": 674.4399999999999
+                "netProfit": 674.439
               },
               "5": {
                 "tradeCount": 12,
-                "netProfit": -242.76999999999998
+                "netProfit": -242.7698
               }
             }
           },
@@ -54750,7 +54804,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 15,
-                "netProfit": -927.1899999999999
+                "netProfit": -927.189
               },
               "2": {
                 "tradeCount": 15,
@@ -54766,7 +54820,7 @@
               },
               "5": {
                 "tradeCount": 15,
-                "netProfit": -1232.1100000000001
+                "netProfit": -1232.1101
               }
             }
           },
@@ -54779,7 +54833,7 @@
               },
               "2": {
                 "tradeCount": 47,
-                "netProfit": -504.7800000000001
+                "netProfit": -504.7801
               },
               "3": {
                 "tradeCount": 47,
@@ -54800,7 +54854,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 69,
-                "netProfit": 1505.5800000000002
+                "netProfit": 1505.5802
               },
               "2": {
                 "tradeCount": 69,
@@ -54833,7 +54887,7 @@
               },
               "3": {
                 "tradeCount": 82,
-                "netProfit": 729.1800000000001
+                "netProfit": 729.1801
               },
               "4": {
                 "tradeCount": 82,
@@ -54841,7 +54895,7 @@
               },
               "5": {
                 "tradeCount": 82,
-                "netProfit": 2376.1800000000003
+                "netProfit": 2376.1803
               }
             }
           },
@@ -54875,7 +54929,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 34,
-                "netProfit": -1418.3200000000002
+                "netProfit": -1418.3202
               },
               "2": {
                 "tradeCount": 34,
@@ -54883,7 +54937,7 @@
               },
               "3": {
                 "tradeCount": 34,
-                "netProfit": -914.1800000000001
+                "netProfit": -914.1801
               },
               "4": {
                 "tradeCount": 34,
@@ -54916,7 +54970,7 @@
               },
               "5": {
                 "tradeCount": 38,
-                "netProfit": -1798.6399999999999
+                "netProfit": -1798.639
               }
             }
           },
@@ -54929,11 +54983,11 @@
               },
               "2": {
                 "tradeCount": 155,
-                "netProfit": 184.64000000000001
+                "netProfit": 184.64001
               },
               "3": {
                 "tradeCount": 155,
-                "netProfit": 1893.0900000000001
+                "netProfit": 1893.0901
               },
               "4": {
                 "tradeCount": 155,
@@ -54962,7 +55016,7 @@
               },
               "4": {
                 "tradeCount": 264,
-                "netProfit": -1718.8900000000003
+                "netProfit": -1718.8903
               },
               "5": {
                 "tradeCount": 264,
@@ -54979,7 +55033,7 @@
               },
               "2": {
                 "tradeCount": 330,
-                "netProfit": 10443.400000000001
+                "netProfit": 10443.401
               },
               "3": {
                 "tradeCount": 330,
@@ -55000,7 +55054,7 @@
             "data": {
               "1.5": {
                 "tradeCount": 259,
-                "netProfit": -2963.4999999999995
+                "netProfit": -2963.495
               },
               "2": {
                 "tradeCount": 259,
@@ -55016,7 +55070,7 @@
               },
               "5": {
                 "tradeCount": 259,
-                "netProfit": -3000.1800000000003
+                "netProfit": -3000.1803
               }
             }
           },
@@ -55025,11 +55079,11 @@
             "data": {
               "1.5": {
                 "tradeCount": 19,
-                "netProfit": -135.82999999999998
+                "netProfit": -135.8298
               },
               "2": {
                 "tradeCount": 19,
-                "netProfit": -134.42000000000002
+                "netProfit": -134.42002
               },
               "3": {
                 "tradeCount": 19,
@@ -55037,7 +55091,7 @@
               },
               "4": {
                 "tradeCount": 19,
-                "netProfit": -132.54000000000002
+                "netProfit": -132.54002
               },
               "5": {
                 "tradeCount": 19,
