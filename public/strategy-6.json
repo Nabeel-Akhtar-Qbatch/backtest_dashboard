@@ -1688,6 +1688,659 @@
             "name": "01",
             "data": {
               "2": {
+                "tradeCount": 22,
+                "netProfit": 3444.1
+              },
+              "3": {
+                "tradeCount": 22,
+                "netProfit": -851.7
+              },
+              "5": {
+                "tradeCount": 22,
+                "netProfit": -8219.8
+              },
+              "1.5": {
+                "tradeCount": 22,
+                "netProfit": 7773.85
+              }
+            }
+          },
+          {
+            "name": "02",
+            "data": {
+              "2": {
+                "tradeCount": 41,
+                "netProfit": 6984.3
+              },
+              "3": {
+                "tradeCount": 41,
+                "netProfit": 12277.9
+              },
+              "5": {
+                "tradeCount": 41,
+                "netProfit": 8499.7
+              },
+              "1.5": {
+                "tradeCount": 41,
+                "netProfit": 9829.45
+              }
+            }
+          },
+          {
+            "name": "03",
+            "data": {
+              "2": {
+                "tradeCount": 37,
+                "netProfit": 6532.4
+              },
+              "3": {
+                "tradeCount": 37,
+                "netProfit": 7717.9
+              },
+              "5": {
+                "tradeCount": 37,
+                "netProfit": -3385.8
+              },
+              "1.5": {
+                "tradeCount": 37,
+                "netProfit": 3790.55
+              }
+            }
+          },
+          {
+            "name": "04",
+            "data": {
+              "2": {
+                "tradeCount": 29,
+                "netProfit": 3008.1
+              },
+              "3": {
+                "tradeCount": 29,
+                "netProfit": 3321.5
+              },
+              "5": {
+                "tradeCount": 29,
+                "netProfit": -3477.6
+              },
+              "1.5": {
+                "tradeCount": 29,
+                "netProfit": 2134.9
+              }
+            }
+          },
+          {
+            "name": "05",
+            "data": {
+              "2": {
+                "tradeCount": 35,
+                "netProfit": 2076.6
+              },
+              "3": {
+                "tradeCount": 35,
+                "netProfit": 2502.8
+              },
+              "5": {
+                "tradeCount": 35,
+                "netProfit": 4408.5
+              },
+              "1.5": {
+                "tradeCount": 35,
+                "netProfit": 3659.45
+              }
+            }
+          },
+          {
+            "name": "06",
+            "data": {
+              "2": {
+                "tradeCount": 41,
+                "netProfit": -2244.8
+              },
+              "3": {
+                "tradeCount": 41,
+                "netProfit": -9761.3
+              },
+              "5": {
+                "tradeCount": 41,
+                "netProfit": -9371.3
+              },
+              "1.5": {
+                "tradeCount": 41,
+                "netProfit": 980.65
+              }
+            }
+          },
+          {
+            "name": "07",
+            "data": {
+              "2": {
+                "tradeCount": 30,
+                "netProfit": -322.9
+              },
+              "3": {
+                "tradeCount": 30,
+                "netProfit": -2857.4
+              },
+              "5": {
+                "tradeCount": 30,
+                "netProfit": -1233.6
+              },
+              "1.5": {
+                "tradeCount": 30,
+                "netProfit": 679.25
+              }
+            }
+          },
+          {
+            "name": "08",
+            "data": {
+              "2": {
+                "tradeCount": 24,
+                "netProfit": -498.2
+              },
+              "3": {
+                "tradeCount": 24,
+                "netProfit": 346.7
+              },
+              "5": {
+                "tradeCount": 24,
+                "netProfit": -1797.6
+              },
+              "1.5": {
+                "tradeCount": 24,
+                "netProfit": 1165.3
+              }
+            }
+          },
+          {
+            "name": "09",
+            "data": {
+              "2": {
+                "tradeCount": 43,
+                "netProfit": 8685.6
+              },
+              "3": {
+                "tradeCount": 43,
+                "netProfit": 5933.9
+              },
+              "5": {
+                "tradeCount": 43,
+                "netProfit": 15078
+              },
+              "1.5": {
+                "tradeCount": 43,
+                "netProfit": 7056.25
+              }
+            }
+          },
+          {
+            "name": "10",
+            "data": {
+              "2": {
+                "tradeCount": 34,
+                "netProfit": 2578.9
+              },
+              "3": {
+                "tradeCount": 34,
+                "netProfit": 4074.6
+              },
+              "5": {
+                "tradeCount": 34,
+                "netProfit": 2741.7
+              },
+              "1.5": {
+                "tradeCount": 34,
+                "netProfit": 211.3
+              }
+            }
+          },
+          {
+            "name": "11",
+            "data": {
+              "2": {
+                "tradeCount": 50,
+                "netProfit": 2730.5
+              },
+              "3": {
+                "tradeCount": 50,
+                "netProfit": -1141.5
+              },
+              "5": {
+                "tradeCount": 50,
+                "netProfit": -3338.5
+              },
+              "1.5": {
+                "tradeCount": 50,
+                "netProfit": 1805.85
+              }
+            }
+          },
+          {
+            "name": "12",
+            "data": {
+              "2": {
+                "tradeCount": 39,
+                "netProfit": 4400.4
+              },
+              "3": {
+                "tradeCount": 39,
+                "netProfit": 5271.8
+              },
+              "5": {
+                "tradeCount": 39,
+                "netProfit": 16038.1
+              },
+              "1.5": {
+                "tradeCount": 39,
+                "netProfit": 5749.65
+              }
+            }
+          },
+          {
+            "name": "13",
+            "data": {
+              "2": {
+                "tradeCount": 32,
+                "netProfit": -13.9
+              },
+              "3": {
+                "tradeCount": 32,
+                "netProfit": 4342.9
+              },
+              "5": {
+                "tradeCount": 32,
+                "netProfit": -248.2
+              },
+              "1.5": {
+                "tradeCount": 32,
+                "netProfit": 3707.85
+              }
+            }
+          },
+          {
+            "name": "14",
+            "data": {
+              "2": {
+                "tradeCount": 29,
+                "netProfit": 1909.2
+              },
+              "3": {
+                "tradeCount": 29,
+                "netProfit": 2701.9
+              },
+              "5": {
+                "tradeCount": 29,
+                "netProfit": -4144.7
+              },
+              "1.5": {
+                "tradeCount": 29,
+                "netProfit": 601.35
+              }
+            }
+          },
+          {
+            "name": "15",
+            "data": {
+              "2": {
+                "tradeCount": 40,
+                "netProfit": 123.8
+              },
+              "3": {
+                "tradeCount": 40,
+                "netProfit": 2442.1
+              },
+              "5": {
+                "tradeCount": 40,
+                "netProfit": 6117.1
+              },
+              "1.5": {
+                "tradeCount": 40,
+                "netProfit": 653.95
+              }
+            }
+          },
+          {
+            "name": "16",
+            "data": {
+              "2": {
+                "tradeCount": 34,
+                "netProfit": 9084.9
+              },
+              "3": {
+                "tradeCount": 34,
+                "netProfit": 7288
+              },
+              "5": {
+                "tradeCount": 34,
+                "netProfit": 18397.6
+              },
+              "1.5": {
+                "tradeCount": 34,
+                "netProfit": 7278.4
+              }
+            }
+          },
+          {
+            "name": "17",
+            "data": {
+              "2": {
+                "tradeCount": 36,
+                "netProfit": 7367.2
+              },
+              "3": {
+                "tradeCount": 36,
+                "netProfit": 9948.1
+              },
+              "5": {
+                "tradeCount": 36,
+                "netProfit": 5435
+              },
+              "1.5": {
+                "tradeCount": 36,
+                "netProfit": 8305.75
+              }
+            }
+          },
+          {
+            "name": "18",
+            "data": {
+              "2": {
+                "tradeCount": 39,
+                "netProfit": -735.6
+              },
+              "3": {
+                "tradeCount": 39,
+                "netProfit": 1905.5
+              },
+              "5": {
+                "tradeCount": 39,
+                "netProfit": 9810.2
+              },
+              "1.5": {
+                "tradeCount": 39,
+                "netProfit": -3052.5
+              }
+            }
+          },
+          {
+            "name": "19",
+            "data": {
+              "2": {
+                "tradeCount": 42,
+                "netProfit": 10046.3
+              },
+              "3": {
+                "tradeCount": 42,
+                "netProfit": 11322.9
+              },
+              "5": {
+                "tradeCount": 42,
+                "netProfit": 22386.6
+              },
+              "1.5": {
+                "tradeCount": 42,
+                "netProfit": 7747.3
+              }
+            }
+          },
+          {
+            "name": "20",
+            "data": {
+              "2": {
+                "tradeCount": 44,
+                "netProfit": -1913.7
+              },
+              "3": {
+                "tradeCount": 44,
+                "netProfit": -6279.1
+              },
+              "5": {
+                "tradeCount": 44,
+                "netProfit": -6595.7
+              },
+              "1.5": {
+                "tradeCount": 44,
+                "netProfit": 1923.65
+              }
+            }
+          },
+          {
+            "name": "21",
+            "data": {
+              "2": {
+                "tradeCount": 27,
+                "netProfit": 7226.4
+              },
+              "3": {
+                "tradeCount": 27,
+                "netProfit": 14160.5
+              },
+              "5": {
+                "tradeCount": 27,
+                "netProfit": 10393.3
+              },
+              "1.5": {
+                "tradeCount": 27,
+                "netProfit": 6104.95
+              }
+            }
+          },
+          {
+            "name": "22",
+            "data": {
+              "2": {
+                "tradeCount": 22,
+                "netProfit": -2628.8
+              },
+              "3": {
+                "tradeCount": 22,
+                "netProfit": -4286.2
+              },
+              "5": {
+                "tradeCount": 22,
+                "netProfit": -3769.3
+              },
+              "1.5": {
+                "tradeCount": 22,
+                "netProfit": -2283.65
+              }
+            }
+          },
+          {
+            "name": "23",
+            "data": {
+              "2": {
+                "tradeCount": 12,
+                "netProfit": -249.3
+              },
+              "3": {
+                "tradeCount": 12,
+                "netProfit": -409.1
+              },
+              "5": {
+                "tradeCount": 12,
+                "netProfit": 461.7
+              },
+              "1.5": {
+                "tradeCount": 12,
+                "netProfit": 1112.55
+              }
+            }
+          },
+          {
+            "name": "24",
+            "data": {
+              "2": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "1.5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              }
+            }
+          },
+          {
+            "name": "25",
+            "data": {
+              "2": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "1.5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              }
+            }
+          },
+          {
+            "name": "26",
+            "data": {
+              "2": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "1.5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              }
+            }
+          },
+          {
+            "name": "27",
+            "data": {
+              "2": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "1.5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              }
+            }
+          },
+          {
+            "name": "28",
+            "data": {
+              "2": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "1.5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              }
+            }
+          },
+          {
+            "name": "29",
+            "data": {
+              "2": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "1.5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              }
+            }
+          },
+          {
+            "name": "30",
+            "data": {
+              "2": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "1.5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              }
+            }
+          },
+          {
+            "name": "31",
+            "data": {
+              "2": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "1.5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              }
+            }
+          }
+        ],
+        "Short": [
+          {
+            "name": "01",
+            "data": {
+              "2": {
                 "tradeCount": 29,
                 "netProfit": 15325
               },
@@ -2171,12 +2824,20 @@
             "name": "24",
             "data": {
               "2": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
               },
               "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
               }
             }
           },
@@ -2184,12 +2845,20 @@
             "name": "25",
             "data": {
               "2": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
               },
               "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
               }
             }
           },
@@ -2197,12 +2866,20 @@
             "name": "26",
             "data": {
               "2": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
               },
               "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
               }
             }
           },
@@ -2210,12 +2887,20 @@
             "name": "27",
             "data": {
               "2": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
               },
               "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
               }
             }
           },
@@ -2223,12 +2908,20 @@
             "name": "28",
             "data": {
               "2": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
               },
               "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
               }
             }
           },
@@ -2236,12 +2929,20 @@
             "name": "29",
             "data": {
               "2": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
               },
               "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
               }
             }
           },
@@ -2249,12 +2950,20 @@
             "name": "30",
             "data": {
               "2": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
               },
               "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
               }
             }
           },
@@ -2262,417 +2971,20 @@
             "name": "31",
             "data": {
               "2": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
               },
               "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          }
-        ],
-        "Short": [
-          {
-            "name": "01",
-            "data": {
-              "2": {
-                "tradeCount": 112212,
-                "netProfit": 12354
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 24
-              }
-            }
-          },
-          {
-            "name": "02",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "03",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "04",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "05",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "06",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "07",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "08",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "09",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "10",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "11",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "12",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "13",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "14",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "15",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "16",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "17",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "18",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "19",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "20",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "21",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "22",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "23",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "24",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "25",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "26",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "27",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "28",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "29",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "30",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "31",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
               }
             }
           }
@@ -4799,6 +5111,659 @@
             "name": "01",
             "data": {
               "2": {
+                "tradeCount": 46,
+                "netProfit": 6239.51
+              },
+              "3": {
+                "tradeCount": 46,
+                "netProfit": 16460.75
+              },
+              "5": {
+                "tradeCount": 46,
+                "netProfit": 11743.4
+              },
+              "1.5": {
+                "tradeCount": 46,
+                "netProfit": 11313.22
+              }
+            }
+          },
+          {
+            "name": "02",
+            "data": {
+              "2": {
+                "tradeCount": 54,
+                "netProfit": 16153.93
+              },
+              "3": {
+                "tradeCount": 54,
+                "netProfit": 4355.48
+              },
+              "5": {
+                "tradeCount": 54,
+                "netProfit": -1371.75
+              },
+              "1.5": {
+                "tradeCount": 54,
+                "netProfit": 13954.35
+              }
+            }
+          },
+          {
+            "name": "03",
+            "data": {
+              "2": {
+                "tradeCount": 55,
+                "netProfit": 18588.89
+              },
+              "3": {
+                "tradeCount": 55,
+                "netProfit": 5541.2
+              },
+              "5": {
+                "tradeCount": 55,
+                "netProfit": 7344.53
+              },
+              "1.5": {
+                "tradeCount": 55,
+                "netProfit": 13873.36
+              }
+            }
+          },
+          {
+            "name": "04",
+            "data": {
+              "2": {
+                "tradeCount": 47,
+                "netProfit": 9012.51
+              },
+              "3": {
+                "tradeCount": 47,
+                "netProfit": -6916.64
+              },
+              "5": {
+                "tradeCount": 47,
+                "netProfit": -278.2
+              },
+              "1.5": {
+                "tradeCount": 47,
+                "netProfit": 7353.84
+              }
+            }
+          },
+          {
+            "name": "05",
+            "data": {
+              "2": {
+                "tradeCount": 57,
+                "netProfit": 3878.52
+              },
+              "3": {
+                "tradeCount": 57,
+                "netProfit": 1334.96
+              },
+              "5": {
+                "tradeCount": 57,
+                "netProfit": 1347.01
+              },
+              "1.5": {
+                "tradeCount": 57,
+                "netProfit": 9212.25
+              }
+            }
+          },
+          {
+            "name": "06",
+            "data": {
+              "2": {
+                "tradeCount": 59,
+                "netProfit": 14689.26
+              },
+              "3": {
+                "tradeCount": 59,
+                "netProfit": 15484.27
+              },
+              "5": {
+                "tradeCount": 59,
+                "netProfit": 25488.35
+              },
+              "1.5": {
+                "tradeCount": 59,
+                "netProfit": 17971.93
+              }
+            }
+          },
+          {
+            "name": "07",
+            "data": {
+              "2": {
+                "tradeCount": 58,
+                "netProfit": 11414.49
+              },
+              "3": {
+                "tradeCount": 58,
+                "netProfit": -2474.9
+              },
+              "5": {
+                "tradeCount": 58,
+                "netProfit": 1257.62
+              },
+              "1.5": {
+                "tradeCount": 58,
+                "netProfit": 5076.34
+              }
+            }
+          },
+          {
+            "name": "08",
+            "data": {
+              "2": {
+                "tradeCount": 50,
+                "netProfit": 6482.45
+              },
+              "3": {
+                "tradeCount": 50,
+                "netProfit": -4965.73
+              },
+              "5": {
+                "tradeCount": 50,
+                "netProfit": -3944.87
+              },
+              "1.5": {
+                "tradeCount": 50,
+                "netProfit": 7673
+              }
+            }
+          },
+          {
+            "name": "09",
+            "data": {
+              "2": {
+                "tradeCount": 56,
+                "netProfit": 3740.17
+              },
+              "3": {
+                "tradeCount": 56,
+                "netProfit": -3399.13
+              },
+              "5": {
+                "tradeCount": 56,
+                "netProfit": -12538.27
+              },
+              "1.5": {
+                "tradeCount": 56,
+                "netProfit": 2121.28
+              }
+            }
+          },
+          {
+            "name": "10",
+            "data": {
+              "2": {
+                "tradeCount": 70,
+                "netProfit": 4914.61
+              },
+              "3": {
+                "tradeCount": 70,
+                "netProfit": 10358.91
+              },
+              "5": {
+                "tradeCount": 70,
+                "netProfit": -9599.25
+              },
+              "1.5": {
+                "tradeCount": 70,
+                "netProfit": 4693.56
+              }
+            }
+          },
+          {
+            "name": "11",
+            "data": {
+              "2": {
+                "tradeCount": 72,
+                "netProfit": 721.12
+              },
+              "3": {
+                "tradeCount": 72,
+                "netProfit": 7356.89
+              },
+              "5": {
+                "tradeCount": 72,
+                "netProfit": 18287.38
+              },
+              "1.5": {
+                "tradeCount": 72,
+                "netProfit": 2022.03
+              }
+            }
+          },
+          {
+            "name": "12",
+            "data": {
+              "2": {
+                "tradeCount": 45,
+                "netProfit": -1500.61
+              },
+              "3": {
+                "tradeCount": 45,
+                "netProfit": -7585.93
+              },
+              "5": {
+                "tradeCount": 45,
+                "netProfit": -13582.92
+              },
+              "1.5": {
+                "tradeCount": 45,
+                "netProfit": -923.01
+              }
+            }
+          },
+          {
+            "name": "13",
+            "data": {
+              "2": {
+                "tradeCount": 63,
+                "netProfit": 5663.84
+              },
+              "3": {
+                "tradeCount": 63,
+                "netProfit": 6925.5
+              },
+              "5": {
+                "tradeCount": 63,
+                "netProfit": 6363.71
+              },
+              "1.5": {
+                "tradeCount": 63,
+                "netProfit": 7599.42
+              }
+            }
+          },
+          {
+            "name": "14",
+            "data": {
+              "2": {
+                "tradeCount": 48,
+                "netProfit": 18816.49
+              },
+              "3": {
+                "tradeCount": 48,
+                "netProfit": 23780.01
+              },
+              "5": {
+                "tradeCount": 48,
+                "netProfit": 19970.78
+              },
+              "1.5": {
+                "tradeCount": 48,
+                "netProfit": 12726.98
+              }
+            }
+          },
+          {
+            "name": "15",
+            "data": {
+              "2": {
+                "tradeCount": 55,
+                "netProfit": 18372.46
+              },
+              "3": {
+                "tradeCount": 55,
+                "netProfit": 14772.54
+              },
+              "5": {
+                "tradeCount": 55,
+                "netProfit": 4982.69
+              },
+              "1.5": {
+                "tradeCount": 55,
+                "netProfit": 16319.45
+              }
+            }
+          },
+          {
+            "name": "16",
+            "data": {
+              "2": {
+                "tradeCount": 53,
+                "netProfit": 6843.3
+              },
+              "3": {
+                "tradeCount": 53,
+                "netProfit": 3902.09
+              },
+              "5": {
+                "tradeCount": 53,
+                "netProfit": -9160.97
+              },
+              "1.5": {
+                "tradeCount": 53,
+                "netProfit": 6564.97
+              }
+            }
+          },
+          {
+            "name": "17",
+            "data": {
+              "2": {
+                "tradeCount": 61,
+                "netProfit": 10331.57
+              },
+              "3": {
+                "tradeCount": 61,
+                "netProfit": 6893.74
+              },
+              "5": {
+                "tradeCount": 61,
+                "netProfit": 16269.75
+              },
+              "1.5": {
+                "tradeCount": 61,
+                "netProfit": 10838.83
+              }
+            }
+          },
+          {
+            "name": "18",
+            "data": {
+              "2": {
+                "tradeCount": 42,
+                "netProfit": 10665.32
+              },
+              "3": {
+                "tradeCount": 42,
+                "netProfit": 9057.59
+              },
+              "5": {
+                "tradeCount": 42,
+                "netProfit": 13499.44
+              },
+              "1.5": {
+                "tradeCount": 42,
+                "netProfit": 7614.19
+              }
+            }
+          },
+          {
+            "name": "19",
+            "data": {
+              "2": {
+                "tradeCount": 66,
+                "netProfit": 3267.99
+              },
+              "3": {
+                "tradeCount": 66,
+                "netProfit": 9496.43
+              },
+              "5": {
+                "tradeCount": 66,
+                "netProfit": 2752.52
+              },
+              "1.5": {
+                "tradeCount": 66,
+                "netProfit": 5380.73
+              }
+            }
+          },
+          {
+            "name": "20",
+            "data": {
+              "2": {
+                "tradeCount": 55,
+                "netProfit": 8279.01
+              },
+              "3": {
+                "tradeCount": 55,
+                "netProfit": 3784.53
+              },
+              "5": {
+                "tradeCount": 55,
+                "netProfit": -353.41
+              },
+              "1.5": {
+                "tradeCount": 55,
+                "netProfit": 8569.55
+              }
+            }
+          },
+          {
+            "name": "21",
+            "data": {
+              "2": {
+                "tradeCount": 51,
+                "netProfit": -7943.12
+              },
+              "3": {
+                "tradeCount": 51,
+                "netProfit": -8198.53
+              },
+              "5": {
+                "tradeCount": 51,
+                "netProfit": -7151.35
+              },
+              "1.5": {
+                "tradeCount": 51,
+                "netProfit": -1050.36
+              }
+            }
+          },
+          {
+            "name": "22",
+            "data": {
+              "2": {
+                "tradeCount": 34,
+                "netProfit": 1080.13
+              },
+              "3": {
+                "tradeCount": 34,
+                "netProfit": -4663.36
+              },
+              "5": {
+                "tradeCount": 34,
+                "netProfit": -9514.3
+              },
+              "1.5": {
+                "tradeCount": 34,
+                "netProfit": 1287.78
+              }
+            }
+          },
+          {
+            "name": "23",
+            "data": {
+              "2": {
+                "tradeCount": 15,
+                "netProfit": 11534.81
+              },
+              "3": {
+                "tradeCount": 15,
+                "netProfit": 13560.97
+              },
+              "5": {
+                "tradeCount": 15,
+                "netProfit": 988.19
+              },
+              "1.5": {
+                "tradeCount": 15,
+                "netProfit": 8003.74
+              }
+            }
+          },
+          {
+            "name": "24",
+            "data": {
+              "2": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "1.5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              }
+            }
+          },
+          {
+            "name": "25",
+            "data": {
+              "2": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "1.5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              }
+            }
+          },
+          {
+            "name": "26",
+            "data": {
+              "2": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "1.5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              }
+            }
+          },
+          {
+            "name": "27",
+            "data": {
+              "2": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "1.5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              }
+            }
+          },
+          {
+            "name": "28",
+            "data": {
+              "2": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "1.5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              }
+            }
+          },
+          {
+            "name": "29",
+            "data": {
+              "2": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "1.5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              }
+            }
+          },
+          {
+            "name": "30",
+            "data": {
+              "2": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "1.5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              }
+            }
+          },
+          {
+            "name": "31",
+            "data": {
+              "2": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "1.5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              }
+            }
+          }
+        ],
+        "Short": [
+          {
+            "name": "01",
+            "data": {
+              "2": {
                 "tradeCount": 38,
                 "netProfit": 21416.14
               },
@@ -5282,12 +6247,20 @@
             "name": "24",
             "data": {
               "2": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
               },
               "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
               }
             }
           },
@@ -5295,12 +6268,20 @@
             "name": "25",
             "data": {
               "2": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
               },
               "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
               }
             }
           },
@@ -5308,12 +6289,20 @@
             "name": "26",
             "data": {
               "2": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
               },
               "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
               }
             }
           },
@@ -5321,12 +6310,20 @@
             "name": "27",
             "data": {
               "2": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
               },
               "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
               }
             }
           },
@@ -5334,12 +6331,20 @@
             "name": "28",
             "data": {
               "2": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
               },
               "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
               }
             }
           },
@@ -5347,12 +6352,20 @@
             "name": "29",
             "data": {
               "2": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
               },
               "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
               }
             }
           },
@@ -5360,12 +6373,20 @@
             "name": "30",
             "data": {
               "2": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
               },
               "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
               }
             }
           },
@@ -5373,417 +6394,20 @@
             "name": "31",
             "data": {
               "2": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
               },
               "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          }
-        ],
-        "Short": [
-          {
-            "name": "01",
-            "data": {
-              "2": {
-                "tradeCount": 112212,
-                "netProfit": 12354
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 24
-              }
-            }
-          },
-          {
-            "name": "02",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "03",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "04",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "05",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "06",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "07",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "08",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "09",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "10",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "11",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "12",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "13",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "14",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "15",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "16",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "17",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "18",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "19",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "20",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "21",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "22",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "23",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "24",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "25",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "26",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "27",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "28",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "29",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "30",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "31",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
               }
             }
           }
@@ -7910,6 +8534,659 @@
             "name": "01",
             "data": {
               "2": {
+                "tradeCount": 54,
+                "netProfit": 11491.2
+              },
+              "3": {
+                "tradeCount": 54,
+                "netProfit": 11485.2
+              },
+              "5": {
+                "tradeCount": 54,
+                "netProfit": 15825.7
+              },
+              "1.5": {
+                "tradeCount": 54,
+                "netProfit": 13423.8
+              }
+            }
+          },
+          {
+            "name": "02",
+            "data": {
+              "2": {
+                "tradeCount": 56,
+                "netProfit": 17891.2
+              },
+              "3": {
+                "tradeCount": 56,
+                "netProfit": 24484.1
+              },
+              "5": {
+                "tradeCount": 56,
+                "netProfit": 36604.1
+              },
+              "1.5": {
+                "tradeCount": 56,
+                "netProfit": 12699.75
+              }
+            }
+          },
+          {
+            "name": "03",
+            "data": {
+              "2": {
+                "tradeCount": 47,
+                "netProfit": -1129
+              },
+              "3": {
+                "tradeCount": 47,
+                "netProfit": 640.1
+              },
+              "5": {
+                "tradeCount": 47,
+                "netProfit": 5828.3
+              },
+              "1.5": {
+                "tradeCount": 47,
+                "netProfit": 6740.55
+              }
+            }
+          },
+          {
+            "name": "04",
+            "data": {
+              "2": {
+                "tradeCount": 48,
+                "netProfit": 6986.4
+              },
+              "3": {
+                "tradeCount": 48,
+                "netProfit": 3912.5
+              },
+              "5": {
+                "tradeCount": 48,
+                "netProfit": -5043.5
+              },
+              "1.5": {
+                "tradeCount": 48,
+                "netProfit": 5662.4
+              }
+            }
+          },
+          {
+            "name": "05",
+            "data": {
+              "2": {
+                "tradeCount": 57,
+                "netProfit": 17967.1
+              },
+              "3": {
+                "tradeCount": 57,
+                "netProfit": 18579.6
+              },
+              "5": {
+                "tradeCount": 57,
+                "netProfit": 21315.8
+              },
+              "1.5": {
+                "tradeCount": 57,
+                "netProfit": 12364.7
+              }
+            }
+          },
+          {
+            "name": "06",
+            "data": {
+              "2": {
+                "tradeCount": 54,
+                "netProfit": 452.9
+              },
+              "3": {
+                "tradeCount": 54,
+                "netProfit": 4189.1
+              },
+              "5": {
+                "tradeCount": 54,
+                "netProfit": 3398.7
+              },
+              "1.5": {
+                "tradeCount": 54,
+                "netProfit": 593.1
+              }
+            }
+          },
+          {
+            "name": "07",
+            "data": {
+              "2": {
+                "tradeCount": 57,
+                "netProfit": -4006.4
+              },
+              "3": {
+                "tradeCount": 57,
+                "netProfit": -459.7
+              },
+              "5": {
+                "tradeCount": 57,
+                "netProfit": 4117.8
+              },
+              "1.5": {
+                "tradeCount": 57,
+                "netProfit": 3327.6
+              }
+            }
+          },
+          {
+            "name": "08",
+            "data": {
+              "2": {
+                "tradeCount": 57,
+                "netProfit": 13334.9
+              },
+              "3": {
+                "tradeCount": 57,
+                "netProfit": 6982.9
+              },
+              "5": {
+                "tradeCount": 57,
+                "netProfit": 2264.8
+              },
+              "1.5": {
+                "tradeCount": 57,
+                "netProfit": 10855.05
+              }
+            }
+          },
+          {
+            "name": "09",
+            "data": {
+              "2": {
+                "tradeCount": 65,
+                "netProfit": 25487.9
+              },
+              "3": {
+                "tradeCount": 65,
+                "netProfit": 24985
+              },
+              "5": {
+                "tradeCount": 65,
+                "netProfit": 31308.7
+              },
+              "1.5": {
+                "tradeCount": 65,
+                "netProfit": 16345.35
+              }
+            }
+          },
+          {
+            "name": "10",
+            "data": {
+              "2": {
+                "tradeCount": 46,
+                "netProfit": 13583.3
+              },
+              "3": {
+                "tradeCount": 46,
+                "netProfit": 11134.7
+              },
+              "5": {
+                "tradeCount": 46,
+                "netProfit": 21781.1
+              },
+              "1.5": {
+                "tradeCount": 46,
+                "netProfit": 10713.1
+              }
+            }
+          },
+          {
+            "name": "11",
+            "data": {
+              "2": {
+                "tradeCount": 68,
+                "netProfit": 30021.3
+              },
+              "3": {
+                "tradeCount": 68,
+                "netProfit": 27501.4
+              },
+              "5": {
+                "tradeCount": 68,
+                "netProfit": 54297.8
+              },
+              "1.5": {
+                "tradeCount": 68,
+                "netProfit": 27127.25
+              }
+            }
+          },
+          {
+            "name": "12",
+            "data": {
+              "2": {
+                "tradeCount": 62,
+                "netProfit": 12041.8
+              },
+              "3": {
+                "tradeCount": 62,
+                "netProfit": 8491.8
+              },
+              "5": {
+                "tradeCount": 62,
+                "netProfit": 13445.5
+              },
+              "1.5": {
+                "tradeCount": 62,
+                "netProfit": 5272.25
+              }
+            }
+          },
+          {
+            "name": "13",
+            "data": {
+              "2": {
+                "tradeCount": 50,
+                "netProfit": 11439.3
+              },
+              "3": {
+                "tradeCount": 50,
+                "netProfit": 16847
+              },
+              "5": {
+                "tradeCount": 50,
+                "netProfit": 29554.5
+              },
+              "1.5": {
+                "tradeCount": 50,
+                "netProfit": 11532.05
+              }
+            }
+          },
+          {
+            "name": "14",
+            "data": {
+              "2": {
+                "tradeCount": 54,
+                "netProfit": 32697
+              },
+              "3": {
+                "tradeCount": 54,
+                "netProfit": 31323.7
+              },
+              "5": {
+                "tradeCount": 54,
+                "netProfit": 49450.5
+              },
+              "1.5": {
+                "tradeCount": 54,
+                "netProfit": 25960.8
+              }
+            }
+          },
+          {
+            "name": "15",
+            "data": {
+              "2": {
+                "tradeCount": 54,
+                "netProfit": -7152.7
+              },
+              "3": {
+                "tradeCount": 54,
+                "netProfit": -10158.5
+              },
+              "5": {
+                "tradeCount": 54,
+                "netProfit": -18920.2
+              },
+              "1.5": {
+                "tradeCount": 54,
+                "netProfit": -1959.7
+              }
+            }
+          },
+          {
+            "name": "16",
+            "data": {
+              "2": {
+                "tradeCount": 56,
+                "netProfit": 10664.4
+              },
+              "3": {
+                "tradeCount": 56,
+                "netProfit": 22184.6
+              },
+              "5": {
+                "tradeCount": 56,
+                "netProfit": 36194.5
+              },
+              "1.5": {
+                "tradeCount": 56,
+                "netProfit": 12829.05
+              }
+            }
+          },
+          {
+            "name": "17",
+            "data": {
+              "2": {
+                "tradeCount": 52,
+                "netProfit": 9333.7
+              },
+              "3": {
+                "tradeCount": 52,
+                "netProfit": 10992.5
+              },
+              "5": {
+                "tradeCount": 52,
+                "netProfit": 7999.1
+              },
+              "1.5": {
+                "tradeCount": 52,
+                "netProfit": 3506.5
+              }
+            }
+          },
+          {
+            "name": "18",
+            "data": {
+              "2": {
+                "tradeCount": 50,
+                "netProfit": 6740
+              },
+              "3": {
+                "tradeCount": 50,
+                "netProfit": 8257.8
+              },
+              "5": {
+                "tradeCount": 50,
+                "netProfit": -12096
+              },
+              "1.5": {
+                "tradeCount": 50,
+                "netProfit": 10622.35
+              }
+            }
+          },
+          {
+            "name": "19",
+            "data": {
+              "2": {
+                "tradeCount": 60,
+                "netProfit": 10173.1
+              },
+              "3": {
+                "tradeCount": 60,
+                "netProfit": 14906.6
+              },
+              "5": {
+                "tradeCount": 60,
+                "netProfit": 24376
+              },
+              "1.5": {
+                "tradeCount": 60,
+                "netProfit": 12210.35
+              }
+            }
+          },
+          {
+            "name": "20",
+            "data": {
+              "2": {
+                "tradeCount": 55,
+                "netProfit": 22053.8
+              },
+              "3": {
+                "tradeCount": 55,
+                "netProfit": 26403.8
+              },
+              "5": {
+                "tradeCount": 55,
+                "netProfit": 22349.7
+              },
+              "1.5": {
+                "tradeCount": 55,
+                "netProfit": 18637.85
+              }
+            }
+          },
+          {
+            "name": "21",
+            "data": {
+              "2": {
+                "tradeCount": 51,
+                "netProfit": 28816.7
+              },
+              "3": {
+                "tradeCount": 51,
+                "netProfit": 24596.8
+              },
+              "5": {
+                "tradeCount": 51,
+                "netProfit": 34724
+              },
+              "1.5": {
+                "tradeCount": 51,
+                "netProfit": 18306.25
+              }
+            }
+          },
+          {
+            "name": "22",
+            "data": {
+              "2": {
+                "tradeCount": 31,
+                "netProfit": 17127.4
+              },
+              "3": {
+                "tradeCount": 31,
+                "netProfit": 14276.2
+              },
+              "5": {
+                "tradeCount": 31,
+                "netProfit": 10241.4
+              },
+              "1.5": {
+                "tradeCount": 31,
+                "netProfit": 13626.85
+              }
+            }
+          },
+          {
+            "name": "23",
+            "data": {
+              "2": {
+                "tradeCount": 14,
+                "netProfit": -513.4
+              },
+              "3": {
+                "tradeCount": 14,
+                "netProfit": -6899.7
+              },
+              "5": {
+                "tradeCount": 14,
+                "netProfit": -7906.1
+              },
+              "1.5": {
+                "tradeCount": 14,
+                "netProfit": -2385.4
+              }
+            }
+          },
+          {
+            "name": "24",
+            "data": {
+              "2": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "1.5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              }
+            }
+          },
+          {
+            "name": "25",
+            "data": {
+              "2": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "1.5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              }
+            }
+          },
+          {
+            "name": "26",
+            "data": {
+              "2": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "1.5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              }
+            }
+          },
+          {
+            "name": "27",
+            "data": {
+              "2": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "1.5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              }
+            }
+          },
+          {
+            "name": "28",
+            "data": {
+              "2": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "1.5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              }
+            }
+          },
+          {
+            "name": "29",
+            "data": {
+              "2": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "1.5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              }
+            }
+          },
+          {
+            "name": "30",
+            "data": {
+              "2": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "1.5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              }
+            }
+          },
+          {
+            "name": "31",
+            "data": {
+              "2": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "1.5": {
+                "tradeCount": 0,
+                "netProfit": 0
+              }
+            }
+          }
+        ],
+        "Short": [
+          {
+            "name": "01",
+            "data": {
+              "2": {
                 "tradeCount": 29,
                 "netProfit": 14441.8
               },
@@ -8393,12 +9670,20 @@
             "name": "24",
             "data": {
               "2": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
               },
               "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
               }
             }
           },
@@ -8406,12 +9691,20 @@
             "name": "25",
             "data": {
               "2": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
               },
               "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
               }
             }
           },
@@ -8419,12 +9712,20 @@
             "name": "26",
             "data": {
               "2": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
               },
               "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
               }
             }
           },
@@ -8432,12 +9733,20 @@
             "name": "27",
             "data": {
               "2": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
               },
               "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
               }
             }
           },
@@ -8445,12 +9754,20 @@
             "name": "28",
             "data": {
               "2": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
               },
               "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
               }
             }
           },
@@ -8458,12 +9775,20 @@
             "name": "29",
             "data": {
               "2": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
               },
               "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
               }
             }
           },
@@ -8471,12 +9796,20 @@
             "name": "30",
             "data": {
               "2": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
               },
               "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
               }
             }
           },
@@ -8484,417 +9817,20 @@
             "name": "31",
             "data": {
               "2": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "3": {
+                "tradeCount": 0,
+                "netProfit": 0
+              },
+              "5": {
+                "tradeCount": 0,
+                "netProfit": 0
               },
               "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          }
-        ],
-        "Short": [
-          {
-            "name": "01",
-            "data": {
-              "2": {
-                "tradeCount": 112212,
-                "netProfit": 12354
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 24
-              }
-            }
-          },
-          {
-            "name": "02",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "03",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "04",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "05",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "06",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "07",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "08",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "09",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "10",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "11",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "12",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "13",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "14",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "15",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "16",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "17",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "18",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "19",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "20",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "21",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "22",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "23",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "24",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "25",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "26",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "27",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "28",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "29",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "30",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
-              }
-            }
-          },
-          {
-            "name": "31",
-            "data": {
-              "2": {
-                "tradeCount": 12,
-                "netProfit": 12
-              },
-              "1.5": {
-                "tradeCount": 12,
-                "netProfit": 12
+                "tradeCount": 0,
+                "netProfit": 0
               }
             }
           }
